@@ -20,7 +20,7 @@ main{max-width:850px;margin:auto;padding:14px}.card{background:#fff;border-radiu
 .overlay{position:fixed;inset:0;background:#000e;display:none;align-items:center;justify-content:center;z-index:50;padding:10px}
 .overlay.show{display:flex}.overlay img{max-width:100%;max-height:100%;object-fit:contain}
 .close{position:absolute;right:14px;top:14px;border-radius:50%;width:42px;height:42px;font-size:22px}
-.explanation-figure{margin-top:14px}.question-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-top:12px}.preview-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;max-height:55vh;overflow:auto;margin-top:8px}.preview-item{display:flex;gap:9px;align-items:flex-start;text-align:left;padding:10px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;cursor:pointer}.preview-item:hover{background:#f3f4f6}.preview-num{min-width:34px;height:34px;border-radius:8px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;font-weight:800}.preview-text{font-size:13px;line-height:1.45;color:#374151}.preview-item.current{border:2px solid #111827;padding:9px}.preview-item.done{border-color:#22c55e}.preview-item.wrong{border-color:#ef4444;background:#fff7f7}.preview-item.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}@media(max-width:700px){.preview-grid{grid-template-columns:1fr}}.qnum-btn{padding:10px 4px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;font-weight:700}.qnum-btn.current{background:#111827;color:#fff}.qnum-btn.done{border-color:#22c55e}.qnum-btn.wrong{border-color:#ef4444;background:#fee2e2}.qnum-btn.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}.list-card{margin-top:12px;padding:14px;background:#f9fafb;border-radius:14px}.list-head{display:flex;justify-content:space-between;align-items:center;gap:8px}.list-note{font-size:12px;color:#6b7280;margin-top:6px}.explanation-figure img{max-width:100%;height:auto;display:block;margin:0 auto;cursor:zoom-in}.year-tabs{display:flex;gap:6px;overflow-x:auto;margin:12px 0}.year-tab{background:#f3f4f6;min-width:58px}.year-tab.active{background:#111827;color:#fff;font-weight:800}</style></head><body>
+.retry-btn{width:100%;margin-top:12px;background:#f3f4f6;color:#111827;border:1px solid #d1d5db;font-weight:800}.explanation-figure{margin-top:14px}.question-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-top:12px}.preview-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;max-height:55vh;overflow:auto;margin-top:8px}.preview-item{display:flex;gap:9px;align-items:flex-start;text-align:left;padding:10px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;cursor:pointer}.preview-item:hover{background:#f3f4f6}.preview-num{min-width:34px;height:34px;border-radius:8px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;font-weight:800}.preview-text{font-size:13px;line-height:1.45;color:#374151}.preview-item.current{border:2px solid #111827;padding:9px}.preview-item.done{border-color:#22c55e}.preview-item.wrong{border-color:#ef4444;background:#fff7f7}.preview-item.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}@media(max-width:700px){.preview-grid{grid-template-columns:1fr}}.qnum-btn{padding:10px 4px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;font-weight:700}.qnum-btn.current{background:#111827;color:#fff}.qnum-btn.done{border-color:#22c55e}.qnum-btn.wrong{border-color:#ef4444;background:#fee2e2}.qnum-btn.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}.list-card{margin-top:12px;padding:14px;background:#f9fafb;border-radius:14px}.list-head{display:flex;justify-content:space-between;align-items:center;gap:8px}.list-note{font-size:12px;color:#6b7280;margin-top:6px}.explanation-figure img{max-width:100%;height:auto;display:block;margin:0 auto;cursor:zoom-in}.year-tabs{display:flex;gap:6px;overflow-x:auto;margin:12px 0}.year-tab{background:#f3f4f6;min-width:58px}.year-tab.active{background:#111827;color:#fff;font-weight:800}</style></head><body>
 <header><div class="title">🦷 치과보존과 Question Bank</div>
 <div class="toolbar"><button onclick="goHome()">🏠 첫 화면</button><button onclick="openGoto()">🔢 번호 이동</button><button onclick="setMode('all')">전체</button><button onclick="setMode('wrong')">❌ 오답</button><button onclick="setMode('bookmark')">🔖 북마크</button><button onclick="setMode('stats')">📊 통계</button><button onclick="openReset()">⚙️ 초기화</button></div></header>
 <main id="app"></main>
@@ -125,6 +125,14 @@ function goToNumber(){
   if(target<0){alert(`${n}번 문제는 현재 ${modeName(mode)} 목록에 없습니다.\n전체 문제에서 이동하려면 '전체'를 선택해주세요.`);return}
   idx=target;positions[mode]=idx;closeGoto();save();render();
 }
+function startAll(kind){
+  save();
+  const A=arr("all");
+  mode="all";
+  idx=kind==="last" && A.length ? Math.max(0,Math.min(A.length-1,Number.isInteger(positions.all)?positions.all:0)) : 0;
+  positions.all=idx;
+  render();
+}
 function setMode(m){
   save();
   if(m==="stats"){mode="stats";idx=0;render();return}
@@ -143,10 +151,10 @@ function confirmModeChange(kind){
 function cancelModeChange(){pendingMode=null;pendingCurrentId=null;document.getElementById("modeModal").classList.remove("show")}
 function openReset(){document.getElementById("resetModal").classList.add("show")}
 function closeReset(){document.getElementById("resetModal").classList.remove("show")}
-function resetWrong(){if(!confirm('${YEAR}년 오답 목록을 초기화할까요?'))return;Object.keys(answers).forEach(id=>{if(answers[id]?.lastCorrect===false)delete answers[id]});wrongIds=[];positions.wrong=0;if(mode==="wrong")idx=0;closeReset();save();render()}
-function resetBooks(){if(!confirm('${YEAR}년 북마크 목록을 모두 초기화할까요?'))return;books={};positions.bookmark=0;if(mode==="bookmark")idx=0;closeReset();save();render()}
-function resetStudy(){if(!confirm('${YEAR}년 문제 풀이기록을 초기화할까요?\n북마크와 오답목록은 유지됩니다.'))return;answers={};positions={};idx=0;mode="all";closeReset();save();render()}
-function resetAll(){if(!confirm('${YEAR}년 학습기록을 전체 초기화할까요?'))return;answers={};books={};wrongIds=[];positions={};idx=0;mode="all";closeReset();save();render()}
+function resetWrong(){if(!confirm("${YEAR}년 오답 목록을 초기화할까요?"))return;Object.keys(answers).forEach(id=>{if(answers[id]?.lastCorrect===false)delete answers[id]});wrongIds=[];positions.wrong=0;if(mode==="wrong")idx=0;closeReset();save();render()}
+function resetBooks(){if(!confirm("${YEAR}년 북마크 목록을 모두 초기화할까요?"))return;books={};positions.bookmark=0;if(mode==="bookmark")idx=0;closeReset();save();render()}
+function resetStudy(){if(!confirm("${YEAR}년 문제 풀이기록을 초기화할까요?\n북마크와 오답목록은 유지됩니다."))return;answers={};positions={};idx=0;mode="all";closeReset();save();render()}
+function resetAll(){if(!confirm("${YEAR}년 학습기록을 전체 초기화할까요?"))return;answers={};books={};wrongIds=[];positions={};idx=0;mode="all";closeReset();save();render()}
 function zoom(s){document.getElementById("zi").src=s;document.getElementById("ov").classList.add("show")}
 function closeZoom(){document.getElementById("ov").classList.remove("show")}
 function revealAnswer(id){answers[id]={...(answers[id]||{}),revealed:true};save();render()}
@@ -156,6 +164,13 @@ function choose(id,n){
   answers[id]={selected:n,lastCorrect:ok,wrongCount:(answers[id]?.wrongCount||0)+(ok?0:1),lastDate:new Date().toISOString()};
   if(!ok&&!wrongIds.includes(id))wrongIds.push(id);
   save();render();
+}
+function resetQuestion(id){
+  if(!answers[id] && !wrongIds.includes(id))return;
+  delete answers[id];
+  wrongIds=wrongIds.filter(x=>x!==id);
+  save();
+  render();
 }
 function toggleBook(id){books[id]=!books[id];save();render()}
 function move(d){const A=arr();idx=Math.max(0,Math.min(A.length-1,idx+d));save();render()}
@@ -171,7 +186,7 @@ function home(){
     <p style="color:#6b7280">${YEAR}년 문제 · 총 ${total}문제</p>
     <div class="stats"><div class="stat">푼 문제 ${st.attempted}</div><div class="stat">⭕ 정답 ${st.correct}</div><div class="stat">❌ 오답 ${st.wrong}</div><div class="stat">🔖 북마크 ${st.book}</div></div>
     <div class="nav" style="flex-direction:column;margin-top:18px">
-      <button onclick="setMode('all')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 전체 문제</button>
+      <button onclick="startAll('start')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 처음부터 풀기</button><button onclick="startAll('last')">▶️ ${YEAR}년 마지막 위치에서 풀기</button>
       <button onclick="setMode('wrong')">❌ ${YEAR}년 오답 문제</button>
       <button onclick="setMode('bookmark')">🔖 ${YEAR}년 북마크 문제</button>
       <button onclick="setMode('stats')">📊 학습 통계</button>
@@ -197,7 +212,7 @@ function render(){
   const result=answerOnly&&st?.revealed?`<div style="margin-top:12px;font-weight:800">${q.answer_display?`⭕ 답: ${esc(q.answer_display)}`:'❌ 정답 미복원'}</div>`:(st&&!answerOnly?`<div style="margin-top:12px;font-weight:800">${a.length&&a.includes(st.selected)?"⭕ 정답":"❌ 오답"} · ${a.length?`정답: ${a.join(", ")}`:"정답 미복원"}</div>`:"");
   const fig=q.images?.length?`<div class="figure">${q.images.map(src=>`<img src="${src}" onclick="zoom(this.src)">`).join('')}</div>`:"";
   const efig=q.explanationImages?.length?q.explanationImages.map(src=>`<div class="figure explanation-figure"><img src="${src}" onclick="zoom(this.src)"></div>`).join(""):"";
-  document.getElementById("app").innerHTML=`<div class="card"><div class="meta">${YEAR}년 · 제 ${q.number}번 · ${idx+1} / ${A.length} <button class="book ${marked?'active':''}" title="북마크" onclick="toggleBook('${q.id}');event.stopPropagation()">🔖</button></div><div class="q">${esc(q.question||"(원문에서 문제 문장이 확인되지 않습니다.)")}</div>${fig}<div>${cs}</div>${result}${st?`<div class="explain"><b>해설</b><br>${esc(q.explanation||"원문 해설 없음")}${efig}</div>`:""}<div class="nav"><button onclick="move(-1)">← 이전</button><button onclick="move(1)">다음 →</button></div><div class="list-card"><div class="list-head"><b>📋 문제 목록</b><button onclick="openGoto()">전체 번호 보기</button></div><div class="list-note">번호를 누르면 바로 이동합니다 · 🟢 풀이함 · ❌ 오답 · 🔖 북마크</div></div><div style="font-size:12px;color:#6b7280;margin-top:8px">오답 횟수: ${st?.wrongCount||0} · ${marked?'🔖 북마크됨 · ':''}${q.source_page?`원문 p.${q.source_page}`:''}</div></div>`;
+  document.getElementById("app").innerHTML=`<div class="card"><div class="meta">${YEAR}년 · 제 ${q.number}번 · ${idx+1} / ${A.length} <button class="book ${marked?'active':''}" title="북마크" onclick="toggleBook('${q.id}');event.stopPropagation()">🔖</button></div><div class="q">${esc(q.question||"(원문에서 문제 문장이 확인되지 않습니다.)")}</div>${fig}<div>${cs}</div>${result}${st?`<div class="explain"><b>해설</b><br>${esc(q.explanation||"원문 해설 없음")}${efig}</div><button class="retry-btn" onclick="resetQuestion('${q.id}')">🔄 이 문제 다시 풀기</button>`:""}<div class="nav"><button onclick="move(-1)">← 이전</button><button onclick="move(1)">다음 →</button></div><div class="list-card"><div class="list-head"><b>📋 문제 목록</b><button onclick="openGoto()">전체 번호 보기</button></div><div class="list-note">번호를 누르면 바로 이동합니다 · 🟢 풀이함 · ❌ 오답 · 🔖 북마크</div></div><div style="font-size:12px;color:#6b7280;margin-top:8px">오답 횟수: ${st?.wrongCount||0} · ${marked?'🔖 북마크됨 · ':''}${q.source_page?`원문 p.${q.source_page}`:''}</div></div>`;
   save();
 }
 loadYear(YEAR,true);
