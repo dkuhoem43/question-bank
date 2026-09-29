@@ -489,9 +489,7 @@
       ],
       "answer_raw": "5",
       "explanation": "(Small letter, capital letter 대조를 통해 유추할 수 있음)",
-      "images": [
-        "images/2020/q017_img1.jpeg"
-      ],
+      "images": [],
       "source_page": 7
     },
     {
@@ -583,9 +581,7 @@
       ],
       "answer_raw": "5",
       "explanation": "최신OP 18-2-1 결과표와 본문을 보면 5번이 가장 확실한 문장인 것 같습니다..",
-      "images": [
-        "images/2020/q020_img1.jpeg"
-      ],
+      "images": [],
       "source_page": 8
     },
     {
@@ -1437,9 +1433,7 @@
       "answer_raw": "3",
       "explanation": ") Abfraction 보존학 4판 p.390",
       "images": [
-        "images/2020/q048_img1.jpeg",
-        "images/2020/q048_img2.jpeg",
-        "images/2020/q048_img3.jpeg"
+        "images/2020/q048_img1.jpeg"
       ],
       "source_page": 20
     },
@@ -1476,8 +1470,7 @@
         "images/2020/q049_img2.jpeg",
         "images/2020/q049_img3.jpeg",
         "images/2020/q049_img4.jpeg",
-        "images/2020/q049_img5.jpeg",
-        "images/2020/q049_img6.jpeg"
+        "images/2020/q049_img5.jpeg"
       ],
       "source_page": 21
     },
@@ -1693,9 +1686,7 @@
       ],
       "answer_raw": "2",
       "explanation": ", 2008년 IEJ 논문 abstract 내용",
-      "images": [
-        "images/2020/q056_img1.jpeg"
-      ],
+      "images": [],
       "source_page": 24
     },
     {
@@ -2877,9 +2868,7 @@
       ],
       "answer_raw": "5",
       "explanation": "필독저널 C-6-1-2",
-      "images": [
-        "images/2020/q097_img1.jpeg"
-      ],
+      "images": [],
       "source_page": 39
     },
     {
@@ -2915,8 +2904,7 @@
         "images/2020/q098_img2.jpeg",
         "images/2020/q098_img3.jpeg",
         "images/2020/q098_img4.jpeg",
-        "images/2020/q098_img5.jpeg",
-        "images/2020/q098_img6.jpeg"
+        "images/2020/q098_img5.jpeg"
       ],
       "source_page": 39
     },
