@@ -1,1 +1,2910 @@
-{"year":2023,"title":"2023 치과보존과 전문의시험 1차","questions":[{"id":"q001","number":1,"question":"다음 그림에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"(1)은 감염 상아질은 세균에 의해 상아질의 유기 성분이 대부분 용해되고 무기질이 완전히\n소실된 영역이다."},{"label":2,"text":"(2)는 탈회 상아질 역시 세균이 침입해 있는 부위로 탈회로 인해 무기질이 거의 남아 있지 않다."},{"label":3,"text":"(3)은 투명 상아질은 상아 세관 내부에 유기질이 침착되어 광학 현미경 상으로 투명하게\n보이는 부분이다."},{"label":4,"text":"(4)는 정상 상아질로서 우식의 영향을 받지 않은 부분이다."},{"label":5,"text":"(5)는 재생 상아질은 우식에 의한 자극에 대해 방어작용으로 치수강에 인접하여 형성된다."}],"answer_raw":"3","explanation":"(치과보존학 p.35)\n3) (x) 유기질 -> 무기질","images":["images/2023/q001_img1.jpeg","images/2023/q001_img2.png","images/2023/q001_img3.png","images/2023/q001_img4.png"],"source_page":1},{"id":"q002","number":2,"question":"다음 중 옳은 것을 고르시오.","choices":[{"label":1,"text":"교정력은 치수 혈류를 감소시킨다."},{"label":2,"text":"냉각수 없이 치아 형성 시 치수의 화상 및 염증을 유발할 수 있다."},{"label":3,"text":"16% carbamide peroxide 를 상아질에 적용 시 치수의 비가역적인 손상을 유발 할 수 있다."},{"label":4,"text":"치관 및 와동 형성 시 건조시켜도 조상아세포가 치수를 보호하므로 치수에 유해하지 않다."},{"label":5,"text":"치아 와동 형성 후 NaOCl, 클로르헥시딘을 이용한 소독은 치수 괴사를 유발할 수 있다."}],"answer_raw":"2","explanation":"1) 교정력은 치수 혈류를 증가시킴\n2)\n3) 미백제는 가역적인 손상을 유발\n4) 조상아세포는 X\n5) 소독제는 치수괴사 유발안함","images":["images/2023/q002_img1.png","images/2023/q002_img2.png"],"source_page":16},{"id":"q003","number":3,"question":"염증반응을 검사하는 것은?","choices":[{"label":1,"text":"MTT"},{"label":2,"text":"Alizarin red S"},{"label":3,"text":"IL-6 detection with ELISA"},{"label":4,"text":"ALP activity"},{"label":5,"text":"Osterix detection"}],"answer_raw":"3","explanation":"어디 논문에 나오는지는 못 찾았지만 검색해보면 염증반응에 대한 검사라고 나옵니다.\n1) 세포독성검사\n2) mineralization 여부 검사\n3) 염증 검사\n4) mineralization 여부 검사\n5) Mineralization 확인 (Osteoblast 활성 확인검사)\n\n최신 엔도저널 21-2-1에 3) ELISA에 대해서 M&M에서 IL-6 포함한 여러 종류의 interleukin과 TNF, interferon 등의 cytokine을 분석했다고 나옵니다. LTA 인식으로 염증 반응이 일어나는 것을 사이토카인 방출로 확인했다는 내용으로 보이며, 결론에서도 이를 확인할 수 있습니다. → 3번","source_page":16},{"id":"q004","number":4,"question":"치수반응에 대해 옳은 것은?","choices":[{"label":1,"text":"비가역적 치수염은 치근단 병변을 동반한다"},{"label":2,"text":"자극에 증상이 없으면 항상 정상 치수 이다"},{"label":3,"text":"냉자극에 가역적인 sensitivity 는 가역적 치수염이다"},{"label":4,"text":"냉자극에 지속적인 통증은 가역적 치수염이다"},{"label":5,"text":"삼투압 변화에 가역적인 sensitivity는 정상 치수이다"}],"answer_raw":"3","explanation":"근관치료학 52page","images":[],"source_page":16},{"id":"q005","number":5,"question":"다음 그림에서 설명하고 있는 동통의 종류로 옳은 것은?","choices":[{"label":1,"text":"Nociceptive Pain"},{"label":2,"text":"Neuropathic Pain"},{"label":3,"text":"Heterotopic Pain"},{"label":4,"text":"Central Sensitization"},{"label":5,"text":"Peripheral Sensitization"}],"answer_raw":"3","explanation":"(Pathways of the Pulp 11판, Box 17-1, Types of Pain)\nPrimary pain, heterotopic pain 쓰인 부분만 지운 채로 그림 그대로 나옴.","images":["images/2023/q005_img1.jpeg","images/2023/q005_img2.jpeg","images/2023/q005_img3.jpeg","images/2023/q005_img4.jpeg","images/2023/q005_img5.jpeg","images/2023/q005_img6.jpeg"],"source_page":3},{"id":"q006","number":6,"question":"1986년 Kim S.의 Ligamental injection: a physiological explanation of its efficacy.에서의 ligamental\ninjection에서 진행한 실험 결과에 대한 설명 중 옳은 것은?","choices":[{"label":1,"text":"Ligamental injection 주입 시에는 needle의 사면이 치근 방향을 향해야 한다."},{"label":2,"text":"마취액에 혈관수축제가 포함되어 있지 않아도 효과적으로 마취가 일어난다."},{"label":3,"text":"통증의 원인치를 식별하는 데 사용할 수 있다."},{"label":4,"text":"생활치수를 가진 치아에서 수복 치료를 할 때의 마취 방법으로 사용할 수 있다."},{"label":5,"text":"2% lidocaine with 1:100,000 Epi.과 같은 농도의 Saline with Epi.을 사용했을 때, PBF 감소\n양상이 비슷했다."}],"answer_raw":"5","explanation":"(필독 A-2-3-2)\n1) 치조골 방향을 향하도록 한다.\n2) 압력만으로 마취되는 것이 아니며 마취제에는 혈관수축제가 포함되어 있어야 한다.\n3) 단일치아의 마취가 불가능하기 때문에 원인치의 진단에는 심각한 한계가 있다.\n4) 20분이상 혈류(PBF)를 완전히 정지시켜 치수 괴사 가능성이 있어 자연치에는 적용하지\n않도록 함.\n5) 정답 :논문의 그림 중에는 없지만 본문 내용(혈류측정한 실험 중 하나)에 그대로 나와있는\n결과였습니다./ ‘Fig 9&10.에서 Saline (with no epi.) 치주인대 내 주입 시 혈류변화 없음’과는\n상관없음.","images":[]},{"id":"q007","number":7,"question":"타액 자체가 가지는 직접적인 항세균 작용을 하는 타액 내 효소가 아닌 것은?","choices":[{"label":1,"text":"Mucin"},{"label":2,"text":"Agglutinin"},{"label":3,"text":"Lactoferrin"},{"label":4,"text":"Lysozyme"},{"label":5,"text":"Lactoperoxidase"}],"answer_raw":"1","explanation":"(근관치료학 p.30)","images":[]},{"id":"q008","number":8,"question":"2013년 Pretty의 J.dent. ‘The caries continuum: Opportunities to detect, treat and monitor the re-\nmineralization of early caries lesions. 치아 우식의 분류 및 평가 방법에서 ICDAS, Fiber Optic Trans-\nillumination (FOTI), Electrical Caries Monitor(ECM)에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"ICDAS는 치면을 dry & clean 후 stage에 따라 우식을 분류하였다."},{"label":2,"text":"FOTI는 증가된 porosity를 빛의 분산, 흡수 등을 통해서 발생하는 drak patch로 우식을\n확인한다."},{"label":3,"text":"Diagnodent는 시진보다 false-positive가 높다."},{"label":4,"text":"Diagnodent는 655nm(red-light)의 light illumination을 평가하여 우식과 altered tooth\nsubstance를 감별한다."},{"label":5,"text":"ECM는 객관성, 민감도는 높으나 재현성은 떨어져서 우식의 진행과정 등 평가를 위한 clinical\ntrial에는 적합하지 않다."}],"answer_raw":"5","explanation":"(A-3-4-1)\nECM은 높은 민감도, 재현성을 보이는 것으로 나타났고 우식을 모니터링하는 실용적이고 객관적이며\n민감한 방법이다.","images":[]},{"id":"q009","number":9,"question":"silver diamine fluoride 에 대해서 틀린 것은?","choices":[{"label":1,"text":"silver가 침착되면 변색 가능성이 있다."},{"label":2,"text":"초기우식에 적용시 최소침습전략으로 우식처치 가능하다."},{"label":3,"text":"마이크로브러쉬로 3분간 적용 후 수세 후 불소 바니쉬를 사용한다"},{"label":4,"text":"과민성상아질에서 사용시 antihypersinsitivity 능력이 없어 caries 정지에만 사용가능하다"},{"label":5,"text":"silver에 의해 demineralization이 감소하고 remineralization을 증진시킨다"}],"answer_raw":"4","explanation":"(art & science p.83)\nSDF는 antihypersensitivity agent로 FDA 승인 받은 물질로, off-label로 careis lesion을 arrest시키기\n위해서도 사용된다. (첫문장) 이외 맞는 말","images":[]},{"id":"q010","number":10,"question":"다음 수복/위험요인 보기에서 해당되는 항목을 고르시오.\n\n보기:\n1. severe salivary dry\n2. chemo, radiation therapy\n3. orthodontic appliance\n4. medication that reduce salivary flow\n\n답보기(객관식):\nA = ( )\nB = ( )","choices":[],"answer_raw":"1","explanation":"정답: A-2, B-4\n\nA: chemo, radiation therapy\nB: medication that reduce salivary flow\n\n문제 그림 아래의 추가 그림/내용은 풀이에 포함.","images":["images/2023/q010_img1.png"],"source_page":6,"answer_only":true,"answer_display":"A - 2. chemo, radiation therapy\nB - 4. medication that reduce salivary flow","explanationImages":["images/2023/q010_img2.png"]},{"id":"q011","number":11,"question":"self etch adhesive에 대한 내용으로 옳은 것을 고르시오","choices":[{"label":1,"text":"mild self etch adhesive의 PH는 1정도 이다."},{"label":2,"text":"인산을 사용하여 smear layer를 제거한다"},{"label":3,"text":"프라이머를 도포 후에 치면을 깨끗이 수세후 bonding 적용한다."},{"label":4,"text":"aggressive self etch adhesive는 강한 산성으로 상아질에 대한 결합이 감소된다."},{"label":5,"text":"1 step self etch adhesive는 친수성의 문제를 해결하여 상아질 결합력을 증가시켰다."}],"answer_raw":"4","explanation":"","images":[]},{"id":"q012","number":12,"question":"다음 그림의 1~5는 각각 어떤 bond test를 나타내는가?\n(그림 왼쪽부터 1, 2, 3, 4, 5)","choices":[],"answer_raw":"4","explanation":"그림 왼쪽부터\n1) macroshear\n2) microshear\n3) macrotensile\n4) microtensile\n5) push out\n\n정답: 4번 (microtensile)","images":["images/2023/q012_img1.jpeg"],"source_page":7,"answer_only":true,"answer_display":"4번 = microtensile"},{"id":"q013","number":13,"question":"다음 중 phosphate기가 없는 구조는? (구조식 없고 대신 영어로 풀네임 적어줌)","choices":[{"label":1,"text":"4 - META (4-methacryloxyethyl trimellitate anhydride)"},{"label":2,"text":"10 MDP (10-Methacryloyloxy decyl dihydrogen phosphate)"},{"label":3,"text":"MAEPA ( 2,4,6 trimethylphenyl 2-[4-(dihydroxyphosphoryl)-2-oxabutyl]acrylate"},{"label":4,"text":"Phenyl P (2-metacryloxy ethyl phenyl hydrogen phosphate)"},{"label":5,"text":"PENTA (dipentaerythritol penta acrylate monophosphate)"}],"answer_raw":"1","explanation":"치과보존학 4판 p. 488 - 489\n접착형 레진시멘트는 카르복실기를 갖고 있는 4META, PMGDM 이나 인산기를 지닌 MDP, Phenyl P,\nBMP, Penta P 와 같은 접착 기능성 단량체를 포함하여 ~","images":[]},{"id":"q014","number":14,"question":"10-MDP의 구조식은? (구조식만 나온 보기들 중 10-MDP 고르기)","choices":[],"answer_raw":"1","explanation":"3번 문항 참고","images":["images/2023/q014_img1.jpeg","images/2023/q014_img2.jpeg"],"source_page":8,"answer_only":true,"answer_display":"10-MDP (10-Methacryloyloxy decyl dihydrogen phosphate)"},{"id":"q015","number":15,"question":"2021년 Stape 외 Dry bonding to dentin: Broadening the moisture spectrum and increasing\nwettability of etch-and-rinse adhesive 논문에서 시험군에 사용된 것은?","choices":[{"label":1,"text":"Water"},{"label":2,"text":"Acetone"},{"label":3,"text":"Hydrogen peroxide"},{"label":4,"text":"Methanol"},{"label":5,"text":"Dimethyl sulfoxide (DMSO)"}],"answer_raw":"5","explanation":") DMSO.\n최신 21-4-4 OP\nAim of the study: To determine whether the effect of dentin moisture on the etch-and-rinse\nbonding may be minimized by dry-bonding protocols utilizing aqueous or ethanolic dimethyl\nsulfoxide (DMSO) pretreatments","images":[]},{"id":"q016","number":16,"question":"2021년 Vidal 외의 Hydroxy acids for adhesion to enamel and dentin: : Long-term bonding\nperformance and effect on dentin biostability의 논문에 사용된 다음 hydroxy acid 중 pH가 가장 높은\n것은 무엇인가?","choices":[],"answer_raw":"5","explanation":"Gluconolactone (최신 21-2-1 OP)\nFig 1. 참조: Phosphoric acid pH 0.38 / Glycolic acid pH 1.21 / Tartaric acid pH 0.96 / Gluconic acid\npH 1.51 / Gluconolactone pH 1.64\n(보기 순서는 figure 제시된 거랑은 조금 달랐는데 논문에 나온 시험군들 화학구조랑 이름이 같이\n주어졌습니다. 선지 순서는 논문 본문의 fig 순서대로 우선 복원하였습니다.)","images":["images/2023/q016_img1.jpeg"],"source_page":9,"answer_only":true,"answer_display":"⑤ Gluconolactone"},{"id":"q017","number":17,"question":"2004년 D.H.pashley의 ‘Collagen Degradation by Host-derived Enzymes during Aging’ 논문에서\n촬영한 TEM 사진은 각각 어느 용액에서 보관한 것인가?\nPure mineral oil/Artificial saliva/Artificial saliva + protease inhibitor 3가지를 조합한 보기\n해설) B-1-1-2\nA)는 미네랄 오일, B)는 인공타액+단백분해효소 억제제, C)는 인공타액","choices":[],"answer_raw":"","explanation":"","images":["images/2023/q017_img1.jpeg","images/2023/q017_img2.jpeg","images/2023/q017_img3.jpeg"],"source_page":9,"answer_only":true,"answer_display":"A: Pure mineral oil / B: Artificial saliva + protease inhibitor / C: Artificial saliva"},{"id":"q018","number":18,"question":"다음이 설명하고 있는 재료로 가장 올바른 것은?\n강한 염기성을 가지고있어(pH=9~11) 향균작용이 있으나 시간이 지나며 분해되어 강도가 떨어지기\n때문에 기저재로 사용할 수 없다.","choices":[{"label":1,"text":"GI cement"},{"label":2,"text":"Calcium hydroxide"},{"label":3,"text":"ZOE cement"},{"label":4,"text":"Silver diamine fluoride (SDF)"},{"label":5,"text":"RMGI cement\n해설) 내용이 정확하게 기억이 안 나는데 아마도 2번"}],"answer_raw":"","explanation":"","images":[]},{"id":"q019","number":19,"question":"#2, #4, #245 Bur의 직경 크기로 옳은 것은?","choices":[],"answer_raw":"","explanation":"","images":[],"answer_only":true,"answer_display":""},{"id":"q020","number":20,"question":"다음 중 치아와 열 팽창계수가 가장 비슷한 물질은?","choices":[{"label":1,"text":"sealant"},{"label":2,"text":"ceramic"},{"label":3,"text":"composite"},{"label":4,"text":"gold"},{"label":5,"text":"amalgam"}],"answer_raw":"","explanation":"gold (보존수복학 p.224)\n장점 3번에 '치과재료 중에서 열팽창계수가 법랑질과 가장 비슷하여 구강내 온도변화에 따른\n변연누출이 가장 적다' 라는 문장 있습니다\n-> A&S table 13.1에서 보면 세라믹이 가장 비슷한거 같습니다. 답: 세라믹","images":[]},{"id":"q021","number":21,"question":"다음은 지르코니아의 transformation toughening에 의해 crack의 전파를 방해하는 기전이다. 다음\n표시된 부분의 구조는 무엇인가?\n⬆","choices":[{"label":1,"text":"Cubic"},{"label":2,"text":"Monoclinic"},{"label":3,"text":"Tetragonal"},{"label":4,"text":"Ditrigonal"},{"label":5,"text":"Hexagonal"}],"answer_raw":"2","explanation":"Transformation toughening에서 표시된 부분은 monoclinic 구조이다.","images":["images/2023/q021_img1.jpeg"],"source_page":11},{"id":"q022","number":22,"question":"다음 그림에서 나타내는 실험방법은 무엇인가?","choices":[{"label":1,"text":"Knoop hardness test"},{"label":2,"text":"Brinell hardness test"},{"label":3,"text":"Vickers hardness test"},{"label":4,"text":"Rockwell hardness test"},{"label":5,"text":"~~ hardness test"}],"answer_raw":"3","explanation":") Vickers hardness test (보기 순서는 정확하지 않습니다) A&S p.460 fig.13.15 참고","images":["images/2023/q022_img1.jpeg"],"source_page":11},{"id":"q023","number":23,"question":"다음 중 알맞게 짝지어진 것은?","choices":[{"label":1,"text":"A: compression"},{"label":2,"text":"B : torsion"},{"label":3,"text":"C : shear"},{"label":4,"text":"D : tension"},{"label":5,"text":"E : flexure"}],"answer_raw":"5","explanation":"(보기는 약간 다를 수 있으나 옳게 조합된 것은 flexure 뿐 이었습니다.)\nA&S p.458 fig. 13.11 참고","images":["images/2023/q023_img1.jpeg"],"source_page":12},{"id":"q024","number":24,"question":"아말감 합금의 구성성분과 주기능으로 옳은것?\nA 70%\nB 16%\nC 13%\nD 1%","choices":[{"label":1,"text":"1 (A) Ag expansion"},{"label":2,"text":"2 (B) Cu deoxidizer"},{"label":3,"text":"3 (C) Sn strength"},{"label":4,"text":"4 (C) Cu strength"},{"label":5,"text":"5 (D) Zn strength"}],"answer_raw":"4","explanation":"? (Ref. 치과보존학 p.179~180)\n-> A&S p.462 table13.3 그대로 나왔습니다 답은 4번","images":[]},{"id":"q025","number":25,"question":"빈칸에 들어갈 말로 옳은 것?\n( )은 Ag3Sn과 Cu3Sn으로 구성되어 있으며 최종 반응산물에 Sn7-8Hg(r2) 대신 Cu6Sn5이\n헝성된다. 하나의 입자가 초기엔 은 주석입자와 같은 반응을 나타내어 적절한 작업시간과 조작의\n편의성을 제공하고 나중에는 같은 입자가 은 구리 입자와 같이 작용하여 r2상을 제거한다.","choices":[{"label":1,"text":"저동 절삭형 아말감"},{"label":2,"text":"저동 구상형 아말감"},{"label":3,"text":"고동 단일 조성형 아말감"},{"label":4,"text":"고동 혼합 절삭형 아말감"},{"label":5,"text":"고동 혼합 구상형 아말감"}],"answer_raw":"3","explanation":".\n(ref. 치과보존학 p.182)","images":["images/2023/q025_img1.jpeg"],"source_page":13},{"id":"q026","number":26,"question":"아말감 경화 반응에 대한 설명 중 옳지 않은 것은?","choices":[{"label":1,"text":"은과 수은이 반응하여 γ1 상이 형성된다."},{"label":2,"text":"주석과 수은이 반응하여 γ2 상이 형성된다."},{"label":3,"text":"가장 부식 저항성이 약한 상은 γ2상이다."},{"label":4,"text":"충분히 압축한 아말감에서 가장 많은 부분을 차지하는 상은 γ상으로 전체 부피의 54~56%를\n차지한다."},{"label":5,"text":"적당한 양의 구리를 함유하고 있으면 γ2 상을 생성 후 수 시간 이내에 없어지게 하거나 아예 생기지\n않도록 할 수 있다."}],"answer_raw":"4","explanation":"γ -> γ1 (치과보존학 4판 p.181)","images":[]},{"id":"q027","number":27,"question":"와동에 대한 설명 중 옳은 것은?","choices":[{"label":1,"text":"교합면 와동은 와동벽이 4개이다."},{"label":2,"text":"3개 이상의 와벽이 만나는 점상의 우각을 선각이라고 한다."},{"label":3,"text":"와동은 와벽과 와연으로 이루어진다."},{"label":4,"text":"우각 중, 오목한 부분을 철우각, 볼록한 부분을 요우각이라고 한다."},{"label":5,"text":"와벽과 치아 외면에 의해 만들어진 각을 와연우각이라 한다."}],"answer_raw":"5","explanation":"(치과보존학 4판 p.133)\n1) 4개 ->5개\n2) 선각 -> 점각\n3) 와벽, 와연 -> 와벽, 와연, 우각으로 이루어짐\n4) 오목한 부분을 요우각, 볼록한 부분을 철우각이라고 한다.","images":[]},{"id":"q028","number":28,"question":"2020년 발표된 Wong등의 논문에서 Bond fatigue strength와 Surface roughness에 대한 실험\n결과값의 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"PPA는 control보다 bond strength가 유의하게 높다."},{"label":2,"text":"PPA는 etching time이 증가할 수록 Bond fatigue strength가 증가한다."},{"label":3,"text":"PLA는 15초 etching time 일 때 대조군에 비해 유의미하게 Bond fatigue strength가 증가했다."},{"label":4,"text":"PPM의 Bond fatigue strength는 대조군 보다 유의미하게 크다."},{"label":5,"text":"Etching material이 다르면 surface roughness에 차이가 발생한다."}],"answer_raw":"2","explanation":"(최신 논문 수복 2020-1-4)","images":["images/2023/q028_img1.png","images/2023/q028_img2.png"],"source_page":15},{"id":"q029","number":29,"question":"2020년 Daud 등의 논문에서 다음 실험군 group 4에 해당하는 finishing and polishing 방법은?","choices":[{"label":1,"text":"Tungsten carbide bur only"},{"label":2,"text":"Diamond finishing bur only"},{"label":3,"text":"Diamond bur finishing followed by PoGo polishing"},{"label":4,"text":"Diamond bur finishing followed by Sof-Lex polishing"},{"label":5,"text":"Polymerised against Mylar strip-no finishing or polishing procedures"}],"answer_raw":"2","explanation":"(최신논문 수복 2020-3-3)","images":["images/2023/q029_img1.png"],"source_page":15},{"id":"q030","number":30,"question":"microfilled composite 중 0.04μm크기의 silica 입자를 용융점 직전까지 소결하여 응집괴를 만들어\n0.07~0.2μm 크기의 미세한 알갱이로 만든 후 첨가하는 방법은?","choices":[{"label":1,"text":"Minifilled composite"},{"label":2,"text":"Blended composite"},{"label":3,"text":"Condensed microfill"},{"label":4,"text":"Agglomerated microfill"},{"label":5,"text":"prepolymerized microfill"}],"answer_raw":"4","explanation":"(치과 보존학 p 314-315)","images":[]},{"id":"q031","number":31,"question":"수분흡수가 높고 친수성인 primer의 주성분?\n2)\n4)","choices":[{"label":1,"text":"Bis-GMA"},{"label":2,"text":"HEMA"},{"label":3,"text":"10-MDP"},{"label":4,"text":"TEGDMA"},{"label":5,"text":"UDMA"}],"answer_raw":"2","explanation":"(Fundamentals of operative dentistry 4th table 9-1)\n1. Bis-GMA\n2. HEMA\n3. 10-MDP\n4. TEGDMA\n5. UDMA","images":["images/2023/q031_img1.png"],"source_page":16},{"id":"q032","number":32,"question":"복합레진의 조성으로 옳지 않은 것은?","choices":[{"label":1,"text":"Bis-GMA는 비교적 길고 강한 이중작용기 단량체로 교차결합형 중합체를 형성할 수 있으며 점도가\n대단히 높다"},{"label":2,"text":"복합레진을 구성하는 레진 기질의 불안정하고 약한 강도를 보강하소 체적 안정성을 부여하기\n위하여 충전재 입자를 첨가한다"},{"label":3,"text":"UDMA는 분자구조의 사슬의 길이가 짧으므로 부서지기 쉽고 중합수축이 큰 단점이 있다"},{"label":4,"text":"반응개시제는 화학물질을 이용하여 분해되면 자유기를 갖게 되고 레진 단량체의 이중결합을 열어서\n짧은 시간 내에 사슬을 성장시키고 중합체 분자를 만들게 된다"},{"label":5,"text":"TEGDMA는 중합수축이 크고 휘발성으로 인하여 보관시간이 짧은 점 등의 오늘날의 레진 기질에서\n생기는 대부분의 문제점들로 인해 요즘은 사용하지 않는다"}],"answer_raw":"5","explanation":"(치과보존학 p.309-310)\n그러나 유연성이 큰 TEGDMA를 사용함으로써 변연강도 및 마모저항성을 개선할 수 있어 오늘날의\n대부분의 레진기질은 Bis-GMA와 TEGDMA를 주성분으로 제조된다","images":[]},{"id":"q033","number":33,"question":"“Wear of contemporary dental composite resin restorations: a literature review\"에서 나온 마모로\n옳지 않은 것은?","choices":[{"label":1,"text":"Fatigue wear"},{"label":2,"text":"Abrasive wear"},{"label":3,"text":"Adhesive wear"},{"label":4,"text":"Cohesive wear"},{"label":5,"text":"Corrosive wear"}],"answer_raw":"4","explanation":"최신 수복2021-3-5","images":[]},{"id":"q034","number":34,"question":"다음 중 A에 대한 것을 고르시오.","choices":[{"label":1,"text":"TEGDMA"},{"label":2,"text":"Ethanol"},{"label":3,"text":"Bis-GMA"},{"label":4,"text":"Co-monomers"},{"label":5,"text":"Phosphoric acid"}],"answer_raw":"4","explanation":"치과보존학 p.271 <그림 12-16>","images":["images/2023/q034_img1.jpeg"],"source_page":18},{"id":"q035","number":35,"question":"치간이개에서 수복과 관련된 내용 중 옳은 것은?","choices":[{"label":1,"text":"접촉점을 순측으로 위치시키면 치아는 좁게 보인다."},{"label":2,"text":"치간공극을 작게 하면 치아는 좁고 길게 보인다."},{"label":3,"text":"수직적으로 나타나는 발육구와 발육엽을 강조하면 치아는 좁고 길게 보인다."},{"label":4,"text":"Perikymata는 불완전한 성장선의 일종으로 치아가 좁게 보인다."},{"label":5,"text":"수평방향의 주름은 좁게 보인다."}],"answer_raw":"3","explanation":"(치과보존학 p.359)\n1) 치간이개를 폐쇄할 때 접촉점을 설측으로 위치시키면 인접면 부위가 약간 어두워지기 때문에\n치아는 좁게 보인다.\n2) 치간공극 이 작을 때 치아는 넓고 커 보인다.\n3) 옳은 문장\n4) Perikymata는 불완전한 성장선의 일종으로 치아가 짧게 보인다.\n5) 수평방향 주름은 치아를 짧게 보인다.","images":[]},{"id":"q036","number":36,"question":"구치부 복합레진 수복에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"변연부 폐쇄를 얻기 위해 교합면에 항상 사면(bevel)을 형성 해줘야 한다."},{"label":2,"text":"약한 광원으로 광조사를 하는 soft-start, ramp, pulse-delay, oscillation 등은 중합 수축 응력을\n감소시키는 효과가 있다."},{"label":3,"text":"와동의 외형은 전체적으로 부드러운 곡선을 가지는 둥근 외형을 이루어야 하며 내측 선각은 둥근\n형태를 가져야 한다."},{"label":4,"text":"적층충전을 하여 복합레진을 충전하는 과정을 통해 중합수축 응력이 발생하는 와동의 C-factor 값을\n낮출 수 있다."},{"label":5,"text":"와동이 깊은 경우 2mm 이내의 깊이로 복합레진을 충전하는 것은 레진의 중합률을 높일 수 있다."}],"answer_raw":"1","explanation":"(보존수복학 4판, 372pg. “또한 반대로 변연부의 폐쇄를 얻기 위해 사면(bevel)을 형성할 경우\n교합력에 의해 복합레진이 파절되어 오히려 홈이 형성될 수 있으므로 교합면에서는 피해야 한다.”)\n2. 370pg\n3. 371pg\n4. 369pg\n5. 369pg","images":[]},{"id":"q037","number":37,"question":"다음 그림에서 (가)에 해당하는 것을 고르시오.","choices":[{"label":1,"text":"Ivocerin"},{"label":2,"text":"TPO"},{"label":3,"text":"tertiary amine"},{"label":4,"text":"camporoquinone"},{"label":5,"text":"PPD"}],"answer_raw":"","explanation":". 4 (Art and science 7th, 174pg)","images":["images/2023/q037_img1.jpeg"],"source_page":20},{"id":"q038","number":38,"question":"GI의 특성으로 옳은 것은?","choices":[{"label":1,"text":"치질과 화학적 결합을 한다"},{"label":2,"text":"심미적으로 우수한 재료이다"},{"label":3,"text":"물리적 특성을 강화하기 위해 레진성분을 첨가하였다"},{"label":4,"text":"불소방출을 하지 않는다"},{"label":5,"text":"수분에 민감하지 않다"}],"answer_raw":"","explanation":". 1 (치과보존학 교과서 p.91)","images":[]},{"id":"q039","number":39,"question":"특정 표면으로부터 방출되는 복사능을 나타내는 용어로서 light tip과 같은 zero distance에서\n방출량을 의미하며 mW/cm^2의 단위를 쓰는 것은?","choices":[{"label":1,"text":"radiant power"},{"label":2,"text":"radiant exposure"},{"label":3,"text":"radiant emittance"},{"label":4,"text":"radiant energy density"},{"label":5,"text":"spectral radiant power"}],"answer_raw":"","explanation":". 3 (필독 B-3-7-2)","images":[]},{"id":"q040","number":40,"question":"다음 중 excavator에 속하지 않는 것은?","choices":[{"label":1,"text":"Hoe"},{"label":2,"text":"Spoon excavator"},{"label":3,"text":"Angle former"},{"label":4,"text":"Ordinary hatchet"},{"label":5,"text":"Gingival margin trimmer"}],"answer_raw":"","explanation":". 5 (Art and science 7th, chapter 14 e1)","images":[]},{"id":"q041","number":41,"question":"세라믹 제작 방식 조합 옳은 것은?","choices":[{"label":1,"text":"압착 도재법 : All ceram, Finesse"},{"label":2,"text":"주조 도재법 : Vita Mark II, Inceram"},{"label":3,"text":"소결 도재법 : Cercon, LAVA"},{"label":4,"text":"침투 도재법 : Optec OPC"},{"label":5,"text":"기계가공 도재법 : IPS e.max CAD, Celtra Duo"}],"answer_raw":"5","explanation":"(치과보존학 p.415)","images":[]},{"id":"q042","number":42,"question":"CAD/CAM 치아형성에 대해 옳지 않은 것은?","choices":[{"label":1,"text":"수복물의 권장 최소 허용 두께는 가공 버와 가공되어지는 블럭을 고려해야 한다."},{"label":2,"text":"전통적 와동 형태보다 단순한 형태로 외형 형성을 했을때 좋은 변연 적합도"},{"label":3,"text":"butt joint 형성할 수 있으며 Shoulder, chamfer 변연이 추천됨."},{"label":4,"text":"필요시 Bevel를 형성해야 한다."},{"label":5,"text":"모든 외형과 각각의 선각에 예각 없이 둥근 형태의 마무리 해여함"}],"answer_raw":"4","explanation":"(치과보존학 p.441)\n●\n2022 기출 변형문제\n- 변연은 shoulder나 chamfer 추천, butt-joint로 마무리되는 것이 추천됨\n- Bevel을 형성해서는 안된다\n- 모든 외형과 각각의 선각에 예각 없이 둥근 형태의 마무리\n- 수복물의 권장 최소 허용 두께는 가공 버와 가공되어지는 세라믹 블록을 고려해야 한다","images":[]},{"id":"q043","number":43,"question":"2020, Huang의 Effect of preparation design on the fracture behavior of ceramic occlusal veneers\nin maxillary premolars에 대한 설명중 옳은 것은?","choices":[{"label":1,"text":"dual-cure resin cement로 접착했다."},{"label":2,"text":"치면은 E&R를 적용했다."},{"label":3,"text":"Full coverage crown 수복이 가장 강도가 높았다"},{"label":4,"text":"세라믹 내면은 Hydrofluoric acid를 60초 적용했다."},{"label":5,"text":"5가지 방식으로 preparation한 상악 소구치에 대해 feldspathic veneer의 파절에 대한 연구이다."}],"answer_raw":"2","explanation":"(뉴저널 20-2-3)\n1) light-cured resin cement 적용함.\n2) 인산 - Monobond N Universal primer - Single Bond Universal Adhesive 사용함.\n3) Full coverage crown 수복이 가장 강도가 낮았음.\n4) 세라믹 내면은 Hydrofluoric acid를 20초 적용했다.\n5) 본 연구에서 사용한 세라믹은 monolithic lithium disilicate glass ceramic이다.","images":[]},{"id":"q044","number":44,"question":"RMGI cement에 대해 설명중 옳지 않은 것은?","choices":[{"label":1,"text":"feldspathic 도재전장관 및 포스트 접착시 사용이 추천되지 않는다."},{"label":2,"text":"일반적인 글라스 아이오노머에 레진을 첨가하여 강도를 향상시키고 용해도를 감소시켰다."},{"label":3,"text":"치아 형성 후 과민반응을 해소하기 위해 탈감작제를 사용하면 반드시 결합 강도가 영향을\n받는다."},{"label":4,"text":"압축강도는 인산아연 시멘트나 폴리카르복실레이트 시멘트, 글라스 아이오노머 시멘트보다\n높으나 복합레진 시멘트보다는 낮다."},{"label":5,"text":"수분을 흡수하여 hygroscopic expansion을 하여 초기에는 중합수축을 보상하기도 하지만,\n지속적인 수분의 흡수로 체적안정성이 떨어진다."}],"answer_raw":"3","explanation":"(치과보존학 p.485)\n1) 5) 옳은 문장\n2) 4) 옳은 문장\n3) 치아형성 후 과민반응에 탈감작제를 사용하며 상아세관을 폐쇄하는 것도 좋은 방법이다.\n대부분의 탈감작제는 글라스 아이오노머나 복합레진, 레진강화형 글라스 아이오노머 시멘트를\n사용하여 접착할 경우 결합강도에는 영향을 미치지 않는 것으로 보고되고 있다.","images":[]},{"id":"q045","number":45,"question":"다음 중 레진 시멘트에 대한 설명으로 옳은 것은 ?","choices":[{"label":1,"text":"이중중합형 레진시멘트는 광중합만 해도 항상 일정한 최대 경도를 얻을 수 있다."},{"label":2,"text":"4-META를 포함한 접착형 레진시멘트는 상아질과 금속수복물에 접착강도가 좋으나, 모노머의\n길이가 짧아서 연성이 좋지 않아 충격을 잘 흡수하지 못한다."},{"label":3,"text":"MDP를 포함한 접착형 레진 시멘트는 MDP의 phospho ester 그룹과 지르코니아의 hydroxyl\n기의 화학적 결합을 기대할 수 있다."},{"label":4,"text":"이중중합형 레진 시멘트는 두 개의 연고형태로 제공되는데 일반적으로 photoinitiator와\nbenzoyl peroxide가 같은 튜브에 들어있다."},{"label":5,"text":"1-step self -etch system을 사용할 경우 adhesive layer의 외곽층에 존재하는 acidic\nmonomer와 레진시멘트의 tertiary amine의 peroxide가 결합을 하여 산-염기 반응을\n추가적으로 일으켜 결합에 도움이 된다."}],"answer_raw":"3","explanation":"(치과보존수복학 p.487-488)\n1) (X) 비록 이중중합형 레진 시멘트가 광중합이나 화학중합만으로도 중합이 되도록 의도되었으나\n광중합 여부에 따라 그리고 이중중합형 레진 시멘트의 중합개시제에 따라 레진 시멘트의 경도가\n달라진다.\n2) (X) 4-META를 포함한 접착형 레진 시멘트는 상아질과 금속수복물에 접착강도가 크며 길고 유연한\n고분자 사슬을 가지고 있어 연성이 좋으며 충격을 흡수하는 경향이 있다.\n3) (O)\n4) (X) 이중중합형 레진 시멘트는 두 개의 연고형태로 제공되는데 일반적으로 photoinitater와 benzoyl\nperoxide가 서로 분리되어 있다.\n5) (X) 1-step self -etch system을 사용할 경우 adhesive layer의 외곽층에 존재하는 acidic monomer와\n레진시멘트의 tertiary amine의 peroxide가 결합을 하여 산-염기 반응을 일으키기 때문에 중합과정이\n방해받게 된다.","images":[]},{"id":"q046","number":46,"question":"다음 중 간접심미수복재에 대한 알맞은 접착 전 기계적, 화학적 처리 방법의 조합으로 옳은 것은?","choices":[{"label":1,"text":"Composite : HF, silane"},{"label":2,"text":"Composite : sandblasting, dentin primer"},{"label":3,"text":"Ceramic : sandblasting, silane"},{"label":4,"text":"Ceramic : HF, dentin primer"},{"label":5,"text":"Zirconia : sandblasting, zirconia primer"}],"answer_raw":"3","explanation":"? 5번? (치과보존수복학 p.410 [표18-3])\n-\n문제에서 dentin primer 였는지 composite primer였는지 확실치 않습니다.\n-\n교과서 표에 의하면 composite 은 sandblasting + silane or composite primer, zirconia는\n특수sandblast + zirconia 전용 primer 라고 제시되어 있습니다.","images":[]},{"id":"q047","number":47,"question":"Curing efficiency of four self-etching, self-adhesive resin cements 논문 결과에서 다음 그래프와\n재료가 알맞게 짝지어진 것은?","choices":[{"label":1,"text":"A. RXU"},{"label":2,"text":"B. MLS"},{"label":3,"text":"C. MLA"},{"label":4,"text":"D. MXC"},{"label":5,"text":"E. BCM"}],"answer_raw":"3","explanation":"(필독논문 B-7-1-3)\n-","images":["images/2023/q047_img1.jpeg","images/2023/q047_img2.jpeg"],"source_page":25},{"id":"q048","number":48,"question":"다음 중 포스트에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"평행 포스트는 스트레스를 치근 전체에 분산한다"},{"label":2,"text":"포스트의 직경을 증가시키면 치질이 약화될 수 있다"},{"label":3,"text":"섬유 포스트는 치질과 비슷한 탄성계수를 갖는다"},{"label":4,"text":"포스트 실패의 가장 주된 원인은 접착 실패에 의한 유지력 부족이다"},{"label":5,"text":"경사형 포스트는 치질을 보존할 수 있으며 유지력이 가장 크다"}],"answer_raw":"5","explanation":"-\n평행형 포스트의 유지력이 경사형보다 크다.","images":[]},{"id":"q049","number":49,"question":"다음중 포스트에 관한 설명으로 옳은 것은?","choices":[{"label":1,"text":"섬유강화 포스트는 세라믹 포스트보다 깨지기 쉽다"},{"label":2,"text":"섬유형 포스트는 carbon fiber, quartz fiber 형태를 많이 쓰며 평행형l fiber는 응력분산에 유리하다."},{"label":3,"text":"포스트의 굵기는, 치근 직경의 2/3가 적당하며, 삭제된 근관벽과 치근의 외면사이의 건전 상아질\n두께가 0.5mm 정도 유지되어야 한다."},{"label":4,"text":"포스트의 형태가 경사형 포스트가 평행한 포스트보다 유지력이 크다"},{"label":5,"text":"포스트의 표면구조로 passive, screw acvite? 둘중 하나가 유지력이 더 좋다 이런거였나"}],"answer_raw":"","explanation":"나머지 두개 지문이 기억이 안나는데 둘중하나가 답인거 같아요 (치과보존학 458p)\n1)세라믹 포스트는 높은 탄성계수와 강도를 가지지만 깨어지기 쉬운 단점이 있다.\n3) 2/3 -> 1/3, 0.5mm ->1mm\n4)평행형 포스트가 경사형 포스트보다 유지력이 우수","images":[]},{"id":"q050","number":50,"question":"연령별 치아 색에 관한 설명으로 옳은 것은?","choices":[{"label":1,"text":"노인의 치아색의 투명도가 젊은 사람보다 더 크다"},{"label":2,"text":"노인 치아가 표면질감이 두드러져 보이기 때문에 빛의 반사가 많다"},{"label":3,"text":"젊은 사람에서 절단연의 채도가 더 크다."},{"label":4,"text":"젊은 사람의 치아에서 과광화된 법랑질이 관찰된다"},{"label":5,"text":"평이한 지문."}],"answer_raw":"1","explanation":"(치과보존학 344p)\n1)나이가 들면서 법랑질이 투명해진다\n2)젊은치아의 특성\n3)젊은 치아는 불투명한 법랑질이 덮고 있어 법랑질의 두께가 가장 얇은 치경부에서 가장 높은\n채도를 보인다.","images":[]},{"id":"q051","number":51,"question":"전치부 복합레진 수복 색조 선택 시 옳은 것은?","choices":[{"label":1,"text":"배경은 색조선택에 영향을 주며 어두운 구강은 치아를 어둡게 보이게 한다."},{"label":2,"text":"색조를 선택할 때는 오랜 시간 관찰 후 결정한다."},{"label":3,"text":"눈의 순응을 회복하기 위해서 붉은 색을 응시하면 도움이 된다."},{"label":4,"text":"치아의 치태와 색소를 퍼미스로 깨끗이 하고 치아를 건조시킨 다음 색조를 선택한다."},{"label":5,"text":"일치하는 색조가 없을 때는 밝고 옅은 색조를 선택하는 것이 유리하다."}],"answer_raw":"5","explanation":"(치과보존학 4판 346-347pg)\n1) 어두운 구강은 치아를 밝게 보이게 한다\n2) 치아 색조는 첫인상이 매우 중요하며……. 최소 0.06초~0.07초 관찰하되 5초를 넘기지 않는다.\n긴 시간 관찰하면 색순응으로 인해서 착시가 유발된다\n3) 파란색을 응시하면 회복에 도움이 된다\n4) 건조된 상태에서 결정해서는 안된다\n5) 맞는 보기","images":[]},{"id":"q052","number":52,"question":"다음 설명의 괄호에 들어갈 말은?\n“ (\n)는 색의 포화도를 의미하며 강렬한 색과 약한 색을 구분하는 용어이다.”\n“ ( )의 감소를 통해서 치료효과를 얻는 대표적인 예로 표백술이 있다.”","choices":[{"label":1,"text":"색상"},{"label":2,"text":"명도"},{"label":3,"text":"채도"},{"label":4,"text":"질감"},{"label":5,"text":"대비"}],"answer_raw":"3","explanation":"(치과보존학 4판 292pg)","images":[]},{"id":"q053","number":53,"question":"다음 중 옳지 않은 것은?","choices":[{"label":1,"text":"빨간색 핵사메딘을 장시간 사용하면 치아가 암갈색으로 착색될 수 있다."},{"label":2,"text":"커피는 갈색의 착색을 유발할 수 있다."},{"label":3,"text":"외인성 변색은 미백의 예후가 좋다."},{"label":4,"text":"내인성 변색은 전신적인 원인에 의해서만 치아의 내면 구조가 변색되어 나타난다."},{"label":5,"text":"평이한 지문"}],"answer_raw":"4","explanation":"(치과보존학 pg 493) - 보기 순서는 정확히 기억이 안 납니다 ㅠ\n1) O 헥사메딘의 주성분이 클로르헥시딘 (보존학 교과서: 클로르헥시딘 같은 구강청결제도\n장기간 사용하면 암갈색양 변색을 야기한다)\n2) O\n3) O\n4) X 내인성 변색은 외인성처럼 그리 단순하지는 않으며 전신적 또는 국소적 원인에 의해 치아의\n내면 구조가 변색되어 나타난다.-> 내인성변색은 국소적 원인에 의해서도 일어나기때문에\n4번은 틀린 보기\n5) O","images":[]},{"id":"q054","number":54,"question":"다음 색상의 관계 설명 중 옳지 않은 것은?","choices":[{"label":1,"text":"색순응: 광원의 에너지 분포가 변하면 물체에서 반사 또는 투과해 오는 빛의 스펙트럼 분포도\n변화해서 물체의 색이 달라보인다."},{"label":2,"text":"면적대비: 면적이 클수록 밝고 선명해 보이고 면적이 좁을수록 어둡고 탁해 보인다."},{"label":3,"text":"시감도: 같은 파장의 색일지라도 항상 같은 밝기로 느껴지지 않는다."},{"label":4,"text":"색상의 관계에 대한 설명중 하나였습니다.."},{"label":5,"text":"명암순응: 물체의 밝기는 그보다 어두운 배경에서는 보다 밝게 보이고, 그보다 밝은\n배경에서는 보다 어둡게 보인다."}],"answer_raw":"5","explanation":"(치과보존학 pg 293)\n5) 보기는 명암대비의 설명\n-\n명암순응: 빛의 밝기에 대한 순응을 뜻하며, 이는 동공의 크기조절과 망막의 감광성의 조절에\n의해 이루어진다. 예를 들면 한낮에 어두운 영화관에 들어가면 처음에는 아무것도 보이지\n않다가 서서히 어두움에 익숙해지게 된다.","images":[]},{"id":"q055","number":55,"question":"2012 beier의 clinical performance of all ceramic inlay and onlay restorations in posterior teeth에서\n옳지 않은 것은??","choices":[{"label":1,"text":"Nonvital tooth인 치아는 수복물의 성공률을 유의하게 낮추는 요소이다"},{"label":2,"text":"Bruxism은 수복물의 성공률에 유의한 요소가 아니다"},{"label":3,"text":"전체 failure 중 절반이 dentin bonding 하지 않은 케이스였다"},{"label":4,"text":"전체 failure 중 fracture of tooth가 가장 많았다"},{"label":5,"text":"All ceramic inlay / onlay의 10년 estimated success rate는 90% 이상이었다"}],"answer_raw":"4","explanation":"(클래식저널 B-10-1-4)\n1. 본 연구의 유일한 유의성 있는 요소는 vital vs non vital\n2. 1번 설명\n3. 51.1%가 no dentin bonding case\n4. Ceramic fracture가 가장 많음 틀린 보기\n5. 92.4%정도로 높은 성공률","images":[]},{"id":"q056","number":56,"question":"2020 Lee의 clinical outcomes after Apical surgery on the palatal root of the maxillary first molar\nusing palatal approach에서 옳은 것은??","choices":[{"label":1,"text":"상악대구치의 구개측 치근의 치근단수술을 구개접근한 경우와 협측 접근한 경우를 비교한\n연구이다."},{"label":2,"text":"상악대구치의 구개측 치근의 치근단수술 시 구개측접근한 경우의 예후를 전향적으로 평가한\n연구이다."},{"label":3,"text":"상악대구치의 구개측 치근의 치근단수술 시 구개측 접근하는 것은 성공률을 저해하는\n요소이다."},{"label":4,"text":"상악대구치의 구개측 치근의 치근단 수술 시 구개측 접근하는 것은 신경 혈관 손상의 위험성이\n적다."},{"label":5,"text":"Cotton swab test는 수술부위 점막을 cotton swab 했을 때 통증을 반대측 정상점막과 비교하여\n0-10까지 숫자를 기록하여 평가하는 신경검사법이다."}],"answer_raw":"4","explanation":"(뉴저널 Endo 20-2-1)\n1. 구개측으로 접근한 수술을 대상으로만 연구진행\n2. 2010년부터 2017년까지 수술받은 환자를 대상으로 진행한 후향적 연구\n3. 생존률은 91.5%로 다른 치아들과 차이 없음\n4. 신경 및 혈관손상을 예지성 있게 피할 수 있으며 본 연구에서도 신경 및 혈관손상 케이스는\n보이지않았음\n5. 양쪽 palate를 cotton으로 문질러봐서 감각을 비교하는것은 맞으나 hyper, hypo, normal\n세단계로 구분하는 방법","images":[]},{"id":"q057","number":57,"question":"Portenier(2005), The susceptibility of starved, stationary phase, and growing cells of Enterococcus\nfaecalis to endodontic medicaments에서, E. faecalis에 대한 설명으로 옳은 것은?","choices":[{"label":1,"text":"Growth phase에서 세균 독성이 가장 높게 나타났다."},{"label":2,"text":"Starvation phase 에서 약제 내성이 가장 높게 나타났다."},{"label":3,"text":"Alkaline-adapted cells는 bile salt에 더욱 suspectible 하다."},{"label":4,"text":"수산화칼슘에 대한 저항성은 stress-induced protein에 의한 것이다."},{"label":5,"text":"Growth phase에서 stationary phase에서 보다 약제 내성이 높다."}],"answer_raw":"2","explanation":"(클래식 C-1-1-2)\n1. Cells in the exponential growth phase were the most sensitive to all three medicaments and\nwere killed between 3 s and 10 min.\n2. Cells in starvation phase were the most resistant and were not totally eliminated by the\nmedicaments during the 10-min test period.\n3. It has been shown that alkaline-adapted cells develop a high resistance against bile salts.\n4. Stress-induced protein synthesis in itself does not provide for the survival of E. faecalis in\ncalcium hydroxide.\n5. Cells in the exponential growth phase were the most sensitive to all three medicaments and\nwere killed between 3 s and 10 min. Cells in stationary phase were more resistant and living cells\ncould be recovered at 10 min.","images":[]},{"id":"q058","number":58,"question":"CBCT 촬영 시 방사선 노출량을 증가시키는 인자가 아닌 것은?","choices":[{"label":1,"text":"높은 mA"},{"label":2,"text":"높은 kV"},{"label":3,"text":"큰 voxel size"},{"label":4,"text":"넓은 field of view"},{"label":5,"text":"긴 exposure time"}],"answer_raw":"3","explanation":"","images":[]},{"id":"q059","number":59,"question":"다음중 괄호 안에 들어갈 말은?\nNon Vital Bleaching 위한 base 형성시 attachment가 ( ) 에서 높기 때문에\nbobsleigh형태로 만들어준다?","choices":[],"answer_raw":"","explanation":"인접면","images":["images/2023/q059_img1.jpeg"],"source_page":31,"answer_only":true,"answer_display":"인접면"},{"id":"q060","number":60,"question":"Liu et al. (2021) EDTA promotes the mineralization of dental pulp in vitro and in vivo에 대한 설명\n중 옳지 않은 문장은? (뉴저널 2021-1-1)","choices":[{"label":1,"text":"12% EDTA로 전처리한 군에서 reparative dentin이 더 잘 형성되었다."},{"label":2,"text":"MTA 적용 전 EDTA 처리한 군에서 Tunnel defect가 많이 생겼다."},{"label":3,"text":"EDTA-treated dentin은 dental pulp stem cell의 분화, 증식을 촉진한다."},{"label":4,"text":"Dental pulp cell의 분화는 ERK 1/2 signaling pathway에 의해 증진되고 Smad 2/3 signaling\npathway에 의해 억제된다."},{"label":5,"text":"mechanical pulp exposure후 12%EDTA를 5분간 soaking 하여 dental pulp cell에 미치는\n양상을 In vivo에서 확인하였다."}],"answer_raw":"2","explanation":". EDTA 전처리한 그룹에서 tunnel defect가 더 적게 생김\n뉴저널 2021-1-1 EDTA Promotes the Mineralization of Dental Pulp In Vitro and In Vivo, Linyu Liu\net al., 2020, JOE","images":[]},{"id":"q061","number":61,"question":"2021 Von Arx의 논문 “Occurrence of Vertical Fracture after Apical Surgery: A retrospective\nanalysis” 에서 옳은 내용은?","choices":[{"label":1,"text":"54%의 VRF가 관찰되었다."},{"label":2,"text":"재수술시 VRF가 유의하게 증가하였다."},{"label":3,"text":"치근단수술 후 VRF는 하악 제1 대구치 근심 치근에서 가장 많이 일어난다."},{"label":4,"text":"치근단수술 후 VRF는 1년 이내에 가장 높은 빈도로 일어난다."},{"label":5,"text":"치근단수술 후 VRF는 치아 종류 상관 없이 교합에 따라 발생한다."}],"answer_raw":"4","explanation":"(최신저널 endo 2021-1-2)\n1: VRF는 4% 관찰됨\n2: ‘VRFs tended to occur more frequently in resurgeries compared with first-time surgeries’\n표 보면 유의하지는 않음.\n3: ‘The most frequently affected root was the mesial root of mandibular first molars’\n하악 제1대구치가 가장 많기는 했는데 이건 그냥 케이스가 많았던거고 치근단수술을 받은 케이스 중\n발생빈도가 가장 높았던건 소구치라고 나와있습니다.\n4: ‘66.7% of the VRF occurred within 1 year after surgery’\n5: 치아 종류에 따라 VRF 발생률 차이 존재","images":[]},{"id":"q062","number":62,"question":"2021 Shabbir 의 “Access Cavity Preparations: Classification and Literature\nReview of Traditional and Minimal Invasive Endodontic Access Cavity Designs”\n논문에서 옳은 것은?","choices":[{"label":1,"text":"Traditional access 이다."},{"label":2,"text":"치질 보존에 불리하다."},{"label":3,"text":"치근 파절 강도 향상에 유리하다."},{"label":4,"text":"이점보다 위험요소가 많다."},{"label":5,"text":"Procedural error, disinfection, 변색에 유리하다."}],"answer_raw":"4","explanation":". Conservative access 로 치질 보존에 유리하나 치근 파절 향상을 시킨다고 보기는 어려우며\nprocedural error, 세척, 변색 등의 술식에 불리할 수 있다. (최신저널 엔도 2021-3-2)","images":["images/2023/q062_img1.jpeg"],"source_page":32},{"id":"q063","number":63,"question":"다음은 무엇의 분류인가?","choices":[{"label":1,"text":"external root resorption"},{"label":2,"text":"internal root resorption"},{"label":3,"text":"red dot"},{"label":4,"text":"caries"},{"label":5,"text":"cervical root resorption"}],"answer_raw":"5","explanation":"보기는 정확히 기억나지 않는데 위의 heithersay classification 사진 보여주고 무엇의 분류인지\n고르는 것","images":["images/2023/q063_img1.jpeg"],"source_page":33},{"id":"q064","number":64,"question":"아래 그림에 해당하지 않는 것은?","choices":[{"label":1,"text":"zip"},{"label":2,"text":"ledge"},{"label":3,"text":"lingual shoulder"},{"label":4,"text":"file deviation"},{"label":5,"text":"incomplete incisal extension"}],"answer_raw":"1","explanation":"(Pathway 11판 p153 Fig 5-42)\ninadequate access preparation. The lingual shoulder was not removed, and incisal extension is\nincomplete. The file has begun to deviate from the canal in the apical region, creating a ledge.\n→ ledge, lingual shoulder, file deviation, incomplete incisal extension 모두 해당됨.","images":["images/2023/q064_img1.jpeg"],"source_page":33},{"id":"q065","number":65,"question":"vital pulp therapy 에서 치수 출혈 조절에 사용할 수 없는 재료는?","choices":[{"label":1,"text":"epinephrine"},{"label":2,"text":"sodium hypochlorite"},{"label":3,"text":"2% CHx"},{"label":4,"text":"30% hydrogen peroxide"},{"label":5,"text":"Direct pressure with sterile dry cotton pallets"}],"answer_raw":"","explanation":"잘 모르겠습니다… 죄송합니다.\n3 (?) : CHx이 지혈 방해한다는 문장을 어디서 읽은것 같은데 정확하지 않습니다. 혹시 reference\n있으시다면 부탁드릴게요 감사합니다!\n## pathway 10판 888 page에 완전히 건조된 면구는 사용해서는 안된다 라는 문장이 있어요!\n-> 답 : 5번\npathway 11판 p.865 ;\nvarious concentrations of NaOCl; 2% chlorhexidine; MTAD (DENTSPLY Tulsa Dental Specialties,\nTulsa, Oklahoma); 30% hydrogen peroxide (Superoxol); ferric sulfate; disinfectants such as\nTubulicid (Global Dental Products, North Bellmore, New York); epinephrine, direct pressure with\ncotton pellets soaked in sterile water or saline; and the use of lasers.","images":[]},{"id":"q066","number":66,"question":"전기치수 검상에서 false negative 나타날수 있는 것은?","choices":[{"label":1,"text":"Immature apex"},{"label":2,"text":"Partial pulp necrosis"},{"label":3,"text":"Patient’s high anxiety"},{"label":4,"text":"Ineffective tooth isolation"},{"label":5,"text":"Contact with metal restoration"}],"answer_raw":"1","explanation":"나머지는 false positive와 관련","images":[]},{"id":"q067","number":67,"question":"2008년 Siqueira 등의 Clinical implications and microbiology of bacterial persistence after\ntreatment procedures에 내용에 의거하여, 다음 중 gram-positive bacteria가 아닌 것은?","choices":[{"label":1,"text":"Streptoccocus mitis"},{"label":2,"text":"Actinomyces israelii"},{"label":3,"text":"Enterococcus Faecalis"},{"label":4,"text":"Fusobacterium nucleatum"},{"label":5,"text":"Pseudoramibacter alacolyticus"}],"answer_raw":"4","explanation":"필독 C-1-1-1 Bacterial Taxa-persisting Intracanal Procedures 문단\n## 이거 문제에 'persistent/secondary infections 에서 발견되는'이라는 말이 있었어서 이차감염에서\n발견되지 않는 세균 찾기가 핵심인거같아요","images":[]},{"id":"q068","number":68,"question":"근관치료 중 transportation이 발생하여 그 방향을 확인하기 위해 근관 내 파일을 넣고 방사선사진을\n수평각을 주어 근심, 정면, 원심 세 장 촬영하였다. 다음 중 transportation 된 위치가 맞게 표시된 것은?\n(근심) (정면) (원심)\n2.\n4.","choices":[],"answer_raw":"3","explanation":"필독 C-1-4-1 Alternation in horizontal angulation, The buccal object, 4) identification of apical root\ncurvature, Fig 14","images":["images/2023/q068_img1.png"],"source_page":36},{"id":"q069","number":69,"question":"다음 중 그람음성균의 구성성분이 아닌 것은?","choices":[{"label":1,"text":"Proteoglycan"},{"label":2,"text":"Lipoprotein"},{"label":3,"text":"Lipoteichoic acid"},{"label":4,"text":"Lipopolysaccharide"},{"label":5,"text":"Cytoplasmic membrane"}],"answer_raw":"3","explanation":"pathway 10th edition (한글판) p.604\nLipoteichoic acid -> 그람양성균","images":[]},{"id":"q070","number":70,"question":"다음 설명 중 옳지 않은 것은?","choices":[{"label":1,"text":"상아세관액은 fibrinogen을 포함"},{"label":2,"text":"상아세관액은 albumin을 포함"},{"label":3,"text":"Dentinal crack에 의해 상아세관 노출시 상아세관액의 inward flow가 일어난다."},{"label":4,"text":"Dentinal crack에 의해 상아세관 노출시 상아세관 내 단백질이 응고(coagulation)된다."},{"label":5,"text":"상아세관 내 단백질 응고로 투과성이 감소하는 현상은 2일 이내 일어난다."}],"answer_raw":"3","explanation":"(inward -> outward)\nPathway 10th edition (한글판) p.560\nPathway 12th edition (영문판) p.578\n1,2 ) 상아세관액은 섬유소나 혈장 알부민 같은 단백질을 포함하고 있으며\n3) 상아세관이 완전치 노출될 때 상대적으로 높은 치수조직압에 의해 상아세관액의 외측 유동이\n일어난다.\n4) 상아세관액은 섬유소나 혈장 알부민 같은 단백질을 포함하고 있으며, 이들은 응고되어 효과적으로\n상아세관 내강을 막을 수 있다.\n5) 따라서 액의 출구를 제한시킴으로써 결과적으로 상아질지각과민증을 줄일 수 있다. 이 현상은 2일\n이내에 발생할 수 있다.","images":[]},{"id":"q071","number":71,"question":"2021년 Bhatt et al의 “Clinical decision making and importance of the AAE/AAOMR position\nstatement for CBCT examination in endodontic cases” 에서 치근단 방사선 사진보다 CBCT로 더 잘\n관찰할 수 있는 것으로 옳지 않은 것은?","choices":[{"label":1,"text":"calcified canal"},{"label":2,"text":"periapical lesions"},{"label":3,"text":"complex root anatomy"},{"label":4,"text":"missed canals"},{"label":5,"text":"vertical root fracture"}],"answer_raw":"1","explanation":"(뉴저널 21-1-5) Conclusion : 치근단방사선에 비해 CBCT는 치근단 병변, 놓친 근관, 치근파절, 복잡한\n해부학을 더 잘 드러냄.\nDiscussion: 본연구에서 CBCT는 치근흡수나 석회화근관을 진단하는데서는 유의하지않음.","images":[]},{"id":"q072","number":72,"question":"Nonodontogenic toothache에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"상악동에 의한 nonodontogenic toothache일 경우 타진에 양성일 수 있다."},{"label":2,"text":"temporalis m. 에 의한 연관통은 상악 대구치에 나타날 수 있다."},{"label":3,"text":"myofacial pain일 경우 주로 masseter muscle에 기인한다"},{"label":4,"text":"Myofascial pain의 경우 통증을 악화시키는 요인은 발통점이 있는 근육의 운동이다?"},{"label":5,"text":"neurovascular pain일 경우 머리를 앞으로 숙일 경우 통증이 증가한다."}],"answer_raw":"","explanation":"? POP 10판\n1) p61 상악동/비점막 동통은 상악동 점막 부위를 타진할 때분만 아니라 여러 개의 상악 치아를\n타진했을 때도 나타낼 것이다.\n2) ?\n3) p60-61 Myofacial pain은 과흥분된 근육조직의 작은 병소에서부터 나온다~ 전형적으로 치아에\n동통을 전이하는 근육은 교근, 측두근, 외측익돌근이다.\n4) ?\n5) 못찾겠습니다ㅠ\n***5번이 옳지 않은 보기인 것 같습니다. Neurovascualr pain이 아니고, sinus or nasal mucosal origin에\n의한 비치성 치통(Nonodontogenic toothache of sinus or nasal mucosal origin)에 대한\n설명입니다. 상악동염에 의해서 머리 위치가 변화했을때 동통 증가하는 head dip test 양성반응을 볼 수\n있다고 한다고 하네요 (근거: Dental pulp 2판 p.455 Nonodontogenic toothache of sinus or nasal\nmucosal origin)\n## 5번 내용 Pathway 11판 p.691에도 있어요!\nMusculoskeletal and Somatic pain>pain of sinus or nasal mucosal origin 단락에\n“... Other symptoms of sinus disease include sensitivity to palpation of structures overlying sinuses\n(i.e., paranasal tenderness) and a throbbing or increased pain sensation when the head is placed\nlower than the heart.”","images":[]},{"id":"q073","number":73,"question":"다음 중 옳지 않은 것을 고르시오.","choices":[{"label":1,"text":"항생제는 보통 5~7일간 처방한다."},{"label":2,"text":"Erythromycin은 anaerobe bacteria에 탁월한 효과를 보인다."},{"label":3,"text":"Clindamycin은 Gram(+), anaerobe bacteria에 효과적이다."},{"label":4,"text":"Amoxicillin은 효과범위가 넓고 반감기가 길어서 예방적 항생제에 일차적으로 사용된다."},{"label":5,"text":"Amoxicillin에 clavulanic acid를 같이 쓰면 β-lactamase에 비가역적으로 작용하여\n항생제의 가수분해를 막는다."}],"answer_raw":"2","explanation":"(근관치료학 p.121-122)\n1) O, 교과서에 나와있지 않지만 일반적으로 맞습니다.\n2) X, Erythromycin은 Macrolide계열로, Macrolide는 혐기성 세균에 효과가 없다.\n3) O,Clindamycin은 그람 양성 호기성 세균과 양성 및 음성 혐기성 세균에 모두 효과적이다.\n4) O, 교과서 내용 그대로 있습니다.\n5) O, 아목시실린은 β-lactam핵을 가진 항생제인데, 일부 세균은 β-lactamase를 분비해서 항생제를\n가수분해한다. 이 경우 아목시실린의 효과가 사라지는데 clavulanic acid를 첨가하면, 이것이 β-\nlactamase에 비가역적으로 결합해서 항생제의 가수분해를 방지한다.","images":["images/2023/q073_img1.jpeg"],"source_page":39},{"id":"q074","number":74,"question":"다음 중 mylohyoid muscle과 platysma사이의 공간으로, 하악 구치부 치수가 괴사될 경우 감염이\n생기는 공간은?","choices":[{"label":1,"text":"Mental space"},{"label":2,"text":"Submental space"},{"label":3,"text":"Sublingual space"},{"label":4,"text":"Submandibular space"},{"label":5,"text":"Pterygomandibular space"}],"answer_raw":"4","explanation":"Submandibular space에 대한 설명입니다. (pathway 11판 p.713)","images":[]},{"id":"q075","number":75,"question":"2022년 Int Endod J에 개재된 “Efficacy of four local an aesthesia protocols for mandibular first\nmolars with symptomatic irreversible pulpitis: A randomized clinical trial“에서 비가역성 치수염에서\n가장 효과가 좋은 마취 방법은?\n➀ Group 1 (IANB) : standard inferior alveolar nerve block (IANB) injection\n➁ Group 2 (IANB + IO) : A standard IANB was administered followed by the\nsupplemental intraosseous infusion (IO) injection","choices":[{"label":1,"text":"➂ Group 3 (IANB + PDL) : A standard IANB was administered followed by"},{"label":2,"text":"periodontal ligament (PDL) injection"},{"label":3,"text":"➃ Group 4 (IANB + BI) : A standard IANB was administered followed by buccal"},{"label":4,"text":"infiltration."},{"label":5,"text":"➄ 위의 4가지 방법들에서 유의한 효과는 없었다."}],"answer_raw":"","explanation":"➁\n최신수복 근치 22년 1-2\n<Result>\nThe IANB + IO injection had a significantly higher success rate 92.5% (p < .05), followed by IANB\n+ PDL injection (72.5%), IANB + BI injection (65.0%), respectively with no significant differences\nbetween the IANB + PDL and IANB + BI injections (p > .05).\n- 가장 효과 좋은 방법 순서로는 Group 2 (IANB + IO) > Group 3 (IANB + PDL) > Group 4 (IANB + BI)\n였습니다.","images":[]},{"id":"q076","number":76,"question":"Flare up에 관한 설명으로 옳지 않은 것은?\n➀ 근관충전 완료 후에는 발생하지 않는다.\n➁ 술 전 동통이 있는 경우 발생할 빈도가 높다.","choices":[{"label":1,"text":"➂ 근관치료 시행 후 수 시간에서 수 일 이내에 통증, 부종 등의 증상이 나타나는 것이다."},{"label":2,"text":"➃ 예방으로는 근관치료 시 치근단 정출을 막기 위해 치근단공을 넘어 치근단조직을 자극하지"},{"label":3,"text":"않도록 하는 것이다."},{"label":4,"text":"➄ 예방을 위해 잔사를 밀어내는 작용이 적은 엔진 구동형 (rotary) 니켈-티타늄 파일을 이용하여 crown-"},{"label":5,"text":"down technique으로 근관 형성을 진행한다."}],"answer_raw":"","explanation":"➀\n*pathway p.50\n근관성 flare up은 다양한 이유로 발생되는데, 근단 종말부를 넘어서 성형을 한 경우에 과도한 기구조작,\n상아질 및 치수 잔사를 치근단 부위로 밀어 넣었을 경우, 불완전한 치수조직의 제거, “충전재의 과연장”,\n화학 세척제(세정제, 근관 내 첩약, 그리고 “실러”), 과교합， 치근파절， 미생물적 요소 등을 포함한다.\n*근관치료학 p.213\n근단공을 넘어서 기구조작을 하거나 근관 내 잔사가 치근단부로 밀려나가는 경우, 불완전한\n치수조직의 제 거, 근단공을 넘어가는 근광세정제나 “충전재”의 자극과 교합 그리고 미생물적 요인\n등이 원인으로 생각된다.\n- Flare up의 원인들 중 하나로 “충전재 과연장(자극), 실러”가 포함되어 있으므로 근관충전 완료\n후에도 flare up은 발생할 수 있다는 것을 의미합니다.","images":[]},{"id":"q077","number":77,"question":"다음 중 pulp vitality test인 것을 고르시오.","choices":[{"label":1,"text":"➀ Bite test"},{"label":2,"text":"➁ Cold test"},{"label":3,"text":"➂ Pulp oximetry"},{"label":4,"text":"➃ Percussion"},{"label":5,"text":"➄ Electric pulpal test"}],"answer_raw":"","explanation":"➂\n해설 : POP 10th p.20\n'치수생활력 진단을 위해 pulse oximeter를 이용함에 있어~'\n- bite test와 percussion은 치주인대 검사이며 냉검사와 전기치수검사는 신경을 검사함.","images":[]},{"id":"q078","number":78,"question":"다음을 예방하는 것은?(전치부 내흡수 CBCT 사진 - 출처없는 사진이 출제되어 구글링함. 출제된\n사진은 middle ⅓부위에 내흡수가 있는 사진이었음.)","choices":[{"label":1,"text":"➀ 치은"},{"label":2,"text":"➁ 법랑질"},{"label":3,"text":"➂ 백악질"},{"label":4,"text":"➃ 치주인대"},{"label":5,"text":"➄ 전상아질"}],"answer_raw":"","explanation":"➄\n해설 : 최신근관치료학 교과서 p. 60\n내흡수의 조직병리학적 소견 설명에 '치수와 접근되어 있는 상아질 벽에서는 상아질모세포와\n풋상아질(전상아질)이 나타나지 않으며'라고 서술됨.","images":["images/2023/q078_img1.jpeg"],"source_page":42},{"id":"q079","number":79,"question":"2020년 Cortes의 \"Survival of replanted permanent teeth after traumatic avulsion\"에 대한 내용으로\n옳지 않은 것은?","choices":[{"label":1,"text":"5.5년간 생존율은 50퍼센트이다."},{"label":2,"text":"치근형성정도가 중요한 요인이다"},{"label":3,"text":"탈구된 치아의 보관액으로써 우유는 좋은 보관용액이다."},{"label":4,"text":"16세까지 나이가 증가함에 따라 치아 생존율은 증가한다."},{"label":5,"text":"위 연구에서 전신적 항생제의 유용성을 입증했다."}],"answer_raw":"5","explanation":"(최신 근관 20-1-2)\n① 탈구 후 재식된 영구치의 전체 생존율은 5.5년 후 50%임을 보여줌.\n② result에서 환자의 외상당시나이, 치근의 발달단계가 유의한 예측 인자라고 하였으며, 성숙치아의\n발치율은 미성숙 치아의 절반으로 나타남.\n③ 우유에 보관된 치아가 재식후 증가된 생존율을 보여줌.\n④ *Result에 16세 미만에서 1살이 증가함에따라 발치비율이 감소했다고 나와있습니다.\n⑤ 논문의 결과에서 SAT(전신적 항생제 처방)가 치아의 장기생존에 영향을 미치지 않았음.","images":[]},{"id":"q080","number":80,"question":"2012 Andersson등이 Dental Traumatology에 게재한 \"International Association of Dental\nTraumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent\nteeth\"에 대한 내용으로 옳은 것은?","choices":[{"label":1,"text":"1달 후 근관치료를 시행한다."},{"label":2,"text":"전신적 항생제의 사용은 추천되지 않는다."},{"label":3,"text":"전신적 항생제의 사용시 가장 우선적으로 amoxycillin의 사용이 추천된다."},{"label":4,"text":"미성숙 영구치의 경우 치수 재혈관화와 치근형성이 최우선 목표이다."},{"label":5,"text":"치근형성이 완료된 경우, 4주간 flexible wire로 splint한다."}],"answer_raw":"4","explanation":"* 전신적 항생제로 첫번째로 추천되는 항생제는 tetracyclin이며, 미성숙 영구치의 경우 근관치료를\n시행하지 않거나 치수 재혈관화와 치근 형성이 최우선 목표가 되어야 할 것 같습니다.\n① 치아 재식 7-10일 후 splint를 제거하기 전 근관치료 시작함.\n② 대부분의 경우 치아재식 이후 항생제를 사용할 것을 추천함.\n③ 전신적 항생제 투여시 첫번째로 추천되는 항생제는 tetracyclin이며, 12세 이하 환자에게는 추천되지\n않음.\n(대체로 페니실린 또는 amoxycillin도 사용가능 하다고 나와있습니다.)\n④ 미성숙 영구치는 치수괴사의 임상적,방사선학적 근거가 없는 경우 근관치료를 시행하지 않음.\n⑤ 치근형성이 완료된 영구치의 경우 Flexible splint를 2주 적용함.","images":[]},{"id":"q081","number":81,"question":"석회화된 근관을 다루기 위해 사용하고, 술자가 근관에 143%의 강한 힘을 가할 수 있는 file?","choices":[{"label":1,"text":"k file"},{"label":2,"text":"C+ file"},{"label":3,"text":"flexo file"},{"label":4,"text":"K-flex file"},{"label":5,"text":"reamer"}],"answer_raw":"2","explanation":"[근관치료학 p.229] * 다른 보기들이 정확하지 않습니다. 죄송합니다.","images":[]},{"id":"q082","number":82,"question":"Flare up에서 술후 통증을 예측할 수 있는 가장 큰 예측인자는?\n②\n④ 술전 진통제 복용여부","choices":[{"label":3,"text":"술전 통증 및 Mechanical Allodynia"},{"label":4,"text":"술전 진통제 복용여부"}],"answer_raw":"3","explanation":"[pathway 10판 기준 - 근관치료 시 약리학 단원]* 다른 보기들이 정확하지 않습니다.\n죄송합니다.","images":[]},{"id":"q083","number":83,"question":"Roane JB The “Balanced Force” Concept of instrumentation of Curved canal 에서 다음의 q,r, u,\nv가 나타내는 것은?","choices":[{"label":1,"text":"Flute"},{"label":2,"text":"Cutting edge"},{"label":3,"text":"Rake angle"},{"label":4,"text":"Radial land"},{"label":5,"text":"Clearance angle"}],"answer_raw":"5","explanation":"Clearance angle [필독 C-3-2-3]","images":["images/2023/q083_img1.jpeg"],"source_page":44},{"id":"q084","number":84,"question":"다음 논문 Effect of length on the torsional resistance of rotary nickel titanium instrument 의 결과에\n대해서 옳은것?","choices":[{"label":1,"text":"Shank가 짧아질수록 maximum torsional load가 커진다."},{"label":2,"text":"PTN과 PTG에서 shaft length 길이에 따라 maximal torsional load의 유의한 차이가 있었다? 는\n느낌의 내용"},{"label":3,"text":"Hyflex CM에선 31mm가 25,21mm에 비해서 유의하게 높은 maximum torsional load를 갖는다."},{"label":4,"text":"?"},{"label":5,"text":"Protaper Next에선 31mm가 25,21mm에 비해서 유의하게 높은 maximum torsional load를\n갖는다."}],"answer_raw":"3","explanation":"(최신 20-1-근관3번 논문)\n- 나머지 보기들에서 틀린 내용으로는, protaper next가 protaper gold에 비해서 maximum torsional\nload도 크고, toughness도 크단 내용이 있었고, protaper next file이 31mm가 21,25에 비해서 torsional\nload가 컸다 라는 내용들이 있었습니다.","images":[]},{"id":"q085","number":85,"question":"다음은 rake angle에 대한 그림이다. A-B-C가 알맞게 연결된 것을 고르시오.","choices":[{"label":1,"text":"neutral - positive - negative"},{"label":2,"text":"positive - neutral - negative"},{"label":3,"text":"negative – neutral – positive"},{"label":4,"text":"neutral - negative- positive"},{"label":5,"text":"positive - negative - neutral"}],"answer_raw":"3","explanation":"(보기순서는 시험지 상과 다를 수 있습니다.)\nnegative – neutral – positive\nPOP 11th fig 6-14","images":["images/2023/q085_img1.jpeg"],"source_page":45},{"id":"q086","number":86,"question":"고압증기멸균에 대한 설명으로 괄호에는 압력, 온도, 시간이 비워져 있었습니다.","choices":[],"answer_raw":"1","explanation":"5 psi- 121℃ - 15분\n책마다 조금씩 다르게 되어 있었습니다.\n1) Pop 11th p140 2번째줄\n오토클레이브법은 대부분의 건강과 관련된 시설에서 멸균에 사용하는 가장 전형적인 방법이다.\n일반적으로 15psi, 250℉(121℃)에서 30분 주기로 사용된다.\n30psi, 273℉(134℃)의 높은 온도에서 10분 주기의 순간 멸균방법도 가능하다.\n2) A&S 10th 번역본 p373\n증기압멸균(가압멸균)\n증기압에서의 멸균은 증기가압멸균기에서 시행한다. 소량의 기구는121℃에서 최소 15분, 15lbs\n압력으로 멸균을 시행한다.\n천으로 싼 기구는 134℃ ,30lbs에서 시간을 7분 정도로 줄일 수 있다.\n*15psi, 121℃ 에서 15분이라는 보기는 있었으나, 30분은 없었고 60분 보기가 있었습니다.","images":[],"answer_only":true,"answer_display":"5 psi - 121℃ - 15분"},{"id":"q087","number":87,"question":"근관세척제 관련하여 옳지 않은 것은?","choices":[{"label":1,"text":"NaOCl, EDTA 세척 후에도 EDTA 칼슘결합능은 그대로 유지된다"},{"label":2,"text":"NaOCl과 CHX 세척 시 붉은색 침전물이 생긴다"},{"label":3,"text":"NaOCl와 EDTA 혼용 시 NaOCl의 세척능이 떨어진다"},{"label":4,"text":"EDTA와 CHX 세척 시 검은색 침전물이 생긴다"},{"label":5,"text":"?"}],"answer_raw":"4","explanation":"1) O NaOCl과 혼합시 EDTA의 칼슘 부착능은 유지되지만 NaOCl의조직 분해능은\n잃어버림( POP 10판 p.270)\n2) O 여러색깔인듯.. 사진 참조 [POP 10판 그림 8-48]\n3) O 1)과 동일 해설\n4) X EDTA+ CHX = 흰색 침전물 (POP10판 p.267)\n5) ?","images":[]},{"id":"q088","number":88,"question":"근관세척제 관련 문제","choices":[{"label":5,"text":"IKI와 클로르헥시딘을 혼용해서 사용할 경우 수산화칼슘에 저항성이 있는 세균을 좀 더\n효과적으로 박멸할 수 있다"}],"answer_raw":"5","explanation":"(POP p.335)\n다른 보기는 기억이 잘 안나서요 죄송합니다다다…","images":[]},{"id":"q089","number":89,"question":"NaOCl 에 관한 내용으로 옳지 않은 것은?","choices":[{"label":1,"text":"따뜻하게 데우면 효과가 증진된다."},{"label":2,"text":"pH<3 이하의 강산으로 항세균효과가 있다."},{"label":3,"text":"fatty acid 를 fatty acid salt 와 glycerol로 분해한다."},{"label":4,"text":"염소기가 단백질을 아미노산으로 분해한다."},{"label":5,"text":"자유염소기가 protein amine group에 결합하여 chloramine을 형성한다."}],"answer_raw":"2","explanation":"1) O 근관치료학 334p\n2) X NaOCl은 pH 11.4 알칼리성 ( pathway 10판 p. 333)\n3) ?\n4) O 괴사된 조직과 파편들은 NaOCl의 유리염소로 인해서 단백질이 아미노산으로\n분해되면서 용해됨 ( pathway 10판 p. 359)\n5) O 논문 C-3-4-1 내용","images":[]},{"id":"q090","number":90,"question":"근관충전에 관하여 옳지 않은 것은?","choices":[{"label":1,"text":"근관충전시기에 가봉재의 건전 여부는 관련없다."},{"label":2,"text":"괴사치수에서 삼출물 지속시 근관충전은 시행하면 안된다."},{"label":3,"text":"세정과 성형후 근관충전은 필수적이다."},{"label":4,"text":"근관 세정과 성형후 세균과 치수조직의 괴사 산물들이 효과적으로 제거된 상태를 유지하기\n위해 충전을 시행하여야 한다."},{"label":5,"text":"근관충전의 목적은 구강이나 치근단조직으로부터 근관계로 연결되는 모든 누출통로를\n폐쇄하고 완전히 제거될 수 없었던 자극물을 근관계 내에 봉쇄하는 것이다."}],"answer_raw":"1","explanation":"(근관치료학 371p.)\n** 근관충전 시기를 결정하는 이상적인 요소는 다음과 같다.\n-\n환자는 증상이 없고 타진에 불편감을 가지지 않으며\n-\n누공이 폐쇄되어 치유되어 있거나\n-\n삼출액이 거의 없고 악취가 나지 않아야하며\n-\n근관이 적절한 크기로 확대되어야 하고\n-\n가봉재가 건전하고 변연누출의 흔적이 없어야 한다\n-\n음성배양을 얻을수 있다면 더욱 바람직 하다.","images":[]},{"id":"q091","number":91,"question":"다음 그림이 사용되는 치료 과정은?","choices":[{"label":1,"text":"근관충"},{"label":2,"text":"근관세척"},{"label":3,"text":"거타퍼챠 소독"},{"label":4,"text":"근관파일 소독"},{"label":5,"text":"(평이한 보기)"}],"answer_raw":"1","explanation":"(pathway 11판, p. 312, fig. 7-47)\n-\nthermafil oven (thermaprep II)","images":["images/2023/q091_img1.jpeg"],"source_page":48},{"id":"q092","number":92,"question":"2022 Kim’s “Clinical Efficacy of sealer-based obturation using calcium silicate sealers:a\nrandomized clinical trial”에서 loose한 criteria에서 근관치료 성공률에 대해 유의미한 요소는?","choices":[{"label":1,"text":"환자의 성별"},{"label":2,"text":"환자의 나이"},{"label":3,"text":"술전 PAI"},{"label":4,"text":"sealer extrusion"},{"label":5,"text":"pre-operative pain"}],"answer_raw":"4","explanation":"최신 근관 2022-1-3 Abstract에서 result에 있는 문장","images":[]},{"id":"q093","number":93,"question":"다음 기구의 이름은?","choices":[{"label":1,"text":"Gonon post removal system"},{"label":2,"text":"Eggler post remover"},{"label":3,"text":"Gyro Tip"},{"label":4,"text":"Thomas screw post removal kit"},{"label":5,"text":"Ruddle Post Removal system"}],"answer_raw":"2","explanation":"Eggler post remover ( pathway 10판 p.972-973)","images":["images/2023/q093_img1.jpeg"],"source_page":49},{"id":"q094","number":94,"question":"다음 중 일회 근관치료(1-visit endodontic treatment)가 가능한 치아는?","choices":[{"label":1,"text":"해부학적으로 치료가 어려운 치아"},{"label":2,"text":"심한 통증이 있는 괴사된 치수를 가진 치아"},{"label":3,"text":"급성통증 및 지속되는 삼출물이 없는 치아"},{"label":4,"text":"누공 없는 치근단 병소를 가진 증상 없는 치아"},{"label":5,"text":"타진에 반응이 있는 치아로 급성 치근단 치주염을 가진 치아"}],"answer_raw":"3","explanation":"(근관치료학 p. 157)\n** 일회 근관 치료가 추천 되지 않는 경우\n1. 심한 통증이 있는 괴사된 치수를 가진 치아\n2. 해부학적으로나 치료 술식에 있어 어려운 치아\n3. 누공이 없는 치근단 병소를 가지고 있고 증상이 없는 실활치수를 가진 치아\n4. 타진에 심한 반응을 보이는 급성 치근단치주염을 가진 치아\n5. 대부분의 재치료","images":[]},{"id":"q095","number":95,"question":"apical periodontitis의 치유에 대한 설명으로 옳지 않은 것은?","choices":[{"label":1,"text":"osteoblast가 관여"},{"label":2,"text":"대부분 fibrosis로 귀결"},{"label":3,"text":"치주인대의 multipotent stem cell이 관여"},{"label":4,"text":"anti-inflammatory cytokine 관여"},{"label":5,"text":"결합조직의 치유와 비슷"}],"answer_raw":"2","explanation":"(pathway 10판 p.592)\n- 치근단 치주염병소의 치유는 대부분 재생에 의해 이루어지지만 일부는 섬유화에 의해 치유가\n일어나기도 한다.","images":[]},{"id":"q096","number":96,"question":"2014년 american asso of pediatric dent에 따르면, 미성숙치아의 재식후 결과중 favorable\noutcome으로 아닌 것은?","choices":[{"label":1,"text":"tooth vitality"},{"label":2,"text":"pulp regeneration and apexogenesis (??)"},{"label":3,"text":"reparative dentine"},{"label":4,"text":"radiographic abnormal calcification"},{"label":5,"text":"abscense of symptom"}],"answer_raw":"4","explanation":"-\nPathway 12판 table17.1에 있는 내용입니다.\n-\nAbsence of radiographic evidence of internal or external root resorption, periapical\nradiolucency, abnormal calcification, or other pathologic changes.","images":[]},{"id":"q097","number":97,"question":"상악 우측중절치의 치근단수술 직후(A), 2년후(B), 3년후(C) 에 촬영한 치근단 방사선 사진입니다.\n상악 우측중절치의 방사선학적 치유 분류는?","choices":[{"label":1,"text":"Complete healing"},{"label":2,"text":"Incomplete healing"},{"label":3,"text":"Uncertain healing"},{"label":4,"text":"Failure"},{"label":5,"text":"Extraction"}],"answer_raw":"3","explanation":"(POP 11th edition p.485 Fig.11-11)","images":["images/2023/q097_img1.jpeg"],"source_page":51},{"id":"q098","number":98,"question":"아래 사진에 보이는 기구의 용도는?","choices":[{"label":1,"text":"크라운 프렙"},{"label":2,"text":"아말감 폴리싱"},{"label":3,"text":"교합조정"},{"label":4,"text":"근관 와동형성"},{"label":5,"text":"치근단 수술시 골삭제"}],"answer_raw":"5","explanation":"(POP 10th edition p.802)\n(POP 11th edition p.411)","images":["images/2023/q098_img1.jpeg"],"source_page":52},{"id":"q099","number":99,"question":"수직 이완 절개 시 원칙으로 옳은 것을 고르시오","choices":[{"label":1,"text":"A vertical incision should cut across frenum and muscle attachment."},{"label":2,"text":"The incision should be placed superior to a bony eminence."},{"label":3,"text":"Frenum and muscle attachment should be located in the reflected tissue."},{"label":4,"text":"The incision should be made perpendicular to the supraperiosteal vessels in the attached\ngingiva and submucosa"},{"label":5,"text":"The incision should extend from the depth of the vestibular sulcus to the midpoint\nbetween the dental papilla and the horizontal aspect of the buccal gingival sulcus."}],"answer_raw":"5","explanation":"(POP 11th edition p.409)\n-\n문장이 완벽하게 일치하진 않았지만 상기와 같은 내용이었습니다.\n① No cuts should be made across frenum and muscle attachment.\n② The incision should not be placed superior to a bony eminence.\n③ Frenum and muscle attachment should not be located in the reflected tissue.\n④ The incision should be made parallel to the supraperiosteal vessels in the attached gingiva and\nsubmucosa","images":[]},{"id":"q100","number":100,"question":"노령화에 따른 치수 변화 중 옳지 않은 것을 고르시오","choices":[{"label":1,"text":"조상아세포가 감소한다."},{"label":2,"text":"치수 내의 혈관 및 신경섬유들의 수가 감소한다."},{"label":3,"text":"치수 조직 내의 교원질 섬유 수가 감소한다."},{"label":4,"text":"이차 상아질과 삼차 상아질이 형성되면서 치수 부피가 지속적으로 감소된다."},{"label":5,"text":"혈관 내벽 세포 내의 미세 소포, 세포 골격 및 골지체의 증가 등이 관찰된다."}],"answer_raw":"3","explanation":"(근관치료학 p.690)\n3) 한편 치수 조직 내의 교원질 섬유 수는 증가하고,","images":[]}]}
+{
+  "year": 2023,
+  "title": "2023 치과보존과 전문의시험 1차",
+  "questions": [
+    {
+      "id": "q001",
+      "number": 1,
+      "question": "다음 그림에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "(1)은 감염 상아질은 세균에 의해 상아질의 유기 성분이 대부분 용해되고 무기질이 완전히\n소실된 영역이다."
+        },
+        {
+          "label": 2,
+          "text": "(2)는 탈회 상아질 역시 세균이 침입해 있는 부위로 탈회로 인해 무기질이 거의 남아 있지 않다."
+        },
+        {
+          "label": 3,
+          "text": "(3)은 투명 상아질은 상아 세관 내부에 유기질이 침착되어 광학 현미경 상으로 투명하게\n보이는 부분이다."
+        },
+        {
+          "label": 4,
+          "text": "(4)는 정상 상아질로서 우식의 영향을 받지 않은 부분이다."
+        },
+        {
+          "label": 5,
+          "text": "(5)는 재생 상아질은 우식에 의한 자극에 대해 방어작용으로 치수강에 인접하여 형성된다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 p.35)\n3) (x) 유기질 -> 무기질",
+      "images": [
+        "images/2023/q001_img1.jpeg"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": "q002",
+      "number": 2,
+      "question": "다음 중 옳은 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "교정력은 치수 혈류를 감소시킨다."
+        },
+        {
+          "label": 2,
+          "text": "냉각수 없이 치아 형성 시 치수의 화상 및 염증을 유발할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "16% carbamide peroxide 를 상아질에 적용 시 치수의 비가역적인 손상을 유발 할 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "치관 및 와동 형성 시 건조시켜도 조상아세포가 치수를 보호하므로 치수에 유해하지 않다."
+        },
+        {
+          "label": 5,
+          "text": "치아 와동 형성 후 NaOCl, 클로르헥시딘을 이용한 소독은 치수 괴사를 유발할 수 있다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "1) 교정력은 치수 혈류를 증가시킴\n2)\n3) 미백제는 가역적인 손상을 유발\n4) 조상아세포는 X\n5) 소독제는 치수괴사 유발안함",
+      "images": [],
+      "source_page": 16
+    },
+    {
+      "id": "q003",
+      "number": 3,
+      "question": "염증반응을 검사하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "MTT"
+        },
+        {
+          "label": 2,
+          "text": "Alizarin red S"
+        },
+        {
+          "label": 3,
+          "text": "IL-6 detection with ELISA"
+        },
+        {
+          "label": 4,
+          "text": "ALP activity"
+        },
+        {
+          "label": 5,
+          "text": "Osterix detection"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "어디 논문에 나오는지는 못 찾았지만 검색해보면 염증반응에 대한 검사라고 나옵니다.\n1) 세포독성검사\n2) mineralization 여부 검사\n3) 염증 검사\n4) mineralization 여부 검사\n5) Mineralization 확인 (Osteoblast 활성 확인검사)\n\n최신 엔도저널 21-2-1에 3) ELISA에 대해서 M&M에서 IL-6 포함한 여러 종류의 interleukin과 TNF, interferon 등의 cytokine을 분석했다고 나옵니다. LTA 인식으로 염증 반응이 일어나는 것을 사이토카인 방출로 확인했다는 내용으로 보이며, 결론에서도 이를 확인할 수 있습니다. → 3번",
+      "source_page": 16
+    },
+    {
+      "id": "q004",
+      "number": 4,
+      "question": "치수반응에 대해 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "비가역적 치수염은 치근단 병변을 동반한다"
+        },
+        {
+          "label": 2,
+          "text": "자극에 증상이 없으면 항상 정상 치수 이다"
+        },
+        {
+          "label": 3,
+          "text": "냉자극에 가역적인 sensitivity 는 가역적 치수염이다"
+        },
+        {
+          "label": 4,
+          "text": "냉자극에 지속적인 통증은 가역적 치수염이다"
+        },
+        {
+          "label": 5,
+          "text": "삼투압 변화에 가역적인 sensitivity는 정상 치수이다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "근관치료학 52page",
+      "images": [],
+      "source_page": 16
+    },
+    {
+      "id": "q005",
+      "number": 5,
+      "question": "다음 그림에서 설명하고 있는 동통의 종류로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Nociceptive Pain"
+        },
+        {
+          "label": 2,
+          "text": "Neuropathic Pain"
+        },
+        {
+          "label": 3,
+          "text": "Heterotopic Pain"
+        },
+        {
+          "label": 4,
+          "text": "Central Sensitization"
+        },
+        {
+          "label": 5,
+          "text": "Peripheral Sensitization"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(Pathways of the Pulp 11판, Box 17-1, Types of Pain)\nPrimary pain, heterotopic pain 쓰인 부분만 지운 채로 그림 그대로 나옴.",
+      "images": [
+        "images/2023/q005_img1.jpeg",
+        "images/2023/q005_img2.jpeg",
+        "images/2023/q005_img3.jpeg",
+        "images/2023/q005_img4.jpeg",
+        "images/2023/q005_img5.jpeg",
+        "images/2023/q005_img6.jpeg"
+      ],
+      "source_page": 3
+    },
+    {
+      "id": "q006",
+      "number": 6,
+      "question": "1986년 Kim S.의 Ligamental injection: a physiological explanation of its efficacy.에서의 ligamental\ninjection에서 진행한 실험 결과에 대한 설명 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ligamental injection 주입 시에는 needle의 사면이 치근 방향을 향해야 한다."
+        },
+        {
+          "label": 2,
+          "text": "마취액에 혈관수축제가 포함되어 있지 않아도 효과적으로 마취가 일어난다."
+        },
+        {
+          "label": 3,
+          "text": "통증의 원인치를 식별하는 데 사용할 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "생활치수를 가진 치아에서 수복 치료를 할 때의 마취 방법으로 사용할 수 있다."
+        },
+        {
+          "label": 5,
+          "text": "2% lidocaine with 1:100,000 Epi.과 같은 농도의 Saline with Epi.을 사용했을 때, PBF 감소\n양상이 비슷했다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(필독 A-2-3-2)\n1) 치조골 방향을 향하도록 한다.\n2) 압력만으로 마취되는 것이 아니며 마취제에는 혈관수축제가 포함되어 있어야 한다.\n3) 단일치아의 마취가 불가능하기 때문에 원인치의 진단에는 심각한 한계가 있다.\n4) 20분이상 혈류(PBF)를 완전히 정지시켜 치수 괴사 가능성이 있어 자연치에는 적용하지\n않도록 함.\n5) 정답 :논문의 그림 중에는 없지만 본문 내용(혈류측정한 실험 중 하나)에 그대로 나와있는\n결과였습니다./ ‘Fig 9&10.에서 Saline (with no epi.) 치주인대 내 주입 시 혈류변화 없음’과는\n상관없음.",
+      "images": []
+    },
+    {
+      "id": "q007",
+      "number": 7,
+      "question": "타액 자체가 가지는 직접적인 항세균 작용을 하는 타액 내 효소가 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Mucin"
+        },
+        {
+          "label": 2,
+          "text": "Agglutinin"
+        },
+        {
+          "label": 3,
+          "text": "Lactoferrin"
+        },
+        {
+          "label": 4,
+          "text": "Lysozyme"
+        },
+        {
+          "label": 5,
+          "text": "Lactoperoxidase"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(근관치료학 p.30)",
+      "images": []
+    },
+    {
+      "id": "q008",
+      "number": 8,
+      "question": "2013년 Pretty의 J.dent. ‘The caries continuum: Opportunities to detect, treat and monitor the re-\nmineralization of early caries lesions. 치아 우식의 분류 및 평가 방법에서 ICDAS, Fiber Optic Trans-\nillumination (FOTI), Electrical Caries Monitor(ECM)에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "ICDAS는 치면을 dry & clean 후 stage에 따라 우식을 분류하였다."
+        },
+        {
+          "label": 2,
+          "text": "FOTI는 증가된 porosity를 빛의 분산, 흡수 등을 통해서 발생하는 drak patch로 우식을\n확인한다."
+        },
+        {
+          "label": 3,
+          "text": "Diagnodent는 시진보다 false-positive가 높다."
+        },
+        {
+          "label": 4,
+          "text": "Diagnodent는 655nm(red-light)의 light illumination을 평가하여 우식과 altered tooth\nsubstance를 감별한다."
+        },
+        {
+          "label": 5,
+          "text": "ECM는 객관성, 민감도는 높으나 재현성은 떨어져서 우식의 진행과정 등 평가를 위한 clinical\ntrial에는 적합하지 않다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(A-3-4-1)\nECM은 높은 민감도, 재현성을 보이는 것으로 나타났고 우식을 모니터링하는 실용적이고 객관적이며\n민감한 방법이다.",
+      "images": []
+    },
+    {
+      "id": "q009",
+      "number": 9,
+      "question": "silver diamine fluoride 에 대해서 틀린 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "silver가 침착되면 변색 가능성이 있다."
+        },
+        {
+          "label": 2,
+          "text": "초기우식에 적용시 최소침습전략으로 우식처치 가능하다."
+        },
+        {
+          "label": 3,
+          "text": "마이크로브러쉬로 3분간 적용 후 수세 후 불소 바니쉬를 사용한다"
+        },
+        {
+          "label": 4,
+          "text": "과민성상아질에서 사용시 antihypersinsitivity 능력이 없어 caries 정지에만 사용가능하다"
+        },
+        {
+          "label": 5,
+          "text": "silver에 의해 demineralization이 감소하고 remineralization을 증진시킨다"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(art & science p.83)\nSDF는 antihypersensitivity agent로 FDA 승인 받은 물질로, off-label로 careis lesion을 arrest시키기\n위해서도 사용된다. (첫문장) 이외 맞는 말",
+      "images": []
+    },
+    {
+      "id": "q010",
+      "number": 10,
+      "question": "다음 수복/위험요인 보기에서 해당되는 항목을 고르시오.\n\n보기:\n1. severe salivary dry\n2. chemo, radiation therapy\n3. orthodontic appliance\n4. medication that reduce salivary flow\n\n답보기(객관식):\nA = ( )\nB = ( )",
+      "choices": [],
+      "answer_raw": "1",
+      "explanation": "정답: A-2, B-4\n\nA: chemo, radiation therapy\nB: medication that reduce salivary flow\n\n문제 그림 아래의 추가 그림/내용은 풀이에 포함.",
+      "images": [
+        "images/2023/q010_img1.png"
+      ],
+      "source_page": 6,
+      "answer_only": true,
+      "answer_display": "A - 2. chemo, radiation therapy\nB - 4. medication that reduce salivary flow",
+      "explanationImages": [
+        "images/2023/q010_img2.png"
+      ]
+    },
+    {
+      "id": "q011",
+      "number": 11,
+      "question": "self etch adhesive에 대한 내용으로 옳은 것을 고르시오",
+      "choices": [
+        {
+          "label": 1,
+          "text": "mild self etch adhesive의 PH는 1정도 이다."
+        },
+        {
+          "label": 2,
+          "text": "인산을 사용하여 smear layer를 제거한다"
+        },
+        {
+          "label": 3,
+          "text": "프라이머를 도포 후에 치면을 깨끗이 수세후 bonding 적용한다."
+        },
+        {
+          "label": 4,
+          "text": "aggressive self etch adhesive는 강한 산성으로 상아질에 대한 결합이 감소된다."
+        },
+        {
+          "label": 5,
+          "text": "1 step self etch adhesive는 친수성의 문제를 해결하여 상아질 결합력을 증가시켰다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "",
+      "images": []
+    },
+    {
+      "id": "q012",
+      "number": 12,
+      "question": "다음 그림 중 microtensile bond test를 나타내는 것은 무엇인가?",
+      "choices": [],
+      "answer_raw": "4",
+      "explanation": "그림 왼쪽부터\n1) macroshear\n2) microshear\n3) macrotensile\n4) microtensile\n5) push out\n\n정답: 4번 (microtensile)",
+      "images": [
+        "images/2023/q012_img1.jpeg"
+      ],
+      "source_page": 7,
+      "answer_only": true,
+      "answer_display": "4번 = microtensile"
+    },
+    {
+      "id": "q013",
+      "number": 13,
+      "question": "다음 중 phosphate기가 없는 구조는? (구조식 없고 대신 영어로 풀네임 적어줌)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "4 - META (4-methacryloxyethyl trimellitate anhydride)"
+        },
+        {
+          "label": 2,
+          "text": "10 MDP (10-Methacryloyloxy decyl dihydrogen phosphate)"
+        },
+        {
+          "label": 3,
+          "text": "MAEPA ( 2,4,6 trimethylphenyl 2-[4-(dihydroxyphosphoryl)-2-oxabutyl]acrylate"
+        },
+        {
+          "label": 4,
+          "text": "Phenyl P (2-metacryloxy ethyl phenyl hydrogen phosphate)"
+        },
+        {
+          "label": 5,
+          "text": "PENTA (dipentaerythritol penta acrylate monophosphate)"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "치과보존학 4판 p. 488 - 489\n접착형 레진시멘트는 카르복실기를 갖고 있는 4META, PMGDM 이나 인산기를 지닌 MDP, Phenyl P,\nBMP, Penta P 와 같은 접착 기능성 단량체를 포함하여 ~",
+      "images": []
+    },
+    {
+      "id": "q014",
+      "number": 14,
+      "question": "10-MDP의 구조식은? (구조식만 나온 보기들 중 10-MDP 고르기)",
+      "choices": [],
+      "answer_raw": "1",
+      "explanation": "3번 문항 참고",
+      "images": [
+        "images/2023/q014_img1.jpeg",
+        "images/2023/q014_img2.jpeg"
+      ],
+      "source_page": 8,
+      "answer_only": true,
+      "answer_display": "10-MDP (10-Methacryloyloxy decyl dihydrogen phosphate)"
+    },
+    {
+      "id": "q015",
+      "number": 15,
+      "question": "2021년 Stape 외 Dry bonding to dentin: Broadening the moisture spectrum and increasing\nwettability of etch-and-rinse adhesive 논문에서 시험군에 사용된 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Water"
+        },
+        {
+          "label": 2,
+          "text": "Acetone"
+        },
+        {
+          "label": 3,
+          "text": "Hydrogen peroxide"
+        },
+        {
+          "label": 4,
+          "text": "Methanol"
+        },
+        {
+          "label": 5,
+          "text": "Dimethyl sulfoxide (DMSO)"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": ") DMSO.\n최신 21-4-4 OP\nAim of the study: To determine whether the effect of dentin moisture on the etch-and-rinse\nbonding may be minimized by dry-bonding protocols utilizing aqueous or ethanolic dimethyl\nsulfoxide (DMSO) pretreatments",
+      "images": []
+    },
+    {
+      "id": "q016",
+      "number": 16,
+      "question": "2021년 Vidal 외의 Hydroxy acids for adhesion to enamel and dentin: : Long-term bonding\nperformance and effect on dentin biostability의 논문에 사용된 다음 hydroxy acid 중 pH가 가장 높은\n것은 무엇인가?",
+      "choices": [],
+      "answer_raw": "5",
+      "explanation": "Gluconolactone (최신 21-2-1 OP)\nFig 1. 참조: Phosphoric acid pH 0.38 / Glycolic acid pH 1.21 / Tartaric acid pH 0.96 / Gluconic acid\npH 1.51 / Gluconolactone pH 1.64\n(보기 순서는 figure 제시된 거랑은 조금 달랐는데 논문에 나온 시험군들 화학구조랑 이름이 같이\n주어졌습니다. 선지 순서는 논문 본문의 fig 순서대로 우선 복원하였습니다.)",
+      "images": [
+        "images/2023/q016_img1.jpeg"
+      ],
+      "source_page": 9,
+      "answer_only": true,
+      "answer_display": "⑤ Gluconolactone"
+    },
+    {
+      "id": "q017",
+      "number": 17,
+      "question": "2004년 D.H.pashley의 ‘Collagen Degradation by Host-derived Enzymes during Aging’ 논문에서\n촬영한 TEM 사진은 각각 어느 용액에서 보관한 것인가?\nPure mineral oil/Artificial saliva/Artificial saliva + protease inhibitor 3가지를 조합한 보기\n해설) B-1-1-2\nA)는 미네랄 오일, B)는 인공타액+단백분해효소 억제제, C)는 인공타액",
+      "choices": [],
+      "answer_raw": "",
+      "explanation": "",
+      "images": [
+        "images/2023/q017_img1.jpeg",
+        "images/2023/q017_img2.jpeg",
+        "images/2023/q017_img3.jpeg"
+      ],
+      "source_page": 9,
+      "answer_only": true,
+      "answer_display": "A: Pure mineral oil / B: Artificial saliva + protease inhibitor / C: Artificial saliva"
+    },
+    {
+      "id": "q018",
+      "number": 18,
+      "question": "다음이 설명하고 있는 재료로 가장 올바른 것은?\n강한 염기성을 가지고있어(pH=9~11) 향균작용이 있으나 시간이 지나며 분해되어 강도가 떨어지기\n때문에 기저재로 사용할 수 없다.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "GI cement"
+        },
+        {
+          "label": 2,
+          "text": "Calcium hydroxide"
+        },
+        {
+          "label": 3,
+          "text": "ZOE cement"
+        },
+        {
+          "label": 4,
+          "text": "Silver diamine fluoride (SDF)"
+        },
+        {
+          "label": 5,
+          "text": "RMGI cement\n해설) 내용이 정확하게 기억이 안 나는데 아마도 2번"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "",
+      "images": []
+    },
+    {
+      "id": "q019",
+      "number": 19,
+      "question": "#2, #4, #245 Bur의 직경 크기로 옳은 것은?",
+      "choices": [],
+      "answer_raw": "",
+      "explanation": "",
+      "images": [],
+      "answer_only": true,
+      "answer_display": ""
+    },
+    {
+      "id": "q020",
+      "number": 20,
+      "question": "다음 중 치아와 열 팽창계수가 가장 비슷한 물질은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "sealant"
+        },
+        {
+          "label": 2,
+          "text": "ceramic"
+        },
+        {
+          "label": 3,
+          "text": "composite"
+        },
+        {
+          "label": 4,
+          "text": "gold"
+        },
+        {
+          "label": 5,
+          "text": "amalgam"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "gold (보존수복학 p.224)\n장점 3번에 '치과재료 중에서 열팽창계수가 법랑질과 가장 비슷하여 구강내 온도변화에 따른\n변연누출이 가장 적다' 라는 문장 있습니다\n-> A&S table 13.1에서 보면 세라믹이 가장 비슷한거 같습니다. 답: 세라믹",
+      "images": []
+    },
+    {
+      "id": "q021",
+      "number": 21,
+      "question": "다음은 지르코니아의 transformation toughening에 의해 crack의 전파를 방해하는 기전이다. 다음\n표시된 부분의 구조는 무엇인가?\n⬆",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Cubic"
+        },
+        {
+          "label": 2,
+          "text": "Monoclinic"
+        },
+        {
+          "label": 3,
+          "text": "Tetragonal"
+        },
+        {
+          "label": 4,
+          "text": "Ditrigonal"
+        },
+        {
+          "label": 5,
+          "text": "Hexagonal"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "Transformation toughening에서 표시된 부분은 monoclinic 구조이다.",
+      "images": [
+        "images/2023/q021_img1.jpeg"
+      ],
+      "source_page": 11
+    },
+    {
+      "id": "q022",
+      "number": 22,
+      "question": "다음 그림에서 나타내는 실험방법은 무엇인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Knoop hardness test"
+        },
+        {
+          "label": 2,
+          "text": "Brinell hardness test"
+        },
+        {
+          "label": 3,
+          "text": "Vickers hardness test"
+        },
+        {
+          "label": 4,
+          "text": "Rockwell hardness test"
+        },
+        {
+          "label": 5,
+          "text": "~~ hardness test"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": ") Vickers hardness test (보기 순서는 정확하지 않습니다) A&S p.460 fig.13.15 참고",
+      "images": [
+        "images/2023/q022_img1.jpeg"
+      ],
+      "source_page": 11
+    },
+    {
+      "id": "q023",
+      "number": 23,
+      "question": "다음 중 알맞게 짝지어진 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A: compression"
+        },
+        {
+          "label": 2,
+          "text": "B : torsion"
+        },
+        {
+          "label": 3,
+          "text": "C : shear"
+        },
+        {
+          "label": 4,
+          "text": "D : tension"
+        },
+        {
+          "label": 5,
+          "text": "E : flexure"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(보기는 약간 다를 수 있으나 옳게 조합된 것은 flexure 뿐 이었습니다.)\nA&S p.458 fig. 13.11 참고",
+      "images": [
+        "images/2023/q023_img1.jpeg"
+      ],
+      "source_page": 12
+    },
+    {
+      "id": "q024",
+      "number": 24,
+      "question": "아말감 합금의 구성성분과 주기능으로 옳은것?\nA 70%\nB 16%\nC 13%\nD 1%",
+      "choices": [
+        {
+          "label": 1,
+          "text": "1 (A) Ag expansion"
+        },
+        {
+          "label": 2,
+          "text": "2 (B) Cu deoxidizer"
+        },
+        {
+          "label": 3,
+          "text": "3 (C) Sn strength"
+        },
+        {
+          "label": 4,
+          "text": "4 (C) Cu strength"
+        },
+        {
+          "label": 5,
+          "text": "5 (D) Zn strength"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "? (Ref. 치과보존학 p.179~180)\n-> A&S p.462 table13.3 그대로 나왔습니다 답은 4번",
+      "images": []
+    },
+    {
+      "id": "q025",
+      "number": 25,
+      "question": "빈칸에 들어갈 말로 옳은 것?\n( )은 Ag3Sn과 Cu3Sn으로 구성되어 있으며 최종 반응산물에 Sn7-8Hg(r2) 대신 Cu6Sn5이\n헝성된다. 하나의 입자가 초기엔 은 주석입자와 같은 반응을 나타내어 적절한 작업시간과 조작의\n편의성을 제공하고 나중에는 같은 입자가 은 구리 입자와 같이 작용하여 r2상을 제거한다.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "저동 절삭형 아말감"
+        },
+        {
+          "label": 2,
+          "text": "저동 구상형 아말감"
+        },
+        {
+          "label": 3,
+          "text": "고동 단일 조성형 아말감"
+        },
+        {
+          "label": 4,
+          "text": "고동 혼합 절삭형 아말감"
+        },
+        {
+          "label": 5,
+          "text": "고동 혼합 구상형 아말감"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": ".\n(ref. 치과보존학 p.182)",
+      "images": [
+        "images/2023/q025_img1.jpeg"
+      ],
+      "source_page": 13
+    },
+    {
+      "id": "q026",
+      "number": 26,
+      "question": "아말감 경화 반응에 대한 설명 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "은과 수은이 반응하여 γ1 상이 형성된다."
+        },
+        {
+          "label": 2,
+          "text": "주석과 수은이 반응하여 γ2 상이 형성된다."
+        },
+        {
+          "label": 3,
+          "text": "가장 부식 저항성이 약한 상은 γ2상이다."
+        },
+        {
+          "label": 4,
+          "text": "충분히 압축한 아말감에서 가장 많은 부분을 차지하는 상은 γ상으로 전체 부피의 54~56%를\n차지한다."
+        },
+        {
+          "label": 5,
+          "text": "적당한 양의 구리를 함유하고 있으면 γ2 상을 생성 후 수 시간 이내에 없어지게 하거나 아예 생기지\n않도록 할 수 있다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "γ -> γ1 (치과보존학 4판 p.181)",
+      "images": []
+    },
+    {
+      "id": "q027",
+      "number": 27,
+      "question": "와동에 대한 설명 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "교합면 와동은 와동벽이 4개이다."
+        },
+        {
+          "label": 2,
+          "text": "3개 이상의 와벽이 만나는 점상의 우각을 선각이라고 한다."
+        },
+        {
+          "label": 3,
+          "text": "와동은 와벽과 와연으로 이루어진다."
+        },
+        {
+          "label": 4,
+          "text": "우각 중, 오목한 부분을 철우각, 볼록한 부분을 요우각이라고 한다."
+        },
+        {
+          "label": 5,
+          "text": "와벽과 치아 외면에 의해 만들어진 각을 와연우각이라 한다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 4판 p.133)\n1) 4개 ->5개\n2) 선각 -> 점각\n3) 와벽, 와연 -> 와벽, 와연, 우각으로 이루어짐\n4) 오목한 부분을 요우각, 볼록한 부분을 철우각이라고 한다.",
+      "images": []
+    },
+    {
+      "id": "q028",
+      "number": 28,
+      "question": "2020년 발표된 Wong등의 논문에서 Bond fatigue strength와 Surface roughness에 대한 실험\n결과값의 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "PPA는 control보다 bond strength가 유의하게 높다."
+        },
+        {
+          "label": 2,
+          "text": "PPA는 etching time이 증가할 수록 Bond fatigue strength가 증가한다."
+        },
+        {
+          "label": 3,
+          "text": "PLA는 15초 etching time 일 때 대조군에 비해 유의미하게 Bond fatigue strength가 증가했다."
+        },
+        {
+          "label": 4,
+          "text": "PPM의 Bond fatigue strength는 대조군 보다 유의미하게 크다."
+        },
+        {
+          "label": 5,
+          "text": "Etching material이 다르면 surface roughness에 차이가 발생한다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 논문 수복 2020-1-4)",
+      "images": [
+        "images/2023/q028_img1.png",
+        "images/2023/q028_img2.png"
+      ],
+      "source_page": 15
+    },
+    {
+      "id": "q029",
+      "number": 29,
+      "question": "2020년 Daud 등의 논문에서 다음 실험군 group 4에 해당하는 finishing and polishing 방법은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Tungsten carbide bur only"
+        },
+        {
+          "label": 2,
+          "text": "Diamond finishing bur only"
+        },
+        {
+          "label": 3,
+          "text": "Diamond bur finishing followed by PoGo polishing"
+        },
+        {
+          "label": 4,
+          "text": "Diamond bur finishing followed by Sof-Lex polishing"
+        },
+        {
+          "label": 5,
+          "text": "Polymerised against Mylar strip-no finishing or polishing procedures"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신논문 수복 2020-3-3)",
+      "images": [
+        "images/2023/q029_img1.png"
+      ],
+      "source_page": 15
+    },
+    {
+      "id": "q030",
+      "number": 30,
+      "question": "microfilled composite 중 0.04μm크기의 silica 입자를 용융점 직전까지 소결하여 응집괴를 만들어\n0.07~0.2μm 크기의 미세한 알갱이로 만든 후 첨가하는 방법은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Minifilled composite"
+        },
+        {
+          "label": 2,
+          "text": "Blended composite"
+        },
+        {
+          "label": 3,
+          "text": "Condensed microfill"
+        },
+        {
+          "label": 4,
+          "text": "Agglomerated microfill"
+        },
+        {
+          "label": 5,
+          "text": "prepolymerized microfill"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과 보존학 p 314-315)",
+      "images": []
+    },
+    {
+      "id": "q031",
+      "number": 31,
+      "question": "수분흡수가 높고 친수성인 primer의 주성분?\n2)\n4)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Bis-GMA"
+        },
+        {
+          "label": 2,
+          "text": "HEMA"
+        },
+        {
+          "label": 3,
+          "text": "10-MDP"
+        },
+        {
+          "label": 4,
+          "text": "TEGDMA"
+        },
+        {
+          "label": 5,
+          "text": "UDMA"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(Fundamentals of operative dentistry 4th table 9-1)\n1. Bis-GMA\n2. HEMA\n3. 10-MDP\n4. TEGDMA\n5. UDMA",
+      "images": [
+        "images/2023/q031_img1.png"
+      ],
+      "source_page": 16
+    },
+    {
+      "id": "q032",
+      "number": 32,
+      "question": "복합레진의 조성으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Bis-GMA는 비교적 길고 강한 이중작용기 단량체로 교차결합형 중합체를 형성할 수 있으며 점도가\n대단히 높다"
+        },
+        {
+          "label": 2,
+          "text": "복합레진을 구성하는 레진 기질의 불안정하고 약한 강도를 보강하소 체적 안정성을 부여하기\n위하여 충전재 입자를 첨가한다"
+        },
+        {
+          "label": 3,
+          "text": "UDMA는 분자구조의 사슬의 길이가 짧으므로 부서지기 쉽고 중합수축이 큰 단점이 있다"
+        },
+        {
+          "label": 4,
+          "text": "반응개시제는 화학물질을 이용하여 분해되면 자유기를 갖게 되고 레진 단량체의 이중결합을 열어서\n짧은 시간 내에 사슬을 성장시키고 중합체 분자를 만들게 된다"
+        },
+        {
+          "label": 5,
+          "text": "TEGDMA는 중합수축이 크고 휘발성으로 인하여 보관시간이 짧은 점 등의 오늘날의 레진 기질에서\n생기는 대부분의 문제점들로 인해 요즘은 사용하지 않는다"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 p.309-310)\n그러나 유연성이 큰 TEGDMA를 사용함으로써 변연강도 및 마모저항성을 개선할 수 있어 오늘날의\n대부분의 레진기질은 Bis-GMA와 TEGDMA를 주성분으로 제조된다",
+      "images": []
+    },
+    {
+      "id": "q033",
+      "number": 33,
+      "question": "“Wear of contemporary dental composite resin restorations: a literature review\"에서 나온 마모로\n옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Fatigue wear"
+        },
+        {
+          "label": 2,
+          "text": "Abrasive wear"
+        },
+        {
+          "label": 3,
+          "text": "Adhesive wear"
+        },
+        {
+          "label": 4,
+          "text": "Cohesive wear"
+        },
+        {
+          "label": 5,
+          "text": "Corrosive wear"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "최신 수복2021-3-5",
+      "images": []
+    },
+    {
+      "id": "q034",
+      "number": 34,
+      "question": "다음 중 A에 대한 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "TEGDMA"
+        },
+        {
+          "label": 2,
+          "text": "Ethanol"
+        },
+        {
+          "label": 3,
+          "text": "Bis-GMA"
+        },
+        {
+          "label": 4,
+          "text": "Co-monomers"
+        },
+        {
+          "label": 5,
+          "text": "Phosphoric acid"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "치과보존학 p.271 <그림 12-16>",
+      "images": [
+        "images/2023/q034_img1.jpeg"
+      ],
+      "source_page": 18
+    },
+    {
+      "id": "q035",
+      "number": 35,
+      "question": "치간이개에서 수복과 관련된 내용 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "접촉점을 순측으로 위치시키면 치아는 좁게 보인다."
+        },
+        {
+          "label": 2,
+          "text": "치간공극을 작게 하면 치아는 좁고 길게 보인다."
+        },
+        {
+          "label": 3,
+          "text": "수직적으로 나타나는 발육구와 발육엽을 강조하면 치아는 좁고 길게 보인다."
+        },
+        {
+          "label": 4,
+          "text": "Perikymata는 불완전한 성장선의 일종으로 치아가 좁게 보인다."
+        },
+        {
+          "label": 5,
+          "text": "수평방향의 주름은 좁게 보인다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 p.359)\n1) 치간이개를 폐쇄할 때 접촉점을 설측으로 위치시키면 인접면 부위가 약간 어두워지기 때문에\n치아는 좁게 보인다.\n2) 치간공극 이 작을 때 치아는 넓고 커 보인다.\n3) 옳은 문장\n4) Perikymata는 불완전한 성장선의 일종으로 치아가 짧게 보인다.\n5) 수평방향 주름은 치아를 짧게 보인다.",
+      "images": []
+    },
+    {
+      "id": "q036",
+      "number": 36,
+      "question": "구치부 복합레진 수복에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "변연부 폐쇄를 얻기 위해 교합면에 항상 사면(bevel)을 형성 해줘야 한다."
+        },
+        {
+          "label": 2,
+          "text": "약한 광원으로 광조사를 하는 soft-start, ramp, pulse-delay, oscillation 등은 중합 수축 응력을\n감소시키는 효과가 있다."
+        },
+        {
+          "label": 3,
+          "text": "와동의 외형은 전체적으로 부드러운 곡선을 가지는 둥근 외형을 이루어야 하며 내측 선각은 둥근\n형태를 가져야 한다."
+        },
+        {
+          "label": 4,
+          "text": "적층충전을 하여 복합레진을 충전하는 과정을 통해 중합수축 응력이 발생하는 와동의 C-factor 값을\n낮출 수 있다."
+        },
+        {
+          "label": 5,
+          "text": "와동이 깊은 경우 2mm 이내의 깊이로 복합레진을 충전하는 것은 레진의 중합률을 높일 수 있다."
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(보존수복학 4판, 372pg. “또한 반대로 변연부의 폐쇄를 얻기 위해 사면(bevel)을 형성할 경우\n교합력에 의해 복합레진이 파절되어 오히려 홈이 형성될 수 있으므로 교합면에서는 피해야 한다.”)\n2. 370pg\n3. 371pg\n4. 369pg\n5. 369pg",
+      "images": []
+    },
+    {
+      "id": "q037",
+      "number": 37,
+      "question": "다음 그림에서 (가)에 해당하는 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ivocerin"
+        },
+        {
+          "label": 2,
+          "text": "TPO"
+        },
+        {
+          "label": 3,
+          "text": "tertiary amine"
+        },
+        {
+          "label": 4,
+          "text": "camporoquinone"
+        },
+        {
+          "label": 5,
+          "text": "PPD"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": ". 4 (Art and science 7th, 174pg)",
+      "images": [
+        "images/2023/q037_img1.jpeg"
+      ],
+      "source_page": 20
+    },
+    {
+      "id": "q038",
+      "number": 38,
+      "question": "GI의 특성으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "치질과 화학적 결합을 한다"
+        },
+        {
+          "label": 2,
+          "text": "심미적으로 우수한 재료이다"
+        },
+        {
+          "label": 3,
+          "text": "물리적 특성을 강화하기 위해 레진성분을 첨가하였다"
+        },
+        {
+          "label": 4,
+          "text": "불소방출을 하지 않는다"
+        },
+        {
+          "label": 5,
+          "text": "수분에 민감하지 않다"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": ". 1 (치과보존학 교과서 p.91)",
+      "images": []
+    },
+    {
+      "id": "q039",
+      "number": 39,
+      "question": "특정 표면으로부터 방출되는 복사능을 나타내는 용어로서 light tip과 같은 zero distance에서\n방출량을 의미하며 mW/cm^2의 단위를 쓰는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "radiant power"
+        },
+        {
+          "label": 2,
+          "text": "radiant exposure"
+        },
+        {
+          "label": 3,
+          "text": "radiant emittance"
+        },
+        {
+          "label": 4,
+          "text": "radiant energy density"
+        },
+        {
+          "label": 5,
+          "text": "spectral radiant power"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": ". 3 (필독 B-3-7-2)",
+      "images": []
+    },
+    {
+      "id": "q040",
+      "number": 40,
+      "question": "다음 중 excavator에 속하지 않는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Hoe"
+        },
+        {
+          "label": 2,
+          "text": "Spoon excavator"
+        },
+        {
+          "label": 3,
+          "text": "Angle former"
+        },
+        {
+          "label": 4,
+          "text": "Ordinary hatchet"
+        },
+        {
+          "label": 5,
+          "text": "Gingival margin trimmer"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": ". 5 (Art and science 7th, chapter 14 e1)",
+      "images": []
+    },
+    {
+      "id": "q041",
+      "number": 41,
+      "question": "세라믹 제작 방식 조합 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "압착 도재법 : All ceram, Finesse"
+        },
+        {
+          "label": 2,
+          "text": "주조 도재법 : Vita Mark II, Inceram"
+        },
+        {
+          "label": 3,
+          "text": "소결 도재법 : Cercon, LAVA"
+        },
+        {
+          "label": 4,
+          "text": "침투 도재법 : Optec OPC"
+        },
+        {
+          "label": 5,
+          "text": "기계가공 도재법 : IPS e.max CAD, Celtra Duo"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 p.415)",
+      "images": []
+    },
+    {
+      "id": "q042",
+      "number": 42,
+      "question": "CAD/CAM 치아형성에 대해 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "수복물의 권장 최소 허용 두께는 가공 버와 가공되어지는 블럭을 고려해야 한다."
+        },
+        {
+          "label": 2,
+          "text": "전통적 와동 형태보다 단순한 형태로 외형 형성을 했을때 좋은 변연 적합도"
+        },
+        {
+          "label": 3,
+          "text": "butt joint 형성할 수 있으며 Shoulder, chamfer 변연이 추천됨."
+        },
+        {
+          "label": 4,
+          "text": "필요시 Bevel를 형성해야 한다."
+        },
+        {
+          "label": 5,
+          "text": "모든 외형과 각각의 선각에 예각 없이 둥근 형태의 마무리 해여함"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 p.441)\n●\n2022 기출 변형문제\n- 변연은 shoulder나 chamfer 추천, butt-joint로 마무리되는 것이 추천됨\n- Bevel을 형성해서는 안된다\n- 모든 외형과 각각의 선각에 예각 없이 둥근 형태의 마무리\n- 수복물의 권장 최소 허용 두께는 가공 버와 가공되어지는 세라믹 블록을 고려해야 한다",
+      "images": []
+    },
+    {
+      "id": "q043",
+      "number": 43,
+      "question": "2020, Huang의 Effect of preparation design on the fracture behavior of ceramic occlusal veneers\nin maxillary premolars에 대한 설명중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "dual-cure resin cement로 접착했다."
+        },
+        {
+          "label": 2,
+          "text": "치면은 E&R를 적용했다."
+        },
+        {
+          "label": 3,
+          "text": "Full coverage crown 수복이 가장 강도가 높았다"
+        },
+        {
+          "label": 4,
+          "text": "세라믹 내면은 Hydrofluoric acid를 60초 적용했다."
+        },
+        {
+          "label": 5,
+          "text": "5가지 방식으로 preparation한 상악 소구치에 대해 feldspathic veneer의 파절에 대한 연구이다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(뉴저널 20-2-3)\n1) light-cured resin cement 적용함.\n2) 인산 - Monobond N Universal primer - Single Bond Universal Adhesive 사용함.\n3) Full coverage crown 수복이 가장 강도가 낮았음.\n4) 세라믹 내면은 Hydrofluoric acid를 20초 적용했다.\n5) 본 연구에서 사용한 세라믹은 monolithic lithium disilicate glass ceramic이다.",
+      "images": []
+    },
+    {
+      "id": "q044",
+      "number": 44,
+      "question": "RMGI cement에 대해 설명중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "feldspathic 도재전장관 및 포스트 접착시 사용이 추천되지 않는다."
+        },
+        {
+          "label": 2,
+          "text": "일반적인 글라스 아이오노머에 레진을 첨가하여 강도를 향상시키고 용해도를 감소시켰다."
+        },
+        {
+          "label": 3,
+          "text": "치아 형성 후 과민반응을 해소하기 위해 탈감작제를 사용하면 반드시 결합 강도가 영향을\n받는다."
+        },
+        {
+          "label": 4,
+          "text": "압축강도는 인산아연 시멘트나 폴리카르복실레이트 시멘트, 글라스 아이오노머 시멘트보다\n높으나 복합레진 시멘트보다는 낮다."
+        },
+        {
+          "label": 5,
+          "text": "수분을 흡수하여 hygroscopic expansion을 하여 초기에는 중합수축을 보상하기도 하지만,\n지속적인 수분의 흡수로 체적안정성이 떨어진다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 p.485)\n1) 5) 옳은 문장\n2) 4) 옳은 문장\n3) 치아형성 후 과민반응에 탈감작제를 사용하며 상아세관을 폐쇄하는 것도 좋은 방법이다.\n대부분의 탈감작제는 글라스 아이오노머나 복합레진, 레진강화형 글라스 아이오노머 시멘트를\n사용하여 접착할 경우 결합강도에는 영향을 미치지 않는 것으로 보고되고 있다.",
+      "images": []
+    },
+    {
+      "id": "q045",
+      "number": 45,
+      "question": "다음 중 레진 시멘트에 대한 설명으로 옳은 것은 ?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "이중중합형 레진시멘트는 광중합만 해도 항상 일정한 최대 경도를 얻을 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "4-META를 포함한 접착형 레진시멘트는 상아질과 금속수복물에 접착강도가 좋으나, 모노머의\n길이가 짧아서 연성이 좋지 않아 충격을 잘 흡수하지 못한다."
+        },
+        {
+          "label": 3,
+          "text": "MDP를 포함한 접착형 레진 시멘트는 MDP의 phospho ester 그룹과 지르코니아의 hydroxyl\n기의 화학적 결합을 기대할 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "이중중합형 레진 시멘트는 두 개의 연고형태로 제공되는데 일반적으로 photoinitiator와\nbenzoyl peroxide가 같은 튜브에 들어있다."
+        },
+        {
+          "label": 5,
+          "text": "1-step self -etch system을 사용할 경우 adhesive layer의 외곽층에 존재하는 acidic\nmonomer와 레진시멘트의 tertiary amine의 peroxide가 결합을 하여 산-염기 반응을\n추가적으로 일으켜 결합에 도움이 된다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존수복학 p.487-488)\n1) (X) 비록 이중중합형 레진 시멘트가 광중합이나 화학중합만으로도 중합이 되도록 의도되었으나\n광중합 여부에 따라 그리고 이중중합형 레진 시멘트의 중합개시제에 따라 레진 시멘트의 경도가\n달라진다.\n2) (X) 4-META를 포함한 접착형 레진 시멘트는 상아질과 금속수복물에 접착강도가 크며 길고 유연한\n고분자 사슬을 가지고 있어 연성이 좋으며 충격을 흡수하는 경향이 있다.\n3) (O)\n4) (X) 이중중합형 레진 시멘트는 두 개의 연고형태로 제공되는데 일반적으로 photoinitater와 benzoyl\nperoxide가 서로 분리되어 있다.\n5) (X) 1-step self -etch system을 사용할 경우 adhesive layer의 외곽층에 존재하는 acidic monomer와\n레진시멘트의 tertiary amine의 peroxide가 결합을 하여 산-염기 반응을 일으키기 때문에 중합과정이\n방해받게 된다.",
+      "images": []
+    },
+    {
+      "id": "q046",
+      "number": 46,
+      "question": "다음 중 간접심미수복재에 대한 알맞은 접착 전 기계적, 화학적 처리 방법의 조합으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Composite : HF, silane"
+        },
+        {
+          "label": 2,
+          "text": "Composite : sandblasting, dentin primer"
+        },
+        {
+          "label": 3,
+          "text": "Ceramic : sandblasting, silane"
+        },
+        {
+          "label": 4,
+          "text": "Ceramic : HF, dentin primer"
+        },
+        {
+          "label": 5,
+          "text": "Zirconia : sandblasting, zirconia primer"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "? 5번? (치과보존수복학 p.410 [표18-3])\n-\n문제에서 dentin primer 였는지 composite primer였는지 확실치 않습니다.\n-\n교과서 표에 의하면 composite 은 sandblasting + silane or composite primer, zirconia는\n특수sandblast + zirconia 전용 primer 라고 제시되어 있습니다.",
+      "images": []
+    },
+    {
+      "id": "q047",
+      "number": 47,
+      "question": "Curing efficiency of four self-etching, self-adhesive resin cements 논문 결과에서 다음 그래프와\n재료가 알맞게 짝지어진 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A. RXU"
+        },
+        {
+          "label": 2,
+          "text": "B. MLS"
+        },
+        {
+          "label": 3,
+          "text": "C. MLA"
+        },
+        {
+          "label": 4,
+          "text": "D. MXC"
+        },
+        {
+          "label": 5,
+          "text": "E. BCM"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(필독논문 B-7-1-3)\n-",
+      "images": [
+        "images/2023/q047_img1.jpeg",
+        "images/2023/q047_img2.jpeg"
+      ],
+      "source_page": 25
+    },
+    {
+      "id": "q048",
+      "number": 48,
+      "question": "다음 중 포스트에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "평행 포스트는 스트레스를 치근 전체에 분산한다"
+        },
+        {
+          "label": 2,
+          "text": "포스트의 직경을 증가시키면 치질이 약화될 수 있다"
+        },
+        {
+          "label": 3,
+          "text": "섬유 포스트는 치질과 비슷한 탄성계수를 갖는다"
+        },
+        {
+          "label": 4,
+          "text": "포스트 실패의 가장 주된 원인은 접착 실패에 의한 유지력 부족이다"
+        },
+        {
+          "label": 5,
+          "text": "경사형 포스트는 치질을 보존할 수 있으며 유지력이 가장 크다"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "-\n평행형 포스트의 유지력이 경사형보다 크다.",
+      "images": []
+    },
+    {
+      "id": "q049",
+      "number": 49,
+      "question": "다음중 포스트에 관한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "섬유강화 포스트는 세라믹 포스트보다 깨지기 쉽다"
+        },
+        {
+          "label": 2,
+          "text": "섬유형 포스트는 carbon fiber, quartz fiber 형태를 많이 쓰며 평행형l fiber는 응력분산에 유리하다."
+        },
+        {
+          "label": 3,
+          "text": "포스트의 굵기는, 치근 직경의 2/3가 적당하며, 삭제된 근관벽과 치근의 외면사이의 건전 상아질\n두께가 0.5mm 정도 유지되어야 한다."
+        },
+        {
+          "label": 4,
+          "text": "포스트의 형태가 경사형 포스트가 평행한 포스트보다 유지력이 크다"
+        },
+        {
+          "label": 5,
+          "text": "포스트의 표면구조로 passive, screw acvite? 둘중 하나가 유지력이 더 좋다 이런거였나"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "나머지 두개 지문이 기억이 안나는데 둘중하나가 답인거 같아요 (치과보존학 458p)\n1)세라믹 포스트는 높은 탄성계수와 강도를 가지지만 깨어지기 쉬운 단점이 있다.\n3) 2/3 -> 1/3, 0.5mm ->1mm\n4)평행형 포스트가 경사형 포스트보다 유지력이 우수",
+      "images": []
+    },
+    {
+      "id": "q050",
+      "number": 50,
+      "question": "연령별 치아 색에 관한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "노인의 치아색의 투명도가 젊은 사람보다 더 크다"
+        },
+        {
+          "label": 2,
+          "text": "노인 치아가 표면질감이 두드러져 보이기 때문에 빛의 반사가 많다"
+        },
+        {
+          "label": 3,
+          "text": "젊은 사람에서 절단연의 채도가 더 크다."
+        },
+        {
+          "label": 4,
+          "text": "젊은 사람의 치아에서 과광화된 법랑질이 관찰된다"
+        },
+        {
+          "label": 5,
+          "text": "평이한 지문."
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(치과보존학 344p)\n1)나이가 들면서 법랑질이 투명해진다\n2)젊은치아의 특성\n3)젊은 치아는 불투명한 법랑질이 덮고 있어 법랑질의 두께가 가장 얇은 치경부에서 가장 높은\n채도를 보인다.",
+      "images": []
+    },
+    {
+      "id": "q051",
+      "number": 51,
+      "question": "전치부 복합레진 수복 색조 선택 시 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "배경은 색조선택에 영향을 주며 어두운 구강은 치아를 어둡게 보이게 한다."
+        },
+        {
+          "label": 2,
+          "text": "색조를 선택할 때는 오랜 시간 관찰 후 결정한다."
+        },
+        {
+          "label": 3,
+          "text": "눈의 순응을 회복하기 위해서 붉은 색을 응시하면 도움이 된다."
+        },
+        {
+          "label": 4,
+          "text": "치아의 치태와 색소를 퍼미스로 깨끗이 하고 치아를 건조시킨 다음 색조를 선택한다."
+        },
+        {
+          "label": 5,
+          "text": "일치하는 색조가 없을 때는 밝고 옅은 색조를 선택하는 것이 유리하다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 4판 346-347pg)\n1) 어두운 구강은 치아를 밝게 보이게 한다\n2) 치아 색조는 첫인상이 매우 중요하며……. 최소 0.06초~0.07초 관찰하되 5초를 넘기지 않는다.\n긴 시간 관찰하면 색순응으로 인해서 착시가 유발된다\n3) 파란색을 응시하면 회복에 도움이 된다\n4) 건조된 상태에서 결정해서는 안된다\n5) 맞는 보기",
+      "images": []
+    },
+    {
+      "id": "q052",
+      "number": 52,
+      "question": "다음 설명의 괄호에 들어갈 말은?\n“ (\n)는 색의 포화도를 의미하며 강렬한 색과 약한 색을 구분하는 용어이다.”\n“ ( )의 감소를 통해서 치료효과를 얻는 대표적인 예로 표백술이 있다.”",
+      "choices": [
+        {
+          "label": 1,
+          "text": "색상"
+        },
+        {
+          "label": 2,
+          "text": "명도"
+        },
+        {
+          "label": 3,
+          "text": "채도"
+        },
+        {
+          "label": 4,
+          "text": "질감"
+        },
+        {
+          "label": 5,
+          "text": "대비"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 4판 292pg)",
+      "images": []
+    },
+    {
+      "id": "q053",
+      "number": 53,
+      "question": "다음 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "빨간색 핵사메딘을 장시간 사용하면 치아가 암갈색으로 착색될 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "커피는 갈색의 착색을 유발할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "외인성 변색은 미백의 예후가 좋다."
+        },
+        {
+          "label": 4,
+          "text": "내인성 변색은 전신적인 원인에 의해서만 치아의 내면 구조가 변색되어 나타난다."
+        },
+        {
+          "label": 5,
+          "text": "평이한 지문"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 pg 493) - 보기 순서는 정확히 기억이 안 납니다 ㅠ\n1) O 헥사메딘의 주성분이 클로르헥시딘 (보존학 교과서: 클로르헥시딘 같은 구강청결제도\n장기간 사용하면 암갈색양 변색을 야기한다)\n2) O\n3) O\n4) X 내인성 변색은 외인성처럼 그리 단순하지는 않으며 전신적 또는 국소적 원인에 의해 치아의\n내면 구조가 변색되어 나타난다.-> 내인성변색은 국소적 원인에 의해서도 일어나기때문에\n4번은 틀린 보기\n5) O",
+      "images": []
+    },
+    {
+      "id": "q054",
+      "number": 54,
+      "question": "다음 색상의 관계 설명 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "색순응: 광원의 에너지 분포가 변하면 물체에서 반사 또는 투과해 오는 빛의 스펙트럼 분포도\n변화해서 물체의 색이 달라보인다."
+        },
+        {
+          "label": 2,
+          "text": "면적대비: 면적이 클수록 밝고 선명해 보이고 면적이 좁을수록 어둡고 탁해 보인다."
+        },
+        {
+          "label": 3,
+          "text": "시감도: 같은 파장의 색일지라도 항상 같은 밝기로 느껴지지 않는다."
+        },
+        {
+          "label": 4,
+          "text": "색상의 관계에 대한 설명중 하나였습니다.."
+        },
+        {
+          "label": 5,
+          "text": "명암순응: 물체의 밝기는 그보다 어두운 배경에서는 보다 밝게 보이고, 그보다 밝은\n배경에서는 보다 어둡게 보인다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 pg 293)\n5) 보기는 명암대비의 설명\n-\n명암순응: 빛의 밝기에 대한 순응을 뜻하며, 이는 동공의 크기조절과 망막의 감광성의 조절에\n의해 이루어진다. 예를 들면 한낮에 어두운 영화관에 들어가면 처음에는 아무것도 보이지\n않다가 서서히 어두움에 익숙해지게 된다.",
+      "images": []
+    },
+    {
+      "id": "q055",
+      "number": 55,
+      "question": "2012 beier의 clinical performance of all ceramic inlay and onlay restorations in posterior teeth에서\n옳지 않은 것은??",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Nonvital tooth인 치아는 수복물의 성공률을 유의하게 낮추는 요소이다"
+        },
+        {
+          "label": 2,
+          "text": "Bruxism은 수복물의 성공률에 유의한 요소가 아니다"
+        },
+        {
+          "label": 3,
+          "text": "전체 failure 중 절반이 dentin bonding 하지 않은 케이스였다"
+        },
+        {
+          "label": 4,
+          "text": "전체 failure 중 fracture of tooth가 가장 많았다"
+        },
+        {
+          "label": 5,
+          "text": "All ceramic inlay / onlay의 10년 estimated success rate는 90% 이상이었다"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(클래식저널 B-10-1-4)\n1. 본 연구의 유일한 유의성 있는 요소는 vital vs non vital\n2. 1번 설명\n3. 51.1%가 no dentin bonding case\n4. Ceramic fracture가 가장 많음 틀린 보기\n5. 92.4%정도로 높은 성공률",
+      "images": []
+    },
+    {
+      "id": "q056",
+      "number": 56,
+      "question": "2020 Lee의 clinical outcomes after Apical surgery on the palatal root of the maxillary first molar\nusing palatal approach에서 옳은 것은??",
+      "choices": [
+        {
+          "label": 1,
+          "text": "상악대구치의 구개측 치근의 치근단수술을 구개접근한 경우와 협측 접근한 경우를 비교한\n연구이다."
+        },
+        {
+          "label": 2,
+          "text": "상악대구치의 구개측 치근의 치근단수술 시 구개측접근한 경우의 예후를 전향적으로 평가한\n연구이다."
+        },
+        {
+          "label": 3,
+          "text": "상악대구치의 구개측 치근의 치근단수술 시 구개측 접근하는 것은 성공률을 저해하는\n요소이다."
+        },
+        {
+          "label": 4,
+          "text": "상악대구치의 구개측 치근의 치근단 수술 시 구개측 접근하는 것은 신경 혈관 손상의 위험성이\n적다."
+        },
+        {
+          "label": 5,
+          "text": "Cotton swab test는 수술부위 점막을 cotton swab 했을 때 통증을 반대측 정상점막과 비교하여\n0-10까지 숫자를 기록하여 평가하는 신경검사법이다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(뉴저널 Endo 20-2-1)\n1. 구개측으로 접근한 수술을 대상으로만 연구진행\n2. 2010년부터 2017년까지 수술받은 환자를 대상으로 진행한 후향적 연구\n3. 생존률은 91.5%로 다른 치아들과 차이 없음\n4. 신경 및 혈관손상을 예지성 있게 피할 수 있으며 본 연구에서도 신경 및 혈관손상 케이스는\n보이지않았음\n5. 양쪽 palate를 cotton으로 문질러봐서 감각을 비교하는것은 맞으나 hyper, hypo, normal\n세단계로 구분하는 방법",
+      "images": []
+    },
+    {
+      "id": "q057",
+      "number": 57,
+      "question": "Portenier(2005), The susceptibility of starved, stationary phase, and growing cells of Enterococcus\nfaecalis to endodontic medicaments에서, E. faecalis에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Growth phase에서 세균 독성이 가장 높게 나타났다."
+        },
+        {
+          "label": 2,
+          "text": "Starvation phase 에서 약제 내성이 가장 높게 나타났다."
+        },
+        {
+          "label": 3,
+          "text": "Alkaline-adapted cells는 bile salt에 더욱 suspectible 하다."
+        },
+        {
+          "label": 4,
+          "text": "수산화칼슘에 대한 저항성은 stress-induced protein에 의한 것이다."
+        },
+        {
+          "label": 5,
+          "text": "Growth phase에서 stationary phase에서 보다 약제 내성이 높다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(클래식 C-1-1-2)\n1. Cells in the exponential growth phase were the most sensitive to all three medicaments and\nwere killed between 3 s and 10 min.\n2. Cells in starvation phase were the most resistant and were not totally eliminated by the\nmedicaments during the 10-min test period.\n3. It has been shown that alkaline-adapted cells develop a high resistance against bile salts.\n4. Stress-induced protein synthesis in itself does not provide for the survival of E. faecalis in\ncalcium hydroxide.\n5. Cells in the exponential growth phase were the most sensitive to all three medicaments and\nwere killed between 3 s and 10 min. Cells in stationary phase were more resistant and living cells\ncould be recovered at 10 min.",
+      "images": []
+    },
+    {
+      "id": "q058",
+      "number": 58,
+      "question": "CBCT 촬영 시 방사선 노출량을 증가시키는 인자가 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "높은 mA"
+        },
+        {
+          "label": 2,
+          "text": "높은 kV"
+        },
+        {
+          "label": 3,
+          "text": "큰 voxel size"
+        },
+        {
+          "label": 4,
+          "text": "넓은 field of view"
+        },
+        {
+          "label": 5,
+          "text": "긴 exposure time"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "",
+      "images": []
+    },
+    {
+      "id": "q059",
+      "number": 59,
+      "question": "다음중 괄호 안에 들어갈 말은?\nNon Vital Bleaching 위한 base 형성시 attachment가 ( ) 에서 높기 때문에\nbobsleigh형태로 만들어준다?",
+      "choices": [],
+      "answer_raw": "",
+      "explanation": "인접면",
+      "images": [
+        "images/2023/q059_img1.jpeg"
+      ],
+      "source_page": 31,
+      "answer_only": true,
+      "answer_display": "인접면"
+    },
+    {
+      "id": "q060",
+      "number": 60,
+      "question": "Liu et al. (2021) EDTA promotes the mineralization of dental pulp in vitro and in vivo에 대한 설명\n중 옳지 않은 문장은? (뉴저널 2021-1-1)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "12% EDTA로 전처리한 군에서 reparative dentin이 더 잘 형성되었다."
+        },
+        {
+          "label": 2,
+          "text": "MTA 적용 전 EDTA 처리한 군에서 Tunnel defect가 많이 생겼다."
+        },
+        {
+          "label": 3,
+          "text": "EDTA-treated dentin은 dental pulp stem cell의 분화, 증식을 촉진한다."
+        },
+        {
+          "label": 4,
+          "text": "Dental pulp cell의 분화는 ERK 1/2 signaling pathway에 의해 증진되고 Smad 2/3 signaling\npathway에 의해 억제된다."
+        },
+        {
+          "label": 5,
+          "text": "mechanical pulp exposure후 12%EDTA를 5분간 soaking 하여 dental pulp cell에 미치는\n양상을 In vivo에서 확인하였다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": ". EDTA 전처리한 그룹에서 tunnel defect가 더 적게 생김\n뉴저널 2021-1-1 EDTA Promotes the Mineralization of Dental Pulp In Vitro and In Vivo, Linyu Liu\net al., 2020, JOE",
+      "images": []
+    },
+    {
+      "id": "q061",
+      "number": 61,
+      "question": "2021 Von Arx의 논문 “Occurrence of Vertical Fracture after Apical Surgery: A retrospective\nanalysis” 에서 옳은 내용은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "54%의 VRF가 관찰되었다."
+        },
+        {
+          "label": 2,
+          "text": "재수술시 VRF가 유의하게 증가하였다."
+        },
+        {
+          "label": 3,
+          "text": "치근단수술 후 VRF는 하악 제1 대구치 근심 치근에서 가장 많이 일어난다."
+        },
+        {
+          "label": 4,
+          "text": "치근단수술 후 VRF는 1년 이내에 가장 높은 빈도로 일어난다."
+        },
+        {
+          "label": 5,
+          "text": "치근단수술 후 VRF는 치아 종류 상관 없이 교합에 따라 발생한다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(최신저널 endo 2021-1-2)\n1: VRF는 4% 관찰됨\n2: ‘VRFs tended to occur more frequently in resurgeries compared with first-time surgeries’\n표 보면 유의하지는 않음.\n3: ‘The most frequently affected root was the mesial root of mandibular first molars’\n하악 제1대구치가 가장 많기는 했는데 이건 그냥 케이스가 많았던거고 치근단수술을 받은 케이스 중\n발생빈도가 가장 높았던건 소구치라고 나와있습니다.\n4: ‘66.7% of the VRF occurred within 1 year after surgery’\n5: 치아 종류에 따라 VRF 발생률 차이 존재",
+      "images": []
+    },
+    {
+      "id": "q062",
+      "number": 62,
+      "question": "2021 Shabbir 의 “Access Cavity Preparations: Classification and Literature\nReview of Traditional and Minimal Invasive Endodontic Access Cavity Designs”\n논문에서 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Traditional access 이다."
+        },
+        {
+          "label": 2,
+          "text": "치질 보존에 불리하다."
+        },
+        {
+          "label": 3,
+          "text": "치근 파절 강도 향상에 유리하다."
+        },
+        {
+          "label": 4,
+          "text": "이점보다 위험요소가 많다."
+        },
+        {
+          "label": 5,
+          "text": "Procedural error, disinfection, 변색에 유리하다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": ". Conservative access 로 치질 보존에 유리하나 치근 파절 향상을 시킨다고 보기는 어려우며\nprocedural error, 세척, 변색 등의 술식에 불리할 수 있다. (최신저널 엔도 2021-3-2)",
+      "images": [
+        "images/2023/q062_img1.jpeg"
+      ],
+      "source_page": 32
+    },
+    {
+      "id": "q063",
+      "number": 63,
+      "question": "다음은 무엇의 분류인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "external root resorption"
+        },
+        {
+          "label": 2,
+          "text": "internal root resorption"
+        },
+        {
+          "label": 3,
+          "text": "red dot"
+        },
+        {
+          "label": 4,
+          "text": "caries"
+        },
+        {
+          "label": 5,
+          "text": "cervical root resorption"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "보기는 정확히 기억나지 않는데 위의 heithersay classification 사진 보여주고 무엇의 분류인지\n고르는 것",
+      "images": [
+        "images/2023/q063_img1.jpeg"
+      ],
+      "source_page": 33
+    },
+    {
+      "id": "q064",
+      "number": 64,
+      "question": "아래 그림에 해당하지 않는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "zip"
+        },
+        {
+          "label": 2,
+          "text": "ledge"
+        },
+        {
+          "label": 3,
+          "text": "lingual shoulder"
+        },
+        {
+          "label": 4,
+          "text": "file deviation"
+        },
+        {
+          "label": 5,
+          "text": "incomplete incisal extension"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(Pathway 11판 p153 Fig 5-42)\ninadequate access preparation. The lingual shoulder was not removed, and incisal extension is\nincomplete. The file has begun to deviate from the canal in the apical region, creating a ledge.\n→ ledge, lingual shoulder, file deviation, incomplete incisal extension 모두 해당됨.",
+      "images": [
+        "images/2023/q064_img1.jpeg"
+      ],
+      "source_page": 33
+    },
+    {
+      "id": "q065",
+      "number": 65,
+      "question": "vital pulp therapy 에서 치수 출혈 조절에 사용할 수 없는 재료는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "epinephrine"
+        },
+        {
+          "label": 2,
+          "text": "sodium hypochlorite"
+        },
+        {
+          "label": 3,
+          "text": "2% CHx"
+        },
+        {
+          "label": 4,
+          "text": "30% hydrogen peroxide"
+        },
+        {
+          "label": 5,
+          "text": "Direct pressure with sterile dry cotton pallets"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "잘 모르겠습니다… 죄송합니다.\n3 (?) : CHx이 지혈 방해한다는 문장을 어디서 읽은것 같은데 정확하지 않습니다. 혹시 reference\n있으시다면 부탁드릴게요 감사합니다!\n## pathway 10판 888 page에 완전히 건조된 면구는 사용해서는 안된다 라는 문장이 있어요!\n-> 답 : 5번\npathway 11판 p.865 ;\nvarious concentrations of NaOCl; 2% chlorhexidine; MTAD (DENTSPLY Tulsa Dental Specialties,\nTulsa, Oklahoma); 30% hydrogen peroxide (Superoxol); ferric sulfate; disinfectants such as\nTubulicid (Global Dental Products, North Bellmore, New York); epinephrine, direct pressure with\ncotton pellets soaked in sterile water or saline; and the use of lasers.",
+      "images": []
+    },
+    {
+      "id": "q066",
+      "number": 66,
+      "question": "전기치수 검상에서 false negative 나타날수 있는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Immature apex"
+        },
+        {
+          "label": 2,
+          "text": "Partial pulp necrosis"
+        },
+        {
+          "label": 3,
+          "text": "Patient’s high anxiety"
+        },
+        {
+          "label": 4,
+          "text": "Ineffective tooth isolation"
+        },
+        {
+          "label": 5,
+          "text": "Contact with metal restoration"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "나머지는 false positive와 관련",
+      "images": []
+    },
+    {
+      "id": "q067",
+      "number": 67,
+      "question": "2008년 Siqueira 등의 Clinical implications and microbiology of bacterial persistence after\ntreatment procedures에 내용에 의거하여, 다음 중 gram-positive bacteria가 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Streptoccocus mitis"
+        },
+        {
+          "label": 2,
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": 3,
+          "text": "Enterococcus Faecalis"
+        },
+        {
+          "label": 4,
+          "text": "Fusobacterium nucleatum"
+        },
+        {
+          "label": 5,
+          "text": "Pseudoramibacter alacolyticus"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "필독 C-1-1-1 Bacterial Taxa-persisting Intracanal Procedures 문단\n## 이거 문제에 'persistent/secondary infections 에서 발견되는'이라는 말이 있었어서 이차감염에서\n발견되지 않는 세균 찾기가 핵심인거같아요",
+      "images": []
+    },
+    {
+      "id": "q068",
+      "number": 68,
+      "question": "근관치료 중 transportation이 발생하여 그 방향을 확인하기 위해 근관 내 파일을 넣고 방사선사진을\n수평각을 주어 근심, 정면, 원심 세 장 촬영하였다. 다음 중 transportation 된 위치가 맞게 표시된 것은?\n(근심) (정면) (원심)\n2.\n4.",
+      "choices": [],
+      "answer_raw": "3",
+      "explanation": "필독 C-1-4-1 Alternation in horizontal angulation, The buccal object, 4) identification of apical root\ncurvature, Fig 14",
+      "images": [
+        "images/2023/q068_img1.png"
+      ],
+      "source_page": 36
+    },
+    {
+      "id": "q069",
+      "number": 69,
+      "question": "다음 중 그람음성균의 구성성분이 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Proteoglycan"
+        },
+        {
+          "label": 2,
+          "text": "Lipoprotein"
+        },
+        {
+          "label": 3,
+          "text": "Lipoteichoic acid"
+        },
+        {
+          "label": 4,
+          "text": "Lipopolysaccharide"
+        },
+        {
+          "label": 5,
+          "text": "Cytoplasmic membrane"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "pathway 10th edition (한글판) p.604\nLipoteichoic acid -> 그람양성균",
+      "images": []
+    },
+    {
+      "id": "q070",
+      "number": 70,
+      "question": "다음 설명 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "상아세관액은 fibrinogen을 포함"
+        },
+        {
+          "label": 2,
+          "text": "상아세관액은 albumin을 포함"
+        },
+        {
+          "label": 3,
+          "text": "Dentinal crack에 의해 상아세관 노출시 상아세관액의 inward flow가 일어난다."
+        },
+        {
+          "label": 4,
+          "text": "Dentinal crack에 의해 상아세관 노출시 상아세관 내 단백질이 응고(coagulation)된다."
+        },
+        {
+          "label": 5,
+          "text": "상아세관 내 단백질 응고로 투과성이 감소하는 현상은 2일 이내 일어난다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(inward -> outward)\nPathway 10th edition (한글판) p.560\nPathway 12th edition (영문판) p.578\n1,2 ) 상아세관액은 섬유소나 혈장 알부민 같은 단백질을 포함하고 있으며\n3) 상아세관이 완전치 노출될 때 상대적으로 높은 치수조직압에 의해 상아세관액의 외측 유동이\n일어난다.\n4) 상아세관액은 섬유소나 혈장 알부민 같은 단백질을 포함하고 있으며, 이들은 응고되어 효과적으로\n상아세관 내강을 막을 수 있다.\n5) 따라서 액의 출구를 제한시킴으로써 결과적으로 상아질지각과민증을 줄일 수 있다. 이 현상은 2일\n이내에 발생할 수 있다.",
+      "images": []
+    },
+    {
+      "id": "q071",
+      "number": 71,
+      "question": "2021년 Bhatt et al의 “Clinical decision making and importance of the AAE/AAOMR position\nstatement for CBCT examination in endodontic cases” 에서 치근단 방사선 사진보다 CBCT로 더 잘\n관찰할 수 있는 것으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "calcified canal"
+        },
+        {
+          "label": 2,
+          "text": "periapical lesions"
+        },
+        {
+          "label": 3,
+          "text": "complex root anatomy"
+        },
+        {
+          "label": 4,
+          "text": "missed canals"
+        },
+        {
+          "label": 5,
+          "text": "vertical root fracture"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(뉴저널 21-1-5) Conclusion : 치근단방사선에 비해 CBCT는 치근단 병변, 놓친 근관, 치근파절, 복잡한\n해부학을 더 잘 드러냄.\nDiscussion: 본연구에서 CBCT는 치근흡수나 석회화근관을 진단하는데서는 유의하지않음.",
+      "images": []
+    },
+    {
+      "id": "q072",
+      "number": 72,
+      "question": "Nonodontogenic toothache에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "상악동에 의한 nonodontogenic toothache일 경우 타진에 양성일 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "temporalis m. 에 의한 연관통은 상악 대구치에 나타날 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "myofacial pain일 경우 주로 masseter muscle에 기인한다"
+        },
+        {
+          "label": 4,
+          "text": "Myofascial pain의 경우 통증을 악화시키는 요인은 발통점이 있는 근육의 운동이다?"
+        },
+        {
+          "label": 5,
+          "text": "neurovascular pain일 경우 머리를 앞으로 숙일 경우 통증이 증가한다."
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "? POP 10판\n1) p61 상악동/비점막 동통은 상악동 점막 부위를 타진할 때분만 아니라 여러 개의 상악 치아를\n타진했을 때도 나타낼 것이다.\n2) ?\n3) p60-61 Myofacial pain은 과흥분된 근육조직의 작은 병소에서부터 나온다~ 전형적으로 치아에\n동통을 전이하는 근육은 교근, 측두근, 외측익돌근이다.\n4) ?\n5) 못찾겠습니다ㅠ\n***5번이 옳지 않은 보기인 것 같습니다. Neurovascualr pain이 아니고, sinus or nasal mucosal origin에\n의한 비치성 치통(Nonodontogenic toothache of sinus or nasal mucosal origin)에 대한\n설명입니다. 상악동염에 의해서 머리 위치가 변화했을때 동통 증가하는 head dip test 양성반응을 볼 수\n있다고 한다고 하네요 (근거: Dental pulp 2판 p.455 Nonodontogenic toothache of sinus or nasal\nmucosal origin)\n## 5번 내용 Pathway 11판 p.691에도 있어요!\nMusculoskeletal and Somatic pain>pain of sinus or nasal mucosal origin 단락에\n“... Other symptoms of sinus disease include sensitivity to palpation of structures overlying sinuses\n(i.e., paranasal tenderness) and a throbbing or increased pain sensation when the head is placed\nlower than the heart.”",
+      "images": []
+    },
+    {
+      "id": "q073",
+      "number": 73,
+      "question": "다음 중 옳지 않은 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "항생제는 보통 5~7일간 처방한다."
+        },
+        {
+          "label": 2,
+          "text": "Erythromycin은 anaerobe bacteria에 탁월한 효과를 보인다."
+        },
+        {
+          "label": 3,
+          "text": "Clindamycin은 Gram(+), anaerobe bacteria에 효과적이다."
+        },
+        {
+          "label": 4,
+          "text": "Amoxicillin은 효과범위가 넓고 반감기가 길어서 예방적 항생제에 일차적으로 사용된다."
+        },
+        {
+          "label": 5,
+          "text": "Amoxicillin에 clavulanic acid를 같이 쓰면 β-lactamase에 비가역적으로 작용하여\n항생제의 가수분해를 막는다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(근관치료학 p.121-122)\n1) O, 교과서에 나와있지 않지만 일반적으로 맞습니다.\n2) X, Erythromycin은 Macrolide계열로, Macrolide는 혐기성 세균에 효과가 없다.\n3) O,Clindamycin은 그람 양성 호기성 세균과 양성 및 음성 혐기성 세균에 모두 효과적이다.\n4) O, 교과서 내용 그대로 있습니다.\n5) O, 아목시실린은 β-lactam핵을 가진 항생제인데, 일부 세균은 β-lactamase를 분비해서 항생제를\n가수분해한다. 이 경우 아목시실린의 효과가 사라지는데 clavulanic acid를 첨가하면, 이것이 β-\nlactamase에 비가역적으로 결합해서 항생제의 가수분해를 방지한다.",
+      "images": [
+        "images/2023/q073_img1.jpeg"
+      ],
+      "source_page": 39
+    },
+    {
+      "id": "q074",
+      "number": 74,
+      "question": "다음 중 mylohyoid muscle과 platysma사이의 공간으로, 하악 구치부 치수가 괴사될 경우 감염이\n생기는 공간은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Mental space"
+        },
+        {
+          "label": 2,
+          "text": "Submental space"
+        },
+        {
+          "label": 3,
+          "text": "Sublingual space"
+        },
+        {
+          "label": 4,
+          "text": "Submandibular space"
+        },
+        {
+          "label": 5,
+          "text": "Pterygomandibular space"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "Submandibular space에 대한 설명입니다. (pathway 11판 p.713)",
+      "images": []
+    },
+    {
+      "id": "q075",
+      "number": 75,
+      "question": "2022년 Int Endod J에 개재된 “Efficacy of four local an aesthesia protocols for mandibular first\nmolars with symptomatic irreversible pulpitis: A randomized clinical trial“에서 비가역성 치수염에서\n가장 효과가 좋은 마취 방법은?\n➀ Group 1 (IANB) : standard inferior alveolar nerve block (IANB) injection\n➁ Group 2 (IANB + IO) : A standard IANB was administered followed by the\nsupplemental intraosseous infusion (IO) injection",
+      "choices": [
+        {
+          "label": 1,
+          "text": "➂ Group 3 (IANB + PDL) : A standard IANB was administered followed by"
+        },
+        {
+          "label": 2,
+          "text": "periodontal ligament (PDL) injection"
+        },
+        {
+          "label": 3,
+          "text": "➃ Group 4 (IANB + BI) : A standard IANB was administered followed by buccal"
+        },
+        {
+          "label": 4,
+          "text": "infiltration."
+        },
+        {
+          "label": 5,
+          "text": "➄ 위의 4가지 방법들에서 유의한 효과는 없었다."
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "➁\n최신수복 근치 22년 1-2\n<Result>\nThe IANB + IO injection had a significantly higher success rate 92.5% (p < .05), followed by IANB\n+ PDL injection (72.5%), IANB + BI injection (65.0%), respectively with no significant differences\nbetween the IANB + PDL and IANB + BI injections (p > .05).\n- 가장 효과 좋은 방법 순서로는 Group 2 (IANB + IO) > Group 3 (IANB + PDL) > Group 4 (IANB + BI)\n였습니다.",
+      "images": []
+    },
+    {
+      "id": "q076",
+      "number": 76,
+      "question": "Flare up에 관한 설명으로 옳지 않은 것은?\n➀ 근관충전 완료 후에는 발생하지 않는다.\n➁ 술 전 동통이 있는 경우 발생할 빈도가 높다.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "➂ 근관치료 시행 후 수 시간에서 수 일 이내에 통증, 부종 등의 증상이 나타나는 것이다."
+        },
+        {
+          "label": 2,
+          "text": "➃ 예방으로는 근관치료 시 치근단 정출을 막기 위해 치근단공을 넘어 치근단조직을 자극하지"
+        },
+        {
+          "label": 3,
+          "text": "않도록 하는 것이다."
+        },
+        {
+          "label": 4,
+          "text": "➄ 예방을 위해 잔사를 밀어내는 작용이 적은 엔진 구동형 (rotary) 니켈-티타늄 파일을 이용하여 crown-"
+        },
+        {
+          "label": 5,
+          "text": "down technique으로 근관 형성을 진행한다."
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "➀\n*pathway p.50\n근관성 flare up은 다양한 이유로 발생되는데, 근단 종말부를 넘어서 성형을 한 경우에 과도한 기구조작,\n상아질 및 치수 잔사를 치근단 부위로 밀어 넣었을 경우, 불완전한 치수조직의 제거, “충전재의 과연장”,\n화학 세척제(세정제, 근관 내 첩약, 그리고 “실러”), 과교합， 치근파절， 미생물적 요소 등을 포함한다.\n*근관치료학 p.213\n근단공을 넘어서 기구조작을 하거나 근관 내 잔사가 치근단부로 밀려나가는 경우, 불완전한\n치수조직의 제 거, 근단공을 넘어가는 근광세정제나 “충전재”의 자극과 교합 그리고 미생물적 요인\n등이 원인으로 생각된다.\n- Flare up의 원인들 중 하나로 “충전재 과연장(자극), 실러”가 포함되어 있으므로 근관충전 완료\n후에도 flare up은 발생할 수 있다는 것을 의미합니다.",
+      "images": []
+    },
+    {
+      "id": "q077",
+      "number": 77,
+      "question": "다음 중 pulp vitality test인 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "➀ Bite test"
+        },
+        {
+          "label": 2,
+          "text": "➁ Cold test"
+        },
+        {
+          "label": 3,
+          "text": "➂ Pulp oximetry"
+        },
+        {
+          "label": 4,
+          "text": "➃ Percussion"
+        },
+        {
+          "label": 5,
+          "text": "➄ Electric pulpal test"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "➂\n해설 : POP 10th p.20\n'치수생활력 진단을 위해 pulse oximeter를 이용함에 있어~'\n- bite test와 percussion은 치주인대 검사이며 냉검사와 전기치수검사는 신경을 검사함.",
+      "images": []
+    },
+    {
+      "id": "q078",
+      "number": 78,
+      "question": "다음을 예방하는 것은?(전치부 내흡수 CBCT 사진 - 출처없는 사진이 출제되어 구글링함. 출제된\n사진은 middle ⅓부위에 내흡수가 있는 사진이었음.)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "➀ 치은"
+        },
+        {
+          "label": 2,
+          "text": "➁ 법랑질"
+        },
+        {
+          "label": 3,
+          "text": "➂ 백악질"
+        },
+        {
+          "label": 4,
+          "text": "➃ 치주인대"
+        },
+        {
+          "label": 5,
+          "text": "➄ 전상아질"
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "➄\n해설 : 최신근관치료학 교과서 p. 60\n내흡수의 조직병리학적 소견 설명에 '치수와 접근되어 있는 상아질 벽에서는 상아질모세포와\n풋상아질(전상아질)이 나타나지 않으며'라고 서술됨.",
+      "images": [
+        "images/2023/q078_img1.jpeg"
+      ],
+      "source_page": 42
+    },
+    {
+      "id": "q079",
+      "number": 79,
+      "question": "2020년 Cortes의 \"Survival of replanted permanent teeth after traumatic avulsion\"에 대한 내용으로\n옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "5.5년간 생존율은 50퍼센트이다."
+        },
+        {
+          "label": 2,
+          "text": "치근형성정도가 중요한 요인이다"
+        },
+        {
+          "label": 3,
+          "text": "탈구된 치아의 보관액으로써 우유는 좋은 보관용액이다."
+        },
+        {
+          "label": 4,
+          "text": "16세까지 나이가 증가함에 따라 치아 생존율은 증가한다."
+        },
+        {
+          "label": 5,
+          "text": "위 연구에서 전신적 항생제의 유용성을 입증했다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(최신 근관 20-1-2)\n① 탈구 후 재식된 영구치의 전체 생존율은 5.5년 후 50%임을 보여줌.\n② result에서 환자의 외상당시나이, 치근의 발달단계가 유의한 예측 인자라고 하였으며, 성숙치아의\n발치율은 미성숙 치아의 절반으로 나타남.\n③ 우유에 보관된 치아가 재식후 증가된 생존율을 보여줌.\n④ *Result에 16세 미만에서 1살이 증가함에따라 발치비율이 감소했다고 나와있습니다.\n⑤ 논문의 결과에서 SAT(전신적 항생제 처방)가 치아의 장기생존에 영향을 미치지 않았음.",
+      "images": []
+    },
+    {
+      "id": "q080",
+      "number": 80,
+      "question": "2012 Andersson등이 Dental Traumatology에 게재한 \"International Association of Dental\nTraumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent\nteeth\"에 대한 내용으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "1달 후 근관치료를 시행한다."
+        },
+        {
+          "label": 2,
+          "text": "전신적 항생제의 사용은 추천되지 않는다."
+        },
+        {
+          "label": 3,
+          "text": "전신적 항생제의 사용시 가장 우선적으로 amoxycillin의 사용이 추천된다."
+        },
+        {
+          "label": 4,
+          "text": "미성숙 영구치의 경우 치수 재혈관화와 치근형성이 최우선 목표이다."
+        },
+        {
+          "label": 5,
+          "text": "치근형성이 완료된 경우, 4주간 flexible wire로 splint한다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "* 전신적 항생제로 첫번째로 추천되는 항생제는 tetracyclin이며, 미성숙 영구치의 경우 근관치료를\n시행하지 않거나 치수 재혈관화와 치근 형성이 최우선 목표가 되어야 할 것 같습니다.\n① 치아 재식 7-10일 후 splint를 제거하기 전 근관치료 시작함.\n② 대부분의 경우 치아재식 이후 항생제를 사용할 것을 추천함.\n③ 전신적 항생제 투여시 첫번째로 추천되는 항생제는 tetracyclin이며, 12세 이하 환자에게는 추천되지\n않음.\n(대체로 페니실린 또는 amoxycillin도 사용가능 하다고 나와있습니다.)\n④ 미성숙 영구치는 치수괴사의 임상적,방사선학적 근거가 없는 경우 근관치료를 시행하지 않음.\n⑤ 치근형성이 완료된 영구치의 경우 Flexible splint를 2주 적용함.",
+      "images": []
+    },
+    {
+      "id": "q081",
+      "number": 81,
+      "question": "석회화된 근관을 다루기 위해 사용하고, 술자가 근관에 143%의 강한 힘을 가할 수 있는 file?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "k file"
+        },
+        {
+          "label": 2,
+          "text": "C+ file"
+        },
+        {
+          "label": 3,
+          "text": "flexo file"
+        },
+        {
+          "label": 4,
+          "text": "K-flex file"
+        },
+        {
+          "label": 5,
+          "text": "reamer"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "[근관치료학 p.229] * 다른 보기들이 정확하지 않습니다. 죄송합니다.",
+      "images": []
+    },
+    {
+      "id": "q082",
+      "number": 82,
+      "question": "Flare up에서 술후 통증을 예측할 수 있는 가장 큰 예측인자는?\n②\n④ 술전 진통제 복용여부",
+      "choices": [
+        {
+          "label": 3,
+          "text": "술전 통증 및 Mechanical Allodynia"
+        },
+        {
+          "label": 4,
+          "text": "술전 진통제 복용여부"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "[pathway 10판 기준 - 근관치료 시 약리학 단원]* 다른 보기들이 정확하지 않습니다.\n죄송합니다.",
+      "images": []
+    },
+    {
+      "id": "q083",
+      "number": 83,
+      "question": "Roane JB The “Balanced Force” Concept of instrumentation of Curved canal 에서 다음의 q,r, u,\nv가 나타내는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Flute"
+        },
+        {
+          "label": 2,
+          "text": "Cutting edge"
+        },
+        {
+          "label": 3,
+          "text": "Rake angle"
+        },
+        {
+          "label": 4,
+          "text": "Radial land"
+        },
+        {
+          "label": 5,
+          "text": "Clearance angle"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "Clearance angle [필독 C-3-2-3]",
+      "images": [
+        "images/2023/q083_img1.jpeg"
+      ],
+      "source_page": 44
+    },
+    {
+      "id": "q084",
+      "number": 84,
+      "question": "다음 논문 Effect of length on the torsional resistance of rotary nickel titanium instrument 의 결과에\n대해서 옳은것?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Shank가 짧아질수록 maximum torsional load가 커진다."
+        },
+        {
+          "label": 2,
+          "text": "PTN과 PTG에서 shaft length 길이에 따라 maximal torsional load의 유의한 차이가 있었다? 는\n느낌의 내용"
+        },
+        {
+          "label": 3,
+          "text": "Hyflex CM에선 31mm가 25,21mm에 비해서 유의하게 높은 maximum torsional load를 갖는다."
+        },
+        {
+          "label": 4,
+          "text": "?"
+        },
+        {
+          "label": 5,
+          "text": "Protaper Next에선 31mm가 25,21mm에 비해서 유의하게 높은 maximum torsional load를\n갖는다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신 20-1-근관3번 논문)\n- 나머지 보기들에서 틀린 내용으로는, protaper next가 protaper gold에 비해서 maximum torsional\nload도 크고, toughness도 크단 내용이 있었고, protaper next file이 31mm가 21,25에 비해서 torsional\nload가 컸다 라는 내용들이 있었습니다.",
+      "images": []
+    },
+    {
+      "id": "q085",
+      "number": 85,
+      "question": "다음은 rake angle에 대한 그림이다. A-B-C가 알맞게 연결된 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "neutral - positive - negative"
+        },
+        {
+          "label": 2,
+          "text": "positive - neutral - negative"
+        },
+        {
+          "label": 3,
+          "text": "negative – neutral – positive"
+        },
+        {
+          "label": 4,
+          "text": "neutral - negative- positive"
+        },
+        {
+          "label": 5,
+          "text": "positive - negative - neutral"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(보기순서는 시험지 상과 다를 수 있습니다.)\nnegative – neutral – positive\nPOP 11th fig 6-14",
+      "images": [
+        "images/2023/q085_img1.jpeg"
+      ],
+      "source_page": 45
+    },
+    {
+      "id": "q086",
+      "number": 86,
+      "question": "고압증기멸균에 대한 설명으로 괄호에는 압력, 온도, 시간이 비워져 있었습니다.",
+      "choices": [],
+      "answer_raw": "1",
+      "explanation": "5 psi- 121℃ - 15분\n책마다 조금씩 다르게 되어 있었습니다.\n1) Pop 11th p140 2번째줄\n오토클레이브법은 대부분의 건강과 관련된 시설에서 멸균에 사용하는 가장 전형적인 방법이다.\n일반적으로 15psi, 250℉(121℃)에서 30분 주기로 사용된다.\n30psi, 273℉(134℃)의 높은 온도에서 10분 주기의 순간 멸균방법도 가능하다.\n2) A&S 10th 번역본 p373\n증기압멸균(가압멸균)\n증기압에서의 멸균은 증기가압멸균기에서 시행한다. 소량의 기구는121℃에서 최소 15분, 15lbs\n압력으로 멸균을 시행한다.\n천으로 싼 기구는 134℃ ,30lbs에서 시간을 7분 정도로 줄일 수 있다.\n*15psi, 121℃ 에서 15분이라는 보기는 있었으나, 30분은 없었고 60분 보기가 있었습니다.",
+      "images": [],
+      "answer_only": true,
+      "answer_display": "5 psi - 121℃ - 15분"
+    },
+    {
+      "id": "q087",
+      "number": 87,
+      "question": "근관세척제 관련하여 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "NaOCl, EDTA 세척 후에도 EDTA 칼슘결합능은 그대로 유지된다"
+        },
+        {
+          "label": 2,
+          "text": "NaOCl과 CHX 세척 시 붉은색 침전물이 생긴다"
+        },
+        {
+          "label": 3,
+          "text": "NaOCl와 EDTA 혼용 시 NaOCl의 세척능이 떨어진다"
+        },
+        {
+          "label": 4,
+          "text": "EDTA와 CHX 세척 시 검은색 침전물이 생긴다"
+        },
+        {
+          "label": 5,
+          "text": "?"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "1) O NaOCl과 혼합시 EDTA의 칼슘 부착능은 유지되지만 NaOCl의조직 분해능은\n잃어버림( POP 10판 p.270)\n2) O 여러색깔인듯.. 사진 참조 [POP 10판 그림 8-48]\n3) O 1)과 동일 해설\n4) X EDTA+ CHX = 흰색 침전물 (POP10판 p.267)\n5) ?",
+      "images": []
+    },
+    {
+      "id": "q088",
+      "number": 88,
+      "question": "근관세척제 관련 문제",
+      "choices": [
+        {
+          "label": 5,
+          "text": "IKI와 클로르헥시딘을 혼용해서 사용할 경우 수산화칼슘에 저항성이 있는 세균을 좀 더\n효과적으로 박멸할 수 있다"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(POP p.335)\n다른 보기는 기억이 잘 안나서요 죄송합니다다다…",
+      "images": []
+    },
+    {
+      "id": "q089",
+      "number": 89,
+      "question": "NaOCl 에 관한 내용으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "따뜻하게 데우면 효과가 증진된다."
+        },
+        {
+          "label": 2,
+          "text": "pH<3 이하의 강산으로 항세균효과가 있다."
+        },
+        {
+          "label": 3,
+          "text": "fatty acid 를 fatty acid salt 와 glycerol로 분해한다."
+        },
+        {
+          "label": 4,
+          "text": "염소기가 단백질을 아미노산으로 분해한다."
+        },
+        {
+          "label": 5,
+          "text": "자유염소기가 protein amine group에 결합하여 chloramine을 형성한다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "1) O 근관치료학 334p\n2) X NaOCl은 pH 11.4 알칼리성 ( pathway 10판 p. 333)\n3) ?\n4) O 괴사된 조직과 파편들은 NaOCl의 유리염소로 인해서 단백질이 아미노산으로\n분해되면서 용해됨 ( pathway 10판 p. 359)\n5) O 논문 C-3-4-1 내용",
+      "images": []
+    },
+    {
+      "id": "q090",
+      "number": 90,
+      "question": "근관충전에 관하여 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근관충전시기에 가봉재의 건전 여부는 관련없다."
+        },
+        {
+          "label": 2,
+          "text": "괴사치수에서 삼출물 지속시 근관충전은 시행하면 안된다."
+        },
+        {
+          "label": 3,
+          "text": "세정과 성형후 근관충전은 필수적이다."
+        },
+        {
+          "label": 4,
+          "text": "근관 세정과 성형후 세균과 치수조직의 괴사 산물들이 효과적으로 제거된 상태를 유지하기\n위해 충전을 시행하여야 한다."
+        },
+        {
+          "label": 5,
+          "text": "근관충전의 목적은 구강이나 치근단조직으로부터 근관계로 연결되는 모든 누출통로를\n폐쇄하고 완전히 제거될 수 없었던 자극물을 근관계 내에 봉쇄하는 것이다."
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(근관치료학 371p.)\n** 근관충전 시기를 결정하는 이상적인 요소는 다음과 같다.\n-\n환자는 증상이 없고 타진에 불편감을 가지지 않으며\n-\n누공이 폐쇄되어 치유되어 있거나\n-\n삼출액이 거의 없고 악취가 나지 않아야하며\n-\n근관이 적절한 크기로 확대되어야 하고\n-\n가봉재가 건전하고 변연누출의 흔적이 없어야 한다\n-\n음성배양을 얻을수 있다면 더욱 바람직 하다.",
+      "images": []
+    },
+    {
+      "id": "q091",
+      "number": 91,
+      "question": "다음 그림이 사용되는 치료 과정은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근관충"
+        },
+        {
+          "label": 2,
+          "text": "근관세척"
+        },
+        {
+          "label": 3,
+          "text": "거타퍼챠 소독"
+        },
+        {
+          "label": 4,
+          "text": "근관파일 소독"
+        },
+        {
+          "label": 5,
+          "text": "(평이한 보기)"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(pathway 11판, p. 312, fig. 7-47)\n-\nthermafil oven (thermaprep II)",
+      "images": [
+        "images/2023/q091_img1.jpeg"
+      ],
+      "source_page": 48
+    },
+    {
+      "id": "q092",
+      "number": 92,
+      "question": "2022 Kim’s “Clinical Efficacy of sealer-based obturation using calcium silicate sealers:a\nrandomized clinical trial”에서 loose한 criteria에서 근관치료 성공률에 대해 유의미한 요소는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "환자의 성별"
+        },
+        {
+          "label": 2,
+          "text": "환자의 나이"
+        },
+        {
+          "label": 3,
+          "text": "술전 PAI"
+        },
+        {
+          "label": 4,
+          "text": "sealer extrusion"
+        },
+        {
+          "label": 5,
+          "text": "pre-operative pain"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "최신 근관 2022-1-3 Abstract에서 result에 있는 문장",
+      "images": []
+    },
+    {
+      "id": "q093",
+      "number": 93,
+      "question": "다음 기구의 이름은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Gonon post removal system"
+        },
+        {
+          "label": 2,
+          "text": "Eggler post remover"
+        },
+        {
+          "label": 3,
+          "text": "Gyro Tip"
+        },
+        {
+          "label": 4,
+          "text": "Thomas screw post removal kit"
+        },
+        {
+          "label": 5,
+          "text": "Ruddle Post Removal system"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "Eggler post remover ( pathway 10판 p.972-973)",
+      "images": [
+        "images/2023/q093_img1.jpeg"
+      ],
+      "source_page": 49
+    },
+    {
+      "id": "q094",
+      "number": 94,
+      "question": "다음 중 일회 근관치료(1-visit endodontic treatment)가 가능한 치아는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "해부학적으로 치료가 어려운 치아"
+        },
+        {
+          "label": 2,
+          "text": "심한 통증이 있는 괴사된 치수를 가진 치아"
+        },
+        {
+          "label": 3,
+          "text": "급성통증 및 지속되는 삼출물이 없는 치아"
+        },
+        {
+          "label": 4,
+          "text": "누공 없는 치근단 병소를 가진 증상 없는 치아"
+        },
+        {
+          "label": 5,
+          "text": "타진에 반응이 있는 치아로 급성 치근단 치주염을 가진 치아"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 p. 157)\n** 일회 근관 치료가 추천 되지 않는 경우\n1. 심한 통증이 있는 괴사된 치수를 가진 치아\n2. 해부학적으로나 치료 술식에 있어 어려운 치아\n3. 누공이 없는 치근단 병소를 가지고 있고 증상이 없는 실활치수를 가진 치아\n4. 타진에 심한 반응을 보이는 급성 치근단치주염을 가진 치아\n5. 대부분의 재치료",
+      "images": []
+    },
+    {
+      "id": "q095",
+      "number": 95,
+      "question": "apical periodontitis의 치유에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "osteoblast가 관여"
+        },
+        {
+          "label": 2,
+          "text": "대부분 fibrosis로 귀결"
+        },
+        {
+          "label": 3,
+          "text": "치주인대의 multipotent stem cell이 관여"
+        },
+        {
+          "label": 4,
+          "text": "anti-inflammatory cytokine 관여"
+        },
+        {
+          "label": 5,
+          "text": "결합조직의 치유와 비슷"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(pathway 10판 p.592)\n- 치근단 치주염병소의 치유는 대부분 재생에 의해 이루어지지만 일부는 섬유화에 의해 치유가\n일어나기도 한다.",
+      "images": []
+    },
+    {
+      "id": "q096",
+      "number": 96,
+      "question": "2014년 american asso of pediatric dent에 따르면, 미성숙치아의 재식후 결과중 favorable\noutcome으로 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "tooth vitality"
+        },
+        {
+          "label": 2,
+          "text": "pulp regeneration and apexogenesis (??)"
+        },
+        {
+          "label": 3,
+          "text": "reparative dentine"
+        },
+        {
+          "label": 4,
+          "text": "radiographic abnormal calcification"
+        },
+        {
+          "label": 5,
+          "text": "abscense of symptom"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "-\nPathway 12판 table17.1에 있는 내용입니다.\n-\nAbsence of radiographic evidence of internal or external root resorption, periapical\nradiolucency, abnormal calcification, or other pathologic changes.",
+      "images": []
+    },
+    {
+      "id": "q097",
+      "number": 97,
+      "question": "상악 우측중절치의 치근단수술 직후(A), 2년후(B), 3년후(C) 에 촬영한 치근단 방사선 사진입니다.\n상악 우측중절치의 방사선학적 치유 분류는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Complete healing"
+        },
+        {
+          "label": 2,
+          "text": "Incomplete healing"
+        },
+        {
+          "label": 3,
+          "text": "Uncertain healing"
+        },
+        {
+          "label": 4,
+          "text": "Failure"
+        },
+        {
+          "label": 5,
+          "text": "Extraction"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(POP 11th edition p.485 Fig.11-11)",
+      "images": [
+        "images/2023/q097_img1.jpeg"
+      ],
+      "source_page": 51
+    },
+    {
+      "id": "q098",
+      "number": 98,
+      "question": "아래 사진에 보이는 기구의 용도는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "크라운 프렙"
+        },
+        {
+          "label": 2,
+          "text": "아말감 폴리싱"
+        },
+        {
+          "label": 3,
+          "text": "교합조정"
+        },
+        {
+          "label": 4,
+          "text": "근관 와동형성"
+        },
+        {
+          "label": 5,
+          "text": "치근단 수술시 골삭제"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(POP 10th edition p.802)\n(POP 11th edition p.411)",
+      "images": [
+        "images/2023/q098_img1.jpeg"
+      ],
+      "source_page": 52
+    },
+    {
+      "id": "q099",
+      "number": 99,
+      "question": "수직 이완 절개 시 원칙으로 옳은 것을 고르시오",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A vertical incision should cut across frenum and muscle attachment."
+        },
+        {
+          "label": 2,
+          "text": "The incision should be placed superior to a bony eminence."
+        },
+        {
+          "label": 3,
+          "text": "Frenum and muscle attachment should be located in the reflected tissue."
+        },
+        {
+          "label": 4,
+          "text": "The incision should be made perpendicular to the supraperiosteal vessels in the attached\ngingiva and submucosa"
+        },
+        {
+          "label": 5,
+          "text": "The incision should extend from the depth of the vestibular sulcus to the midpoint\nbetween the dental papilla and the horizontal aspect of the buccal gingival sulcus."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(POP 11th edition p.409)\n-\n문장이 완벽하게 일치하진 않았지만 상기와 같은 내용이었습니다.\n① No cuts should be made across frenum and muscle attachment.\n② The incision should not be placed superior to a bony eminence.\n③ Frenum and muscle attachment should not be located in the reflected tissue.\n④ The incision should be made parallel to the supraperiosteal vessels in the attached gingiva and\nsubmucosa",
+      "images": []
+    },
+    {
+      "id": "q100",
+      "number": 100,
+      "question": "노령화에 따른 치수 변화 중 옳지 않은 것을 고르시오",
+      "choices": [
+        {
+          "label": 1,
+          "text": "조상아세포가 감소한다."
+        },
+        {
+          "label": 2,
+          "text": "치수 내의 혈관 및 신경섬유들의 수가 감소한다."
+        },
+        {
+          "label": 3,
+          "text": "치수 조직 내의 교원질 섬유 수가 감소한다."
+        },
+        {
+          "label": 4,
+          "text": "이차 상아질과 삼차 상아질이 형성되면서 치수 부피가 지속적으로 감소된다."
+        },
+        {
+          "label": 5,
+          "text": "혈관 내벽 세포 내의 미세 소포, 세포 골격 및 골지체의 증가 등이 관찰된다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 p.690)\n3) 한편 치수 조직 내의 교원질 섬유 수는 증가하고,",
+      "images": []
+    }
+  ]
+}
