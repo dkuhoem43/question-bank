@@ -143,10 +143,10 @@ function confirmModeChange(kind){
 function cancelModeChange(){pendingMode=null;pendingCurrentId=null;document.getElementById("modeModal").classList.remove("show")}
 function openReset(){document.getElementById("resetModal").classList.add("show")}
 function closeReset(){document.getElementById("resetModal").classList.remove("show")}
-function resetWrong(){if(!confirm("${YEAR}년 오답 목록을 초기화할까요?"))return;Object.keys(answers).forEach(id=>{if(answers[id]?.lastCorrect===false)delete answers[id]});wrongIds=[];positions.wrong=0;if(mode==="wrong")idx=0;closeReset();save();render()}
-function resetBooks(){if(!confirm("${YEAR}년 북마크 목록을 모두 초기화할까요?"))return;books={};positions.bookmark=0;if(mode==="bookmark")idx=0;closeReset();save();render()}
-function resetStudy(){if(!confirm("${YEAR}년 문제 풀이기록을 초기화할까요?\n북마크와 오답목록은 유지됩니다."))return;answers={};positions={};idx=0;mode="all";closeReset();save();render()}
-function resetAll(){if(!confirm("${YEAR}년 학습기록을 전체 초기화할까요?"))return;answers={};books={};wrongIds=[];positions={};idx=0;mode="all";closeReset();save();render()}
+function resetWrong(){if(!confirm('${YEAR}년 오답 목록을 초기화할까요?'))return;Object.keys(answers).forEach(id=>{if(answers[id]?.lastCorrect===false)delete answers[id]});wrongIds=[];positions.wrong=0;if(mode==="wrong")idx=0;closeReset();save();render()}
+function resetBooks(){if(!confirm('${YEAR}년 북마크 목록을 모두 초기화할까요?'))return;books={};positions.bookmark=0;if(mode==="bookmark")idx=0;closeReset();save();render()}
+function resetStudy(){if(!confirm('${YEAR}년 문제 풀이기록을 초기화할까요?\n북마크와 오답목록은 유지됩니다.'))return;answers={};positions={};idx=0;mode="all";closeReset();save();render()}
+function resetAll(){if(!confirm('${YEAR}년 학습기록을 전체 초기화할까요?'))return;answers={};books={};wrongIds=[];positions={};idx=0;mode="all";closeReset();save();render()}
 function zoom(s){document.getElementById("zi").src=s;document.getElementById("ov").classList.add("show")}
 function closeZoom(){document.getElementById("ov").classList.remove("show")}
 function revealAnswer(id){answers[id]={...(answers[id]||{}),revealed:true};save();render()}
