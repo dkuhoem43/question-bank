@@ -201,7 +201,7 @@ function home(){
     <p style="color:#6b7280">${YEAR}년 문제 · 총 ${total}문제</p>
     <div class="stats"><div class="stat">푼 문제 ${st.attempted}</div><div class="stat">⭕ 정답 ${st.correct}</div><div class="stat">❌ 오답 ${st.wrong}</div><div class="stat">🔖 북마크 ${st.book}</div></div>
     <div class="nav" style="flex-direction:column;margin-top:18px">
-      <button onclick="startAll('start')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 처음부터 풀기</button><button onclick="startAll('last')">▶️ ${YEAR}년 마지막 위치에서 풀기</button>
+      <button onclick="setMode('all')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 전체 문제 풀기</button>
       <button onclick="setMode('wrong')">❌ ${YEAR}년 오답 문제</button>
       <button onclick="setMode('bookmark')">🔖 ${YEAR}년 북마크 문제</button>
       <button onclick="setMode('stats')">📊 학습 통계</button>
