@@ -22,12 +22,13 @@ main{max-width:850px;margin:auto;padding:14px}.card{background:#fff;border-radiu
 .close{position:absolute;right:14px;top:14px;border-radius:50%;width:42px;height:42px;font-size:22px}
 .retry-btn{width:100%;margin-top:12px;background:#f3f4f6;color:#111827;border:1px solid #d1d5db;font-weight:800}.explanation-figure{margin-top:14px}.question-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-top:12px}.preview-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;max-height:55vh;overflow:auto;margin-top:8px}.preview-item{display:flex;gap:9px;align-items:flex-start;text-align:left;padding:10px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;cursor:pointer}.preview-item:hover{background:#f3f4f6}.preview-num{min-width:34px;height:34px;border-radius:8px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;font-weight:800}.preview-text{font-size:13px;line-height:1.45;color:#374151}.preview-item.current{border:2px solid #111827;padding:9px}.preview-item.done{border-color:#22c55e}.preview-item.wrong{border-color:#ef4444;background:#fff7f7}.preview-item.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}@media(max-width:700px){.preview-grid{grid-template-columns:1fr}}.qnum-btn{padding:10px 4px;border:1px solid #e5e7eb;background:#fff;border-radius:10px;font-weight:700}.qnum-btn.current{background:#111827;color:#fff}.qnum-btn.done{border-color:#22c55e}.qnum-btn.wrong{border-color:#ef4444;background:#fee2e2}.qnum-btn.bookmark{box-shadow:inset 0 0 0 2px #f59e0b}.list-card{margin-top:12px;padding:14px;background:#f9fafb;border-radius:14px}.list-head{display:flex;justify-content:space-between;align-items:center;gap:8px}.list-note{font-size:12px;color:#6b7280;margin-top:6px}.explanation-figure img{max-width:100%;height:auto;display:block;margin:0 auto;cursor:zoom-in}.year-tabs{display:flex;gap:6px;overflow-x:auto;margin:12px 0}.year-tab{background:#f3f4f6;min-width:58px}.year-tab.active{background:#111827;color:#fff;font-weight:800}</style></head><body>
 <header><div class="title">🦷 치과보존과 Question Bank</div>
-<div class="toolbar"><button onclick="goHome()">🏠 첫 화면</button><button onclick="openGoto()">🔢 번호 이동</button><button onclick="setMode('all')">전체</button><button onclick="setMode('wrong')">❌ 오답</button><button onclick="setMode('bookmark')">🔖 북마크</button><button onclick="setMode('stats')">📊 통계</button><button onclick="openReset()">⚙️ 초기화</button></div></header>
+<div class="toolbar"><button onclick="goHome()">🏠 첫 화면</button><button onclick="openGoto()">🔢 번호 이동</button><button onclick="setMode('all')">전체</button><button onclick="setMode('wrong')">❌ 오답</button><button onclick="setMode('bookmark')">🔖 북마크</button><button onclick="setMode('stats')">📊 통계</button><button onclick="openReset()">⚙️ 초기화</button><button onclick="openInfo('manual')">📖 사용설명서</button><button onclick="openInfo('updates')">🆕 업데이트</button></div></header>
 <main id="app"></main>
 </div>
 <div class="mode-modal" id="modeModal"><div class="mode-box"><h3 id="modeTitle">학습 위치</h3><p id="modeDesc">어디서 시작할까요?</p><div class="mode-actions"><button onclick="confirmModeChange('start')">처음부터</button><button onclick="confirmModeChange('last')">마지막 위치</button><button class="cancel" onclick="cancelModeChange()">취소</button></div></div></div>
 <div class="mode-modal" id="gotoModal"><div class="mode-box"><h3>🔢 문제 번호 이동</h3><p id="gotoDesc">번호를 입력하거나 아래 문제 미리보기에서 선택하세요.</p><div style="display:flex;gap:8px;margin:8px 0 12px"><input id="gotoInput" type="number" min="1" max="100" placeholder="문제 번호" style="flex:1;padding:11px;border:1px solid #d1d5db;border-radius:10px;font-size:16px" onkeydown="if(event.key==='Enter')goToNumber()"><button onclick="goToNumber()">이동</button></div><input id="previewSearch" type="text" placeholder="🔎 문제 내용 검색" style="width:100%;box-sizing:border-box;padding:10px;border:1px solid #d1d5db;border-radius:10px;margin-bottom:8px" oninput="renderGotoGrid()"><div class="preview-filters" id="previewFilters"></div><div class="list-note">문제 번호와 문제 첫 부분을 미리 볼 수 있습니다. 클릭하면 바로 이동합니다.</div><div class="preview-grid" id="previewGrid"></div><div class="mode-actions" style="margin-top:12px"><button class="cancel" onclick="closeGoto()">닫기</button></div></div></div>
 <div class="mode-modal" id="resetModal"><div class="mode-box"><h3>⚙️ 초기화</h3><p>무엇을 초기화할까요?</p><div class="mode-actions" style="flex-direction:column"><button onclick="resetStudy()">🔄 전체 문제 풀이기록 초기화</button><button onclick="resetWrong()">❌ 오답 목록 초기화</button><button onclick="resetBooks()">🔖 북마크 목록 초기화</button><button onclick="resetAll()">🗑️ 전체 학습기록 초기화</button><button class="cancel" onclick="closeReset()">취소</button></div></div></div>
+<div class="mode-modal" id="infoModal"><div class="mode-box" style="max-width:620px;max-height:85vh;overflow:auto"><h3 id="infoTitle">📖 사용설명서</h3><div id="infoContent" style="line-height:1.7;font-size:14px"></div><div class="mode-actions"><button class="cancel" onclick="closeInfo()">닫기</button></div></div></div>
 <div class="overlay" id="ov" onclick="if(event.target.id==='ov')closeZoom()"><button class="close" onclick="closeZoom()">×</button><img id="zi"></div>
 <script>
 const YEARS=[2020,2021,2022,2023,2024,2025];
@@ -82,6 +83,18 @@ function ans(q){return q.answer_raw?[Number(q.answer_raw)]:[]}
 function modeName(m){return m==="all"?"전체":m==="wrong"?"오답":"북마크"}
 function goHome(){save();mode="home";render()}
 function changeYear(y){loadYear(Number(y),true)}
+function openInfo(type){
+  const title=document.getElementById("infoTitle"),box=document.getElementById("infoContent");
+  if(type==="manual"){
+    title.textContent="📖 사용설명서";
+    box.innerHTML=`<h4>🦷 기본 사용법</h4><p><b>전체</b> · 모든 문제를 풉니다.<br><b>❌ 오답</b> · 현재 연도에서 오답으로 기록된 문제만 풉니다.<br><b>🔖 북마크</b> · 북마크한 문제만 모아 풉니다.</p><h4>▶️ 시작 위치</h4><p>전체·오답·북마크를 누르면 <b>처음부터 / 마지막 위치</b>를 선택할 수 있습니다. 마지막 위치는 각 모드별로 따로 저장됩니다.</p><h4>📝 문제 풀이</h4><p>답을 선택하면 정답과 해설이 표시됩니다. 답보기 문제는 <b>📖 답보기</b>를 누르면 답과 해설을 확인할 수 있습니다.</p><h4>🔄 이 문제 다시 풀기</h4><p>해설 아래의 <b>🔄 이 문제 다시 풀기</b>를 누르면 해당 문제만 다시 미풀이 상태로 돌아갑니다. 북마크는 유지됩니다.</p><h4>🔢 번호 이동</h4><p>문제 번호를 직접 입력하거나 문제 목록에서 원하는 문제를 눌러 바로 이동할 수 있습니다.</p><h4>📊 학습 통계</h4><p>현재 연도의 풀이·정답·오답·북마크 현황을 확인합니다. 연도별 학습기록은 서로 별도로 저장됩니다.</p><h4>⚙️ 초기화</h4><p>풀이기록, 오답 목록, 북마크, 전체 학습기록을 각각 선택해서 초기화할 수 있습니다.</p><h4>💾 데이터 보존</h4><p>풀이기록과 북마크는 이 브라우저의 로컬 저장공간에 저장됩니다. 앱 파일을 업데이트해도 같은 브라우저 저장공간을 사용하면 기존 기록이 유지됩니다.</p>`;
+  }else{
+    title.textContent="🆕 업데이트 내용";
+    box.innerHTML=`<h4>v25</h4><ul><li>📚 전체 / ❌ 오답 / 🔖 북마크 모드의 <b>처음부터 / 마지막 위치</b> 선택 기능 통일</li><li>🔄 문제별 <b>이 문제 다시 풀기</b> 기능 추가</li><li>📝 2024년 84번 해설에 <b>1? 2?</b> 반영</li><li>📖 사용설명서 및 업데이트 내용 메뉴 추가</li></ul><p style="color:#6b7280;font-size:12px">※ 이후 버전의 변경사항은 이 메뉴에 계속 추가합니다.</p>`;
+  }
+  document.getElementById("infoModal").classList.add("show");
+}
+function closeInfo(){document.getElementById("infoModal").classList.remove("show")}
 
 function openGoto(){
   document.getElementById("gotoDesc").textContent=`${YEAR}년 문제 번호를 입력하거나 문제 미리보기에서 선택하세요.`;
@@ -137,7 +150,6 @@ function startAll(kind){
 function setMode(m){
   save();
   if(m==="stats"){mode="stats";idx=0;render();return}
-  if(m===mode){render();return}
   pendingMode=m;
   pendingCurrentId=arr()[idx]?.id||null;
   document.getElementById("modeTitle").textContent=`${modeName(m)}로 이동`;
