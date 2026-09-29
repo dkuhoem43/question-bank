@@ -1,0 +1,3050 @@
+{
+  "year": 2022,
+  "title": "2022 치과보존과 전문의시험 1차",
+  "questions": [
+    {
+      "id": "q001",
+      "number": 1,
+      "question": "다음은 스테판 커브이다. 법랑질이 탈회되는 pH는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "4.0"
+        },
+        {
+          "label": 2,
+          "text": "4.5"
+        },
+        {
+          "label": 3,
+          "text": "5.0"
+        },
+        {
+          "label": 4,
+          "text": "5.5"
+        },
+        {
+          "label": 5,
+          "text": "6.0"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 4판 p.29)\n치면 세균막의 pH가 법랑질을 용해시킬 수 있는 산도인 5.5 정도로 떨어지면 수산화인회석을 탈\n회시키는 환경을 제공하게 된다.",
+      "images": [
+        "images/2022/q001_img1.png"
+      ],
+      "source_page": 1
+    },
+    {
+      "id": "q002",
+      "number": 2,
+      "question": "다음 그림에 따라 치면세균막\n기전은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Lysosome system"
+        },
+        {
+          "label": 2,
+          "text": "Lactoferrin system"
+        },
+        {
+          "label": 3,
+          "text": "Lactoglycose system"
+        },
+        {
+          "label": 4,
+          "text": "Phosphate system"
+        },
+        {
+          "label": 5,
+          "text": "Carbonate/bicarbonate"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 4판 p31)\n타액에 의한 완충작용 중 가장\n을 중화시키는 작용을 한다.\n막에서 생성된 산을 중화시키는데 중요한 역할을\ne system\n중요한 것은 탄산/중탄산염 기전으로 치면 세\n을 하는 타액의 완충\n세균막에서 생성된 산",
+      "images": []
+    },
+    {
+      "id": "q003",
+      "number": 3,
+      "question": "법랑질 우식 조직학적 구조 A",
+      "choices": [
+        {
+          "label": 1,
+          "text": "dark zone / body zone"
+        },
+        {
+          "label": 2,
+          "text": "body zone / dark zone"
+        },
+        {
+          "label": 3,
+          "text": "contaminated zone / d"
+        },
+        {
+          "label": 4,
+          "text": "contaminated zone / d"
+        },
+        {
+          "label": 5,
+          "text": "contaminated zone / n"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(Art& Science, 2014년(영문\nBody zone, Dark zone이 A,B로\nA, B에 들어갈 단어 고르시오.\ne\ne\ndark zone\ndemineralized zone\nnecrotic zone\n문판), 59p)\n빈칸되어 있었음.",
+      "images": [
+        "images/2022/q003_img1.jpeg"
+      ],
+      "source_page": 3
+    },
+    {
+      "id": "q004",
+      "number": 4,
+      "question": "치수내 가장 많은 세포는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "조상아세포"
+        },
+        {
+          "label": 2,
+          "text": "조섬유세포"
+        },
+        {
+          "label": 3,
+          "text": "대식세포"
+        },
+        {
+          "label": 4,
+          "text": "형질세포"
+        },
+        {
+          "label": 5,
+          "text": "미분화간엽세포"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 근관치료학 p.17)\n조섬유세포는 치수에서 가장 많은 세포이다.",
+      "images": []
+    },
+    {
+      "id": "q005",
+      "number": 5,
+      "question": "다음 그림의 A, B, C에 들어갈 말은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A: Acidogenic\nB: Dynamic stability\nC: Aciduric"
+        },
+        {
+          "label": 2,
+          "text": "A: Dynamic stability\nB: Aciduric\nC: Acidogenic"
+        },
+        {
+          "label": 3,
+          "text": "A: Aciduric\nB: Dynamic stability\nC: Acidogenic"
+        },
+        {
+          "label": 4,
+          "text": "A: Dynamic stability\nB: Acidogenic\nC: Aciduric"
+        },
+        {
+          "label": 5,
+          "text": "A: Acidogenic\nB: Mild acidic\nC: Acidurc"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(Art and science 7th기준, p.42)\n보기 조합은 정확하지 않음. Dynamic-Acidogenic-Aciduric",
+      "images": [
+        "images/2022/q005_img1.jpeg"
+      ],
+      "source_page": 5
+    },
+    {
+      "id": "q006",
+      "number": 6,
+      "question": "다음 중 급성 치근단 치주염에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "급성 치근단 치주염은 치수생활력이 있을 때에도 발생할 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "치근단 부위의 염증세포 침윤은 피골세포의 수를 증가시키며, 전체 치수괴사가 일어나기\n전에 골의 파괴가 현저하게 일어날 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "치근단 치주염은 근관 감염으로 인한 완전한 치수괴사 이후 치근단 조직으로 확장된다."
+        },
+        {
+          "label": 4,
+          "text": "급성 치근단 치주염 병소에서 일반적으로 세균은 존재하지 않는다."
+        },
+        {
+          "label": 5,
+          "text": "급성 치근단 치주염의 특징은 전형적인 급성 염증반응과 유사하며, 혈관확장, 증가된 혈\n관 투과성, 혈관에서 혈관 주위 조직으로의 백혈구의 이주로 이루어진다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(Pathways of the pulp 10th 기준, p. 573)",
+      "images": []
+    },
+    {
+      "id": "q007",
+      "number": 7,
+      "question": "다음중 치수내 신경에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "1차 구심신경섬유는 A beta, C fiber이다."
+        },
+        {
+          "label": 2,
+          "text": "치수에서 가장 많은 신경 섬유는 C fiber이다."
+        },
+        {
+          "label": 3,
+          "text": "약한 접촉에 반응하며 빠르게 전달하는 유수 신경은 A delta이다."
+        },
+        {
+          "label": 4,
+          "text": "A delta는 무수신경으로 느린 반응을 보인다."
+        },
+        {
+          "label": 5,
+          "text": "C fiber는 예통을 나타내며 유수 신경이다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(Pathway of the pulp 10th 한글판 54, 55p.)\n1번 1차 구심신경섬유는 A beta, A delta, C 섬유이다.\n2번 정답\n3번 A beta에 대한 설명임.\n4번 보기가 부정확하나 비교적 명확하게 틀린 지문이었습니다.\n5번 A delta에 대한 설명임.",
+      "images": []
+    },
+    {
+      "id": "q008",
+      "number": 8,
+      "question": "Heyeraas, 1994, Effect of electrical tooth stimulation on blood flow, interstitial fluid pressure and\nsubstance P and CGRF-immunoreactive nerve fibers in the low compliant cat dental pulp에 대한\n설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "CGRP, Substance P가 유리되어 Vasodilation이 일어난다."
+        },
+        {
+          "label": 2,
+          "text": "Vasodilation이 일어나면 IFP는 즉각적으로 증가한다."
+        },
+        {
+          "label": 3,
+          "text": "Vasodilation이 일어나면 치수 주위 혈관이 압착된다."
+        },
+        {
+          "label": 4,
+          "text": "Vasodilation이 일어나면 IFP의 증가 이후 감소가 일어난다."
+        },
+        {
+          "label": 5,
+          "text": "Vasodilation이 일어날 때 치수에는 Fluid를 조절하는 기전이 있다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(필독 A 2-2-3, Pathway of the pulp 10th 한글판 519)\n논문 원본 가장 마지막 To summarize로 시작하는단락\nAccordingly, transmural pressure is only transitorily reduced and compression of vessels does not\ntake place.",
+      "images": []
+    },
+    {
+      "id": "q009",
+      "number": 9,
+      "question": "치주인대 내 마취에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "압력 아니라 골 내 자입이다."
+        },
+        {
+          "label": 2,
+          "text": "발현은 10분 뒤 시작한다."
+        },
+        {
+          "label": 3,
+          "text": "30분뒤에도 계속 지속된다."
+        },
+        {
+          "label": 4,
+          "text": "굵은 굵기 바늘 마취효과 증진시킨다."
+        },
+        {
+          "label": 5,
+          "text": "자입 후 통증은 용액 주입 시 압력 때문에 술 후 교합이 달라져서이다."
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(pathway of pulp 근관치료학에서의 국소마취 치주인대 내 마취 p.707)\n1.맞음 2.3 x 발현 즉각 효과도 20분정도 4.x 굵기 상관없다\n5. 압력이 아니고 바늘 삽입으로 인한 손상으로 40%는 교합이 높아진다고 느껴질 수 있다.",
+      "images": []
+    },
+    {
+      "id": "q010",
+      "number": 10,
+      "question": "1978 Linde 논문 관련 치주질환으로 인한 치수염 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "염증반응 및 변화가 관찰 안된다."
+        },
+        {
+          "label": 2,
+          "text": "2차 상아질 관찰 안된다."
+        },
+        {
+          "label": 3,
+          "text": "이개부에서 치주염 심한 경우 극심한 치수 염증 발견된다.."
+        },
+        {
+          "label": 4,
+          "text": "노출 치근에서 미약하게 치수염 반응이 존재한다."
+        },
+        {
+          "label": 5,
+          "text": "치근에서의 치수염이 심한 이유는 치수에서의 상아세관이 치근보다 더 좁기 때문이다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(pathway of pulp 근관과 치주 상호관계 치주조직 염증 치수 영향 p.653), linde 1978\n전체적으로 이해는\n- 치주 치수 병적반응 일으키지않는다.\n- 염증변화는 극심하게 관찰되지 않고 mild로 관찰 (3차상아질 등)\n- 치근쪽에서 염증이 더 심한 이유는 바깥쪽에서 상아세관이 더 좁고 간격이 넓어서 안쪽으로 들\n어가기가 어렵기 때문(치수에서 넓고 밀도도 크다), 들어가면 염증 반응 생길 수 있음",
+      "images": []
+    },
+    {
+      "id": "q011",
+      "number": 11,
+      "question": "다음 그림이 나타내는 병소의 명칭은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "cracked tooth"
+        },
+        {
+          "label": 2,
+          "text": "attrition"
+        },
+        {
+          "label": 3,
+          "text": "vertical root fracture"
+        },
+        {
+          "label": 4,
+          "text": "abrasion"
+        },
+        {
+          "label": 5,
+          "text": "abfraction"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "abfraction (치과 보존학 390p)",
+      "images": [
+        "images/2022/q011_img1.jpeg"
+      ],
+      "source_page": 11
+    },
+    {
+      "id": "q012",
+      "number": 12,
+      "question": "A-E에 연결된 명칭이 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A : 탄성계수"
+        },
+        {
+          "label": 2,
+          "text": "B : 탄성한도(비례한도)"
+        },
+        {
+          "label": 3,
+          "text": "C : 최대강도(파절강도)"
+        },
+        {
+          "label": 4,
+          "text": "D : 응력이완(stress relaxation)"
+        },
+        {
+          "label": 5,
+          "text": "E : 탄성에너지율(Resilience)"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "인성(Toughness)\n치과보존학 83p",
+      "images": [
+        "images/2022/q012_img1.png"
+      ],
+      "source_page": 12
+    },
+    {
+      "id": "q013",
+      "number": 13,
+      "question": "2020. Mohammad 등의 Ex\nThickness에 대한 다음 보기의",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Extra bonding layer를\n게 증가하는 결과를 보"
+        },
+        {
+          "label": 2,
+          "text": "1개월 후 C-SE2_ar보다"
+        },
+        {
+          "label": 3,
+          "text": "50,000 cycle 후 C-SE2_"
+        },
+        {
+          "label": 4,
+          "text": "Opti-FL_ar이 C-SE2_ar보\nadhesive의 두께가 두껍"
+        },
+        {
+          "label": 5,
+          "text": "실험에 사용된 UA는 1"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(20-4-1. Mohammad, Ex\nThickness)\n1번, 3번은 맞는 말이고, 2번은\n4번은 conclusion에 나와있습니\nxtra Bonding Layer Compensates Universal A\n내용 중 옳지 않은 것은?\n사용할 경우 술식의 단계가 한 단계 증가하지\n보였다.\n다 Opti-FL_ar이 더 우수한 결과를 나타내었다.\n_ar보다 Opti-FL_ar이 더 우수한 결과를 나타내었\n보다 더 좋은 결과를 나타낸 이유를 실리카\n껍기 때문으로 설명하였다.\n0μm이하, Opti-FL_ar은 50μm이상의 두께를 나타\nxtra Bonding Layer Compensates Universal A\n1m 후에는 유사한 결과라고 설명하고 있습니다\n다.\nAdhesive’s Thin Film\n지만 접착력이 유의하\n었다.\n필러의 높은 함량과\n타내었다.\nAdhesive’s Thin Film\n다.\n5번은 table 5. (여기서 C-SE2는\n이번 실험이 아니라 선행 연구에서 사용한 것\n입니다.)",
+      "images": [
+        "images/2022/q013_img1.jpeg",
+        "images/2022/q013_img2.jpeg"
+      ],
+      "source_page": 13
+    },
+    {
+      "id": "q014",
+      "number": 14,
+      "question": "복합레진 중합수축의 생역학에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "중합수축 반응이 진행될수록 중합수축 응력은 증가하고 탄성계수는 감소한다."
+        },
+        {
+          "label": 2,
+          "text": "겔화점(gel point)이 되기 전에는 수축 응력을 어느정도 해소 가능하다."
+        },
+        {
+          "label": 3,
+          "text": "복합레진에 포함된 필러의 양이 증가할수록 수축 응력이 증가한다."
+        },
+        {
+          "label": 4,
+          "text": "1급 와동의 잔존벽은 높은 compliance를 가진다."
+        },
+        {
+          "label": 5,
+          "text": "와동의 기하학적 형태는 복합레진의 중합수축에 미미한 영향만을 준다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(치과보존학 p.321-323)\n1번 탄성계수는 증가합니다.\n3번 필러의 양이 증가할수록 수축 응력은 감소합니다.\n4번 1급와동의 compliance는 매우 낮다.(교과서 문장)\n5번 수복될 와동의 기하학적 형태에 의해서도 중합수축응력은 큰 영향을 받는다.(교과서 문장)",
+      "images": []
+    },
+    {
+      "id": "q015",
+      "number": 15,
+      "question": "다음 중 수복재의 광학적 성질로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "눈에 보이는 치과용 수복재의 양상은 표면반사, 흡수, 내부산란 현상의 총체적 결과이다."
+        },
+        {
+          "label": 2,
+          "text": "치아를 격리시키면 수분이 증가되면서 내부산란이 증가되어 관찰자에게 더 많은 빛이 반\n사된다."
+        },
+        {
+          "label": 3,
+          "text": "색 측정은 Munsell 표색계를 이용하여 측정하는데, 이는 색상, 명도, 채도의 항목으로 구\n성되어 있으며 각각 색의 파장, 강도, 순도를 표현해준다."
+        },
+        {
+          "label": 4,
+          "text": "산란은 빛 투과시 빛의 경로의 일부를 단순히 편향시키는 것일 수도 있고, 다양한 깊이\n에서 빛을 반사하여 관찰자에게 돌아오는 것일 수도 있다."
+        },
+        {
+          "label": 5,
+          "text": "광학적 성질이란 전자기장 방사선과의 반사, 굴절, 흡수, 투과 등의 상호반응을 말하며\n입사광의 반사, 내부산란, 흡수, 투과 등에 의하여 재료의 최종 색이 결정된다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(치과보존학 제4개정판 p.82)\n수분 증가가 아니라 감소\n다른 보기는 교과서 문장과 동일",
+      "images": []
+    },
+    {
+      "id": "q016",
+      "number": 16,
+      "question": "다음은 transformation toug\n가진 재료는 무엇인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Gold"
+        },
+        {
+          "label": 2,
+          "text": "Feldspathic porcelain"
+        },
+        {
+          "label": 3,
+          "text": "Lithium disilicate"
+        },
+        {
+          "label": 4,
+          "text": "Alumina"
+        },
+        {
+          "label": 5,
+          "text": "Zirconia"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 제4 개정판 p\nghening에 의해 crack의 전파를 방지하는 기전\n.96)\n이다. 이러한 성질을",
+      "images": [
+        "images/2022/q016_img1.jpeg"
+      ],
+      "source_page": 17
+    },
+    {
+      "id": "q017",
+      "number": 17,
+      "question": "아말감 합금에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "γ상은 수은과 반응하지 않고 남아있는 상이다."
+        },
+        {
+          "label": 2,
+          "text": "구리를 일정 비율 이상 함유하면 γ2상의 형성을 억제할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "아연을 0.01% 이상 함유한 아말감을 아연함유 아말감이라고 한다."
+        },
+        {
+          "label": 4,
+          "text": "구상 아말감은 응축시에 절삭형 아말감보다 적은 힘으로 응축할 수 있다."
+        },
+        {
+          "label": 5,
+          "text": "γ1상은 물리적 성질이 가장 떨어지는 합금상이다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 제4개정판 p.179-181)",
+      "images": []
+    },
+    {
+      "id": "q018",
+      "number": 18,
+      "question": "2004년에 Dent Clin North Am에 M. Harry Parker가 개재한 ‘Resistance form of tooth\npreparation’에서 AC의 resistance form을 평가하는 방법 중 (a)에 해당하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Weed"
+        },
+        {
+          "label": 2,
+          "text": "Lewis"
+        },
+        {
+          "label": 3,
+          "text": "Zuckerman"
+        },
+        {
+          "label": 4,
+          "text": "Summit"
+        },
+        {
+          "label": 5,
+          "text": "Sturdevant"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(Classic B-5-3-1)",
+      "images": [
+        "images/2022/q018_img1.png"
+      ],
+      "source_page": 19
+    },
+    {
+      "id": "q019",
+      "number": 19,
+      "question": "협측 교두가 설측 교두에 비해 큰 형태를 가지고, 치아의 치관부가 설측 경사를 이루고 있어\n그림과 같이 와동 형성 해야 되는 치아는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "상악 전치"
+        },
+        {
+          "label": 2,
+          "text": "상악 소구치"
+        },
+        {
+          "label": 3,
+          "text": "상악 대구치"
+        },
+        {
+          "label": 4,
+          "text": "하악 소구치"
+        },
+        {
+          "label": 5,
+          "text": "하악 대구치"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 제4개정판 p.192, 194)\n교과서에 그대로 설명되어 있음",
+      "images": [
+        "images/2022/q019_img1.jpeg"
+      ],
+      "source_page": 20
+    },
+    {
+      "id": "q020",
+      "number": 20,
+      "question": "아말감 와동 형성시 치은측 법랑질 사면이 법랑소주의 방향과 일치하도록 치은측 사면에 형\n성해야할 각도는 몇도인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "5도"
+        },
+        {
+          "label": 2,
+          "text": "10도"
+        },
+        {
+          "label": 3,
+          "text": "15도"
+        },
+        {
+          "label": 4,
+          "text": "18도"
+        },
+        {
+          "label": 5,
+          "text": "20도"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(art and sience 749쪽)\n그림에 그대로 나와있음.",
+      "images": [
+        "images/2022/q020_img1.jpeg"
+      ],
+      "source_page": 21
+    },
+    {
+      "id": "q021",
+      "number": 21,
+      "question": "다음 격벽의 종류는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ivory matrix"
+        },
+        {
+          "label": 2,
+          "text": "Tofflemire matrix"
+        },
+        {
+          "label": 3,
+          "text": "Sectional matrix"
+        },
+        {
+          "label": 4,
+          "text": "Optra matrix"
+        },
+        {
+          "label": 5,
+          "text": "Wedge matrix"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": ". 치과보존학 4판 p.201 fig.10-34",
+      "images": [
+        "images/2022/q021_img1.jpeg"
+      ],
+      "source_page": 22
+    },
+    {
+      "id": "q022",
+      "number": 22,
+      "question": "다음 그림에서 A가 B로 되는 이유는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "과도한 수분이 잔존해서"
+        },
+        {
+          "label": 2,
+          "text": "레진 기질이 공극으로 침투해서"
+        },
+        {
+          "label": 3,
+          "text": "공기 건조하여 수분이 증발해서"
+        },
+        {
+          "label": 4,
+          "text": "쉬운 틀린 보기였습니다…"
+        },
+        {
+          "label": 5,
+          "text": "상아질에 수분을 재공급해서"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": ". 치과보존학 4판 p.273 fig.12-17",
+      "images": [
+        "images/2022/q022_img1.jpeg"
+      ],
+      "source_page": 23
+    },
+    {
+      "id": "q023",
+      "number": 23,
+      "question": "2019년 Journal of Dentistry에 실린 Clinical and OCT outcomes of a universal adhesive in a\nrandomized clinical trial after 12 months에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Optical coherence tomography는 비파괴적인 관찰방법이다"
+        },
+        {
+          "label": 2,
+          "text": "Kaplan-Meier survival curve를 이용해 분석했다"
+        },
+        {
+          "label": 3,
+          "text": "Gold standard로 사용된 Optibond FL (OFL)은 SBU-SE보다 누적 생존률이 높았다"
+        },
+        {
+          "label": 4,
+          "text": "SBU-SEE와 SBU-SE간 adhesive defect의 차이는 있었지만 결과에 유의한 차이로 이어지\n지는 않았다 (뒷부분 워딩이 정확하지는 않은데 이런 느낌이었습니다)"
+        },
+        {
+          "label": 5,
+          "text": "Enamel-composite 계면에서 SBU-SEE와 SBU-SE간 adhesive defect의 유의한 차이가 있었\n다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신수복 2019년 4분기 JD 90 (2019) 103-200)\nFig.2 그래프에 보면 OFL이 SBU보다 누적 생존율이 낮은 것을 볼 수 있음",
+      "images": [
+        "images/2022/q023_img1.jpeg",
+        "images/2022/q023_img2.jpeg"
+      ],
+      "source_page": 24
+    },
+    {
+      "id": "q024",
+      "number": 24,
+      "question": "접착의 원리에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "도말층이 존재하면 레진이 확산되기 어렵다"
+        },
+        {
+          "label": 2,
+          "text": "액체의 표면장력이 피착면의 임계표면장력을 능가할 경우 액체는 피착면에서 잘 퍼지지\n못한다"
+        },
+        {
+          "label": 3,
+          "text": "일차 원자가 결합은 반데르발스 결합과 공유 결합이 있으며 이차 원자가 결합은 수소 결\n합과 이온 결합이 있다"
+        },
+        {
+          "label": 4,
+          "text": "치아의 표면을 구연산으로 처리하게 되면 임계표면장력에는 변화가 없으나 치아면의 극\n성이 증가한다"
+        },
+        {
+          "label": 5,
+          "text": "치아의 표면을 인산으로 처리할 경우 치아면의 임계표면장력 값이 증가된다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 4판 256-257)\n일차 원자가 결합 : 이온결합, 공유결합\n이차 원자가 결합 : 반데르발스 결합, 수소결합",
+      "images": []
+    },
+    {
+      "id": "q025",
+      "number": 25,
+      "question": "one step self-etch 적용시 전자현미경사진이다. (A)의 *와 (B)에서 water tree를 뜻하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "hybrid layer"
+        },
+        {
+          "label": 2,
+          "text": "adhesive layer"
+        },
+        {
+          "label": 3,
+          "text": "microleakage"
+        },
+        {
+          "label": 4,
+          "text": "nanoleakage"
+        },
+        {
+          "label": 5,
+          "text": "primer tag"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(A&S 7th, p.153)\nfig. 5.22 그대로 출제",
+      "images": [
+        "images/2022/q025_img1.jpeg"
+      ],
+      "source_page": 26
+    },
+    {
+      "id": "q026",
+      "number": 26,
+      "question": "다음 그림에 대한 내용으로 틀린 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "한 치아로부터 다수의 시편을 얻을 수있다."
+        },
+        {
+          "label": 2,
+          "text": "단면적이 1-1.5mm2나 그이하인 시편에 대한 접착 실험이 가능하다."
+        },
+        {
+          "label": 3,
+          "text": "한 치아 내에서도 부위별로 다른 결과를 얻을 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "단면적이 작을수록 포함하는 결함이 감소하여 결합력이 증가한다."
+        },
+        {
+          "label": 5,
+          "text": "jig 디자인, 상아질두께, 단면적 형태와 같은 실험 parameter가 달라져도 일정한 결\n과를 얻을 수있다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(A&S 7th p.154, fig. 5.23)\n① It permits the use of only one tooth to fabricate several bondeddentin-resin rods. (O)\n② this method allows for the assessmentof bond strengths using bonded surfaces with a\ncross-sectionalarea in the range of 1 to 1.5 mm2 or even less. (O)\n③ It allows for the testing of regional diferences in bond strengths within the same tooth.(O)\n④ It results in fewer defects occurring in the small-area specimens, as relected in higher\nbond strengths. (O)\n⑤ the results of the micro tensile bond strength methodology vary in function of several\ntesting parameters, including storagetime, the cross-sectional shape of the micro\nspecimen, remaining dentin thickness, and jig design.(X)",
+      "images": [
+        "images/2022/q026_img1.jpeg"
+      ],
+      "source_page": 27
+    },
+    {
+      "id": "q027",
+      "number": 27,
+      "question": "레진 수복 후 발생할 수 있는 다음의 문제는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Abrasion-attrition"
+        },
+        {
+          "label": 2,
+          "text": "Corrosion-abrasion"
+        },
+        {
+          "label": 3,
+          "text": "Attrition-abrasion"
+        },
+        {
+          "label": 4,
+          "text": "Abrasion-corrosion"
+        },
+        {
+          "label": 5,
+          "text": "Corrosion-attrition"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(Fundamental Fig11-6,7 동일그림)",
+      "images": [
+        "images/2022/q027_img1.jpeg"
+      ],
+      "source_page": 28
+    },
+    {
+      "id": "q028",
+      "number": 28,
+      "question": "각 그림에 맞는 test는?\n② Microshearbond-pushout-tensilebond\n④ Microtensilebond-pushout-shearbond",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Microshearbond-Microtensile-Pushout"
+        },
+        {
+          "label": 2,
+          "text": "Microshearbond-pushout-tensilebond"
+        },
+        {
+          "label": 3,
+          "text": "Microtensilebond-shearbond-pushout"
+        },
+        {
+          "label": 4,
+          "text": "Microtensilebond-pushout-shearbond"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(Fundamental Fig9-16 동일그림)\n6가지 정도의 bond test가 그림으로 나오고 위 3가지 실험에 대한 그림이 빈칸으로 되어 있었습\n니다. 각각 Micro shear bond test, tensile bond test, push out test입니다",
+      "images": [
+        "images/2022/q028_img1.jpeg"
+      ],
+      "source_page": 29
+    },
+    {
+      "id": "q029",
+      "number": 29,
+      "question": "치질의 Ca와 지르코니아의\n접착 기능성 단량체 중 해당하는 것을 고르시오.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "",
+          "image": "images/2022/q029_img1.png"
+        },
+        {
+          "label": 2,
+          "text": "",
+          "image": "images/2022/q029_img2.jpeg"
+        },
+        {
+          "label": 3,
+          "text": "",
+          "image": "images/2022/q029_img3.png"
+        },
+        {
+          "label": 4,
+          "text": "",
+          "image": "images/2022/q029_img4.png"
+        },
+        {
+          "label": 5,
+          "text": "",
+          "image": "images/2022/q029_img5.png"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "해설)\n①4-META, ②10-MDP, ③ PENTA\n- 이는 10-MDP가 치질의 Ca와\n- 접착 기능성 단량체 인 10-m\n레진 시멘트는 MDP의 phosph\n기때문에 지르코니아 수복물에\nOH와 화학적으로 결합하는 접착 기능성 단량체\nA, ④Bis-GMA, ⑤ HEMA (치과보존학 4th, p.271,4\n와 결합함으로써 ~ (치과보존학 4th, p.271)\nmethacryloyloxydecyldihydrogenphosphate (MDP\nhate ester 단량체와 지르코니아의 hydroxyl기가\n추천된다 (치과보존학 4th, p.489).\n체는?\n488)\nP)를 포함한 접 착형\n가 화학적 결합을 하",
+      "images": [],
+      "source_page": 30
+    },
+    {
+      "id": "q030",
+      "number": 30,
+      "question": "다음중 photoinitiator에 대해 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Type I photoinitiator는 Type II보다 강하고 효율적이다."
+        },
+        {
+          "label": 2,
+          "text": "Type II photoinitiator는 추가적인 electron transfer pathway가 필요하다."
+        },
+        {
+          "label": 3,
+          "text": "Camphoquinone은 Lucirin TPO보다 낮은 파장에서 활성화 된다."
+        },
+        {
+          "label": 4,
+          "text": "UV, violet light보다 blue light가 레진을 더 깊이 중합한다."
+        },
+        {
+          "label": 5,
+          "text": "Camphoquinone은 Type II형 photoinitiator이다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "해설) A/S 7th, p.174\n① Type I photoinitiators have a high quantum yield, meaning they require fewer photons to\ngenerate a free radical than do Type II initiators. (O)\n② Type II photoinitiators (e.g., camphorquinone [CQ] and 1-phenyl-1,2-propanedione [PPD]) also\nrequire an additional secondary electron transfer agent (this is typically an amine electron\naccepting agent) to generate a free radical. (O)\n③ It can be seen that CQ is best activated by light in the blue region close to 470 nm, whereas\nLucirin TPO absorbs light only within the violet region below 420 nm, with a maximum absorption\nnear 385 nm.(X, Lucirin TPO가 더 낮은 파장에서 활성화됨.)\n④ This blue light can penetrate deeper into the resin than UV or violet light, such that some\n“blue light–cured” restorations can now be adequately light cured in increments that are up to 5-\nmm thick. (O)\n⑤ (O, 보기② 해설 참고)",
+      "images": []
+    },
+    {
+      "id": "q031",
+      "number": 31,
+      "question": "Photoinitiator의 absorption profile 연결 하는 문제\nA,B,C,D의 순서로 옳은 것은?",
+      "choices": [],
+      "answer_raw": "",
+      "explanation": "CQ - Lucirin TPO – Ivocerin - PPD\n(그래프에는 그냥 TPO인데 보기에는 Lucirin TPO였습니다.)\nArt&Science (7판 영문판) p.174 Fig 6.7",
+      "images": [
+        "images/2022/q031_img1.jpeg"
+      ],
+      "source_page": 32,
+      "answer_only": true,
+      "answer_display": "CQ - Lucirin TPO – Ivocerin - PPD"
+    },
+    {
+      "id": "q032",
+      "number": 32,
+      "question": "J Wong 등이 2020 Oper Dent에 발표한 “Enamel etching for universal adhesive: examination\nof enamel protocols for optimization of bonding effectiveness” 내용 중 틀린 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "G-Premio Bond의 경우 PPA를 적용한 경우 시간에 관계없이 bond fatigue strength가 대조군\n보다 유의미하게 증가하였다"
+        },
+        {
+          "label": 2,
+          "text": "G-Premio Bond의 경우 PLA를 15초 적용한 경우 bond fatigue strength가 대조군 보다 유의\n미하게 증가하였다"
+        },
+        {
+          "label": 3,
+          "text": "G-Premio Bond의 경우 PPM을 15초 적용한 경우 bond fatigue strength가 대조군 보다 유의\n미하게 증가하였다"
+        },
+        {
+          "label": 4,
+          "text": "PPA를 적용한 경우 PLA와 PPM보다 surface roughness가 유의미하게 높았다"
+        },
+        {
+          "label": 5,
+          "text": "PLA를 적용한 경우 대조군보다 surface roughness가 유의미하게 높았다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "해설: 2020 최신수복 1-5 논문에서 각각 Table 4의 G-Premio Bond 부분, Table 5의 surface\nroughness 부분만 제시하였습니다. PPM으로 에칭한 경우 대조군에 비하여 bond fatigue strength\n는 에칭 시간에 관계 없이 증가하지 않았습니다.",
+      "images": [
+        "images/2022/q032_img1.png",
+        "images/2022/q032_img2.png"
+      ],
+      "source_page": 33
+    },
+    {
+      "id": "q033",
+      "number": 33,
+      "question": "글라스 아이오노머에 대한 설명 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "불소 젤과 같은 고농도의 불소 국소도포는 글라스 아이오노머 수복물에 불소를 재충전시\n킨다."
+        },
+        {
+          "label": 2,
+          "text": "초기에 포화된 기질에서 불소이온이 빠르게 방출된다"
+        },
+        {
+          "label": 3,
+          "text": "초기 이후에 분말입자에서 불소이온이 서서히 방출된다"
+        },
+        {
+          "label": 4,
+          "text": "수복 직후 높은 농도의 불소방출은 시간이 지나도 유지된다."
+        },
+        {
+          "label": 5,
+          "text": "치면에 불소를 유리하여 항우식 작용을 한다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 4판P90-91)",
+      "images": []
+    },
+    {
+      "id": "q034",
+      "number": 34,
+      "question": "글라스 아이오노머를 이용한 5급 와동 수복 시 적절하지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "글라스 아이오노머는 변연 강도가 약하므로 사면 형성 없이 와동을 형성한다."
+        },
+        {
+          "label": 2,
+          "text": "글라스 아이오노머는 치아에 접착되지 않으므로 반드시 유지구를 형성해야한다"
+        },
+        {
+          "label": 3,
+          "text": "광중합형 레진 강화형 글라스아이오노머는 광조사 후 곧바로 마무리와 연마를 시행할 수\n있다."
+        },
+        {
+          "label": 4,
+          "text": "레진 강화형 글라스 아이오노머의 경우는 conditioner로 와동을 전 처리하면 치질 결합\n력이 향상된다."
+        },
+        {
+          "label": 5,
+          "text": "레진 강화형 글라스 아이오노머는 와동이 깊을 경우 적층법에 의해 충전 후 중합하여야\n한다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(치과보존학 4판 P396-397)",
+      "images": []
+    },
+    {
+      "id": "q035",
+      "number": 35,
+      "question": "2019년 Ahmed Sleibi의 A comparative evaluation of ion release characteristics of three\ndifferent dental varnishes containing fluoride either with CPP-ACP or bioactive glass 논문에서 불\n소방출 A,B,C 순서대로 적으시오.\n2~5 세가지의 조합",
+      "choices": [
+        {
+          "label": 1,
+          "text": "CPP-ACPF - BAGF - F"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": ". CPP-ACPF - BAGF - F\n최신수복 2019 4-3",
+      "images": [
+        "images/2022/q035_img1.jpeg"
+      ],
+      "source_page": 36
+    },
+    {
+      "id": "q036",
+      "number": 36,
+      "question": "인레이합착시 50 μm의 오차\n속과 치아 사이 의 오차는 (A)로",
+      "choices": [
+        {
+          "label": 1,
+          "text": "0.01 mm"
+        },
+        {
+          "label": 2,
+          "text": "0.02 mm"
+        },
+        {
+          "label": 3,
+          "text": "0.025mm"
+        },
+        {
+          "label": 4,
+          "text": "0.03mm"
+        },
+        {
+          "label": 5,
+          "text": "0.015mm"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "치과보존학 4판p.235\n차가 발생하였다면 치은측 30도 사면을 부여함으\n로 감소한다.\n으로써 사면부 위 금",
+      "images": [
+        "images/2022/q036_img1.jpeg"
+      ],
+      "source_page": 37
+    },
+    {
+      "id": "q037",
+      "number": 37,
+      "question": "2000년 S.P. Studer이 J Oral Rehab에 발표한 연구 “Long term survival estimates of cast gold\ninlays and onlays with their analysis of failures” 의 결과에 대한 내용으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Cast gold inlay/onlay 수복물의 실패원인으로 biological reason과 technical reason이\n함께 나타났다"
+        },
+        {
+          "label": 2,
+          "text": "Cast gold inlay/onlay 수복물의 실패원인에서 biological reason 중 가장 주요한 원인\n은 이차우식이다"
+        },
+        {
+          "label": 3,
+          "text": "대구치가 소구치보다 실패 위험성이 크게 나타났다"
+        },
+        {
+          "label": 4,
+          "text": "근관치료 여부는 관련성이 없었다"
+        },
+        {
+          "label": 5,
+          "text": "Cast gold inlay/onlay 수복물의 실패원인에서 technical reason 중 가장 주요한 원인\n은 마모이다"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "-\n수복된 치아 위치나 수복물의 유형은 생존기간에\n유의한 영향을 주지 못하였다.\n-\n근관치료 된 치아를 수복한 경우, 20년 동안 기능\n시 근관치료 받지 않은 치아에 비해 수복물의 실\n패위험이 3배 더 크게 나타났다.\n-\nCast\ngold\ninlay/onlay수복물의\n실패원인에서\nTechnical reason 중 가장 주요한 원인은 loss of\nretention이다.",
+      "images": [
+        "images/2022/q037_img1.jpeg"
+      ],
+      "source_page": 38
+    },
+    {
+      "id": "q038",
+      "number": 38,
+      "question": "CAD/CAM 치아형성에 대해 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Butt joint를 피해야 한다."
+        },
+        {
+          "label": 2,
+          "text": "Bevel를 형성해야 한다."
+        },
+        {
+          "label": 3,
+          "text": "Shoulder, chamfer 변연은 피해야 한다."
+        },
+        {
+          "label": 4,
+          "text": "삭제 최소두께는 블록 종류에 따라 결정해야 한다."
+        },
+        {
+          "label": 5,
+          "text": "예각으로 내부선각을 형성해야 한다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 p.441-442)\n-\n변연은 shoulder나 chamfer 추천, butt-joint로 마무리되는 것이 추천됨\n-\nBevel을 형성해서는 안된다\n-\n모든 외형과 각각의 선각에 예각 없이 둥근 형태의 마무리\n-\n수복물의 권장 최소 허용 두께는 가공 버와 가공되어지는 세라믹 블록을 고려해야 한다",
+      "images": []
+    },
+    {
+      "id": "q039",
+      "number": 39,
+      "question": "다음 중 굴곡강도가 가장 강한 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Feldspatic"
+        },
+        {
+          "label": 2,
+          "text": "Low-fusing feldspatic"
+        },
+        {
+          "label": 3,
+          "text": "IPS Empress®"
+        },
+        {
+          "label": 4,
+          "text": "IPS Empress 2®"
+        },
+        {
+          "label": 5,
+          "text": "Procera AllCeram®"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 p.416)",
+      "images": [
+        "images/2022/q039_img1.jpeg"
+      ],
+      "source_page": 40
+    },
+    {
+      "id": "q040",
+      "number": 40,
+      "question": "2019년 Masahiro Okada의 “Optimal sandblasting conditions for conventional-type yttria-\nstabilized tetragona zirconia polycrystals.”에 따르면 지르코니아의 굴곡강도를 증진시키는 최적의\nsandblasting 강도는 무엇인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "0.20-0.40 Mpa"
+        },
+        {
+          "label": 2,
+          "text": "0.20-0.35 Mpa"
+        },
+        {
+          "label": 3,
+          "text": "0.25-0.40 Mpa"
+        },
+        {
+          "label": 4,
+          "text": "0.25-0.35 Mpa"
+        },
+        {
+          "label": 5,
+          "text": "0.30-0.35 Mpa"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(0.20-0.35 MPa) (2019 뉴저널)\nThe biaxial flexural test showed improved mechanical strengths for the samples after\nsandblasting at 0.20–0.35 MPa.",
+      "images": [
+        "images/2022/q040_img1.jpeg"
+      ],
+      "source_page": 41
+    },
+    {
+      "id": "q041",
+      "number": 41,
+      "question": "다음은 라미네이트 접착을 위한 술식의 모식도이다. (A)와 6번의 veneer를 산부식하기 위한\n재료를 알맞게 짝지은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "MDP\nPhosphoric acid"
+        },
+        {
+          "label": 2,
+          "text": "MDP\nFluoride"
+        },
+        {
+          "label": 3,
+          "text": "MDP\nHydrofluoric acid"
+        },
+        {
+          "label": 4,
+          "text": "Silane\nPhosphoric acid"
+        },
+        {
+          "label": 5,
+          "text": "Silane\nHydrofluoric acid"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 p.426-428)",
+      "images": [
+        "images/2022/q041_img1.jpeg"
+      ],
+      "source_page": 42
+    },
+    {
+      "id": "q042",
+      "number": 42,
+      "question": "(A) 그림에서상아질과 법랑질의 광학적 특성을 확인할 수 있다. 이 특성을 고려하여 (B) 위치의\n순면 veneering을 위해 적용하게 되는 복합레진의 종류로 알맞은 것은?\n(A)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Cervical shade"
+        },
+        {
+          "label": 2,
+          "text": "Opaque shade"
+        },
+        {
+          "label": 3,
+          "text": "Body shade"
+        },
+        {
+          "label": 4,
+          "text": "Fluorescence shade"
+        },
+        {
+          "label": 5,
+          "text": "Translucent shade"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(Fundamental operative dentistry Fig. 10-3, Fig. 10-27)",
+      "images": [
+        "images/2022/q042_img1.png",
+        "images/2022/q042_img2.jpeg"
+      ],
+      "source_page": 43
+    },
+    {
+      "id": "q043",
+      "number": 43,
+      "question": ".F.R. Tay의 2002년 논문 “Single-step adhesives are permeable membranes” 에서 다음 그림에\n관련된 설명 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "즉시 광중합할 경우 나타난다."
+        },
+        {
+          "label": 2,
+          "text": "U는 hybrid layer 이다."
+        },
+        {
+          "label": 3,
+          "text": "TEM 이미지이다."
+        },
+        {
+          "label": 4,
+          "text": "G는 레진 중합체이다."
+        },
+        {
+          "label": 5,
+          "text": "Resin globule, void, honey comb가 관찰되면 결합력이 증가한다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(필독저널 B-1-1)",
+      "images": [
+        "images/2022/q043_img1.png",
+        "images/2022/q043_img2.png"
+      ],
+      "source_page": 45
+    },
+    {
+      "id": "q044",
+      "number": 44,
+      "question": "2019년 M. Kelch의 “Impact of different pretreatments and aging procedures on the flexural\nstrength and phase structure of zirconia ceramics” 논문에 대한 설명 중 옳지 않은 것\n은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Air abrasion 시행 시 monoclinic phase가 증가한다."
+        },
+        {
+          "label": 2,
+          "text": "105μm alumina에서 더 monoclinic phase가 증가한다."
+        },
+        {
+          "label": 3,
+          "text": "Hydrothermal aging 시행 시 monoclinic phase가 증가한다."
+        },
+        {
+          "label": 4,
+          "text": "5 years storage 후에 monoclinic phase가 증가한다."
+        },
+        {
+          "label": 5,
+          "text": "결과적으로 압력과는 관계없이 30μm silica-coated alumina powder가 가장 크게 강\n화시킨다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(2019-4분기 수복 최신저널)\n가장 높은 상 전환은 105 alumina particle에서 관찰됩니다.",
+      "images": [
+        "images/2022/q044_img1.png"
+      ],
+      "source_page": 46
+    },
+    {
+      "id": "q045",
+      "number": 45,
+      "question": "레진 강화형 글래스 아이오노머 시멘트에 대해 알맞은 설명은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "재래형 글래스 아이오노머에 레진을 첨가하여 강도와 용해도가 증가하였다."
+        },
+        {
+          "label": 2,
+          "text": "재래형 글래스 아이오노머와 달리 불소 방출하지 않는다."
+        },
+        {
+          "label": 3,
+          "text": "복합레진과 접착하지 않는다."
+        },
+        {
+          "label": 4,
+          "text": "hygroscopic expansion을 한다."
+        },
+        {
+          "label": 5,
+          "text": "재래형 글래스아이오노머 시멘트보다 경화 시 수분에 취약하다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(치과보존학 4판 p. 484~485)\n④ 레진 강화형 글라스 아이오노머의 단점은 polyHEMA의 친수성으로 인해 수분을 흡수하여\nhygroscopic expansion을 한다는 것이다.",
+      "images": []
+    },
+    {
+      "id": "q046",
+      "number": 46,
+      "question": "레진 시멘트에 관한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "복합레진 시멘트는 일반적으로 dimethacrylate monomer기반으로 이루어져 있다."
+        },
+        {
+          "label": 2,
+          "text": "미반응 단량체로 인한 치수 자극의 가능성이 있다."
+        },
+        {
+          "label": 3,
+          "text": "이중 중합형 레진 시멘트는 두 개의 연고 형태로 제공되는데 일반적으로 photoinitiator\n와 benzoyl peroxide는 반드시 같이 넣어야 한다."
+        },
+        {
+          "label": 4,
+          "text": "10-MDP를 포함한 접착형 레진 시멘트는 지르코니아 수복물에 추천된다."
+        },
+        {
+          "label": 5,
+          "text": "접착 시 1-step self-etch system을 사용할 경우 acidic monomer가 레진 시멘트의 tertiary\namine과 산-염기 반응을 일으키기 때문에 중합과정이 방해받게 된다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 4판 p.485~489)\n③ photoinitiator와 benzoyl peroxide는 서로 분리되어 있다.",
+      "images": []
+    },
+    {
+      "id": "q047",
+      "number": 47,
+      "question": "(A)를 포함한 접착형 레진시멘트는 상아질과 금속 수복물에 접착강도가 크며 길고 유연한 고\n분자 사슬을 갖고 있어 연성이 좋으며 충격을 흡수하는 성향이 있다. 다음 중 (A)에 해당하는 것\n은?\n②\n④",
+      "choices": [],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 p.489)\n4-META를 포함한 접착형 레진 시멘트는 상아질과 금속 수복물에 접착강도가 크며 길고 유연한\n고분자 사슬을 갖고 있어 연성이 좋으며 충격을 흡수하는 성향이 있다.",
+      "images": [
+        "images/2022/q047_img1.jpeg",
+        "images/2022/q047_img2.jpeg",
+        "images/2022/q047_img3.jpeg",
+        "images/2022/q047_img4.jpeg",
+        "images/2022/q047_img5.jpeg"
+      ],
+      "source_page": 49
+    },
+    {
+      "id": "q048",
+      "number": 48,
+      "question": "미백술에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "미백 직후 복합레진 수복은 접착강도를 감소시킨다."
+        },
+        {
+          "label": 2,
+          "text": "실활치의 경우 치수조직의 괴사, 외상, 근관 충전물이 변색을 발생시킬 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "접착강도를 보상하기 위해 미백 종료 후 1~2주 기다렸다가 최종수복할 것을 권장한\n다."
+        },
+        {
+          "label": 4,
+          "text": "치료 시 일어나는 부작용은 일시적인 냉각과민증, 치은자극 등이다."
+        },
+        {
+          "label": 5,
+          "text": "모든 미백술의 미백효과는 영구적이다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(치과보존학 p.509)\n미세 연마술을 제외한 모든 미백술의 미백 효과가 영구적이지 못합니다.",
+      "images": []
+    },
+    {
+      "id": "q049",
+      "number": 49,
+      "question": "근관치료 후 수복에 관한 설명 중 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근관치료 후 상아질 변성, 와동 형성으로 인한 치질 손상으로 파절 저항성 낮아진다."
+        },
+        {
+          "label": 2,
+          "text": "포스트 길이가 길수록 fulcrum이 치경부에 집중되어 파절 가능성 높아진다."
+        },
+        {
+          "label": 3,
+          "text": "근관 치료 후 수복 늦어지면 치관부 미세 누출로 인해 실패 가능성 커진다."
+        },
+        {
+          "label": 4,
+          "text": "근관치료 시작 전 진단, 치료계획 수립 단계에서부터 수복 가능성, 치주치료 보철치\n료 등도 고려해야한다."
+        },
+        {
+          "label": 5,
+          "text": "간접 수복 시행 시 임시재료로 인한 치관부 미세누출 가능성 있다."
+        }
+      ],
+      "answer_raw": "",
+      "explanation": "(2)\n해설) 근관치료학 p440 그림 12-8\n포스트의 길이가 “짧을수록” 회전축이 치경부 가까이 형성되고, 부적절한 응력 분산으로 인해 치\n근 파절이 일어남.",
+      "images": []
+    },
+    {
+      "id": "q050",
+      "number": 50,
+      "question": "테트라사이클린 변색에서 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "생후 3개월-7세에서는 영구전치 변색 일어난다."
+        },
+        {
+          "label": 2,
+          "text": "복용량과 상관 없다."
+        },
+        {
+          "label": 3,
+          "text": "복용 기간과 상관 없다."
+        },
+        {
+          "label": 4,
+          "text": "테트라사이클린 종류와 상관 없다."
+        },
+        {
+          "label": 5,
+          "text": "좌우 비대칭이다."
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "해설) 치과보존학 p494 왼쪽 문단",
+      "images": []
+    },
+    {
+      "id": "q051",
+      "number": 51,
+      "question": "2018년 von stein-lausnitz의\ncentral incisors with class III de\n하여 가장 높은 fracture load 값",
+      "choices": [
+        {
+          "label": 1,
+          "text": "CP"
+        },
+        {
+          "label": 2,
+          "text": "V"
+        },
+        {
+          "label": 3,
+          "text": "VP"
+        },
+        {
+          "label": 4,
+          "text": "Cr"
+        },
+        {
+          "label": 5,
+          "text": "CrP"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신저널 2018-4-3)\nResult Group V showed highes\nlowest mean fracture load(Fmax\n의 direct or indirect restoration of endodonitca\nfect? composite vs veneer or crown restoration\n값을 가지는 것은?\nst mean fracture load (Fmax=908N), while gro\nx=483N)\nally treated maxillary\nn에서 C 그룹과 비교\noup C presented the",
+      "images": [
+        "images/2022/q051_img1.jpeg"
+      ],
+      "source_page": 53
+    },
+    {
+      "id": "q052",
+      "number": 52,
+      "question": "심미수복 시 상악 전치부를 고려할 사항으로 틀린 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "나이가 들수록 상순선 하방으로 치아가 덜 보인다."
+        },
+        {
+          "label": 2,
+          "text": "유년기 때에는 상순선보다 2~3mm 길게 보인다."
+        },
+        {
+          "label": 3,
+          "text": "여자보다 남자가 상순선 아래 치아가 더 많이 보인다."
+        },
+        {
+          "label": 4,
+          "text": "미소선을 치은측 경계로 사용한다."
+        },
+        {
+          "label": 5,
+          "text": "상악 전치의 폭/길이 비율은 85%이며 측절치와 견치는 80%이다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(치과보존학 4판 285p)\n유년기에는 상악 전치의 절단연은 상순선에 비해 약 2~3mm 길고, 나이가 증가됨에 따라 절단연\n이 상순선 아래로 보이는 양이 적어지게 된다. 또한 남성(1.91mm)에 비해 여성(3.40mm)의 경우\n에 있어 전치가 상순선 아래로 많이 보인다. 미소선은 전치의 치은측 경계를 설정하는 기준으로\n이용할 수 있다. 치아의 폭/길이의 비가 80% 내외인 측절치와 견치에 비해 치아의 폭이 넓은 중\n절치는 85% 내외의 비율을 보인다.\n나머지는 문장은 교과서 그대로 동일한 문장.",
+      "images": []
+    },
+    {
+      "id": "q053",
+      "number": 53,
+      "question": "Munsell 색도계 그림(L, a, b 축만 표시되어 있는 흑백 그림)주어지고, 다음 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "L값이 높을수록 어두운 색을 나타낸다."
+        },
+        {
+          "label": 2,
+          "text": "a+값은 파란색을 나타낸다."
+        },
+        {
+          "label": 3,
+          "text": "a-값은 빨간색을 나타낸다."
+        },
+        {
+          "label": 4,
+          "text": "b+값은 노란색을 나타낸다"
+        },
+        {
+          "label": 5,
+          "text": "b-값은 초록색을 나타낸다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "L은 명도를 나타내며 + 일수록 밝은 색, - 일수록 어두운 색을 나타낸다\na*는 +는 빨간색, -는 초록색\nb*는 +는 노란색, -는 파란색을 나타낸다",
+      "images": []
+    },
+    {
+      "id": "q054",
+      "number": 54,
+      "question": "Perez의 2020년 Does background color influence visual threshold? 논문에서 수복물과 주위\n치아구조간 색의 mismatch가 발생하기 쉬운 배경색은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "white"
+        },
+        {
+          "label": 2,
+          "text": "gray"
+        },
+        {
+          "label": 3,
+          "text": "black"
+        },
+        {
+          "label": 4,
+          "text": "yellow"
+        },
+        {
+          "label": 5,
+          "text": "green"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "white\n“As of clinical implications, the present study suggests that a color mismatch between a\nrestoration and the adjacent dental structure is more difficult to be accepted over a white\nbackground (e.g. opposing teeth in maximum intercuspation), which has a high reflectance value,\nthan over a black background (e.g. intra-oral darkness in maximum opening) that enhances\nperception of color differences, which should help on challenging dental shade matching.”",
+      "images": [
+        "images/2022/q054_img1.jpeg"
+      ],
+      "source_page": 56
+    },
+    {
+      "id": "q055",
+      "number": 55,
+      "question": "2019년 operative dentistry\nSurface Roughness and Wear\nglazed ceramic의 wear test (120",
+      "choices": [
+        {
+          "label": 1,
+          "text": "VITABlocs Mark II"
+        },
+        {
+          "label": 2,
+          "text": "IPS e.max CAD"
+        },
+        {
+          "label": 3,
+          "text": "VITA Suprinity"
+        },
+        {
+          "label": 4,
+          "text": "VITA Enamic"
+        },
+        {
+          "label": 5,
+          "text": "Lava Ultimate"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(최신저널 2019-1-2)\ny에 발표된 Daryakenari의 'Effect of Simulated\nof Machinable Ceramics and Opposing Denta\n0,000 cycle)후 가장 높은 opposite enamel wear\nMastication on the\nal Enamel'에 따르면\nr가 발생한 재료는?",
+      "images": [
+        "images/2022/q055_img1.jpeg"
+      ],
+      "source_page": 57
+    },
+    {
+      "id": "q056",
+      "number": 56,
+      "question": "다음 근관 형성 방법은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ohio state technique"
+        },
+        {
+          "label": 2,
+          "text": "Southern California technique"
+        },
+        {
+          "label": 3,
+          "text": "Step back technique"
+        },
+        {
+          "label": 4,
+          "text": "Step down technique"
+        },
+        {
+          "label": 5,
+          "text": "Crown down technique"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 Ch 9. 근관 성형 및 세정 p. 311)\n시험 문제는 위 그림으로 나왔고, step-back technique 과정에 대한 모식도입니다.",
+      "images": [
+        "images/2022/q056_img1.jpeg"
+      ],
+      "source_page": 58
+    },
+    {
+      "id": "q057",
+      "number": 57,
+      "question": "2020년 Silva가 IEJ에 게재한 “Current status on minimal access cavity preparations: a critical\nanalysis and a proposal for a universal nomenclature”에서 근관 와동 형태 및 명칭으로 맞는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "(a) conservative access cavity with divergent walls"
+        },
+        {
+          "label": 2,
+          "text": "(b) ultra-conservatice access cavity"
+        },
+        {
+          "label": 3,
+          "text": "(c) caries-driven access cavity"
+        },
+        {
+          "label": 4,
+          "text": "(d) truss access cavity"
+        },
+        {
+          "label": 5,
+          "text": "(e) restorative-driven access cavity"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(최신 논문 E-20-4)\n(a) conservative access cavity / (b) conservative access cavity with divergent walls / (c) ultra-\nconservative access cavity / (d) truss access cavity / (e) caries-driven access cavity",
+      "images": [
+        "images/2022/q057_img1.jpeg"
+      ],
+      "source_page": 59
+    },
+    {
+      "id": "q058",
+      "number": 58,
+      "question": "미성숙 영구치에서 화살표 하방의 조직에서 유래되는 줄기세포는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Dental pulp stem cell (DPSC)"
+        },
+        {
+          "label": 2,
+          "text": "Stem cell of human exfoliated deciduous teeth (SHED)"
+        },
+        {
+          "label": 3,
+          "text": "Stem cell of apical papilla (SCAP)"
+        },
+        {
+          "label": 4,
+          "text": "Periodontal ligament stem cell (PDLSC)"
+        },
+        {
+          "label": 5,
+          "text": "Bone marrow stem cell (BMSC)"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(Pathway 10판 (한글판) p657 그림 16.4)",
+      "images": [
+        "images/2022/q058_img1.jpeg"
+      ],
+      "source_page": 60
+    },
+    {
+      "id": "q059",
+      "number": 59,
+      "question": "다음 근관 내 미생물 연구내용과 연구자 간에 옳게 짝지어진 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Anthony van leew – 근관 내 세균이 치관부, 중간부, 치근부 분포가 다르다"
+        },
+        {
+          "label": 2,
+          "text": "Miller - 괴사된 치수에 세균이 존재함"
+        },
+        {
+          "label": 3,
+          "text": "Kakehashi - 무균 쥐와 일반쥐에 인위적으로 치수를 노출했을 때 세균이 없다면 치수 및\n치근단 질환이 생기지 않음을 검증함"
+        },
+        {
+          "label": 4,
+          "text": "Moller – 모든 질환의 원인은 세균이며 괴사된 치수의 세균이 전신으로 퍼져 심각한 전\n신질환을 일으킨다"
+        },
+        {
+          "label": 5,
+          "text": "Hunter - 괴사된 치수더라도 세균이 없으면 치근단 염증이 발생하지 않는다"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 p.107-108)\nAntony Van Leeuwenhoek: 17세기에 괴사된 치수에서 세균을 처음으로 발견.\nMiller: Antony가 세균을 발견하고 200년 뒤 세균이 치근단 치주염의 원인이라는 가설을 제시. 광\n학 현미경으로 근관 내 세균을 관찰한 후 근관의 치관부와 중간부 그리고 치근단부에 세균이 다\n르게 분포함을 보고.\nMoller: 세균에 의한 감염이 치근단 치주염의 발생에 얼마나 중요한지 보여줌. 치수를 인위적으로\n괴사시킨 후 한쪽 군은 세균감염을 시켰고 다른 군은 감염이 안 되게 한 후 치근단 조직의 반응\n을 관찰\nHunter: 내과의사로 많은 질병의 원인이 세균이라고 주장하며, 이러한 세균은 좋지 않은 구강 상\n태와 치과 치료에서 기원하는 경우가 많다고 주장. 소위 \"Focal infection theory\" 주장.",
+      "images": []
+    },
+    {
+      "id": "q060",
+      "number": 60,
+      "question": "치수혈류를 측정하는 방법?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "EPT"
+        },
+        {
+          "label": 2,
+          "text": "Cold"
+        },
+        {
+          "label": 3,
+          "text": "Laser doppler flowmetry"
+        },
+        {
+          "label": 4,
+          "text": "Hot"
+        },
+        {
+          "label": 5,
+          "text": "Cavity test"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 p.141)\n치수 생활력 검사 시 한랭검사, 온열검사, 전기 치수검사, 와동형성 검사는 상아질을 직접 자극시\n키는 검사이며, 그 외 pulpal blood flow를 재는 방법 (laser doppler flowmetry, pulse oximetry,\ndual wavelength spectrophotometry등)이 있다.",
+      "images": []
+    },
+    {
+      "id": "q061",
+      "number": 61,
+      "question": "E.faecalis가 근관 내에서 지속적으로 존재할 수 있는 원인이 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "수산화칼슘에 저항성이 커서 pH 11.5까지 견딜 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "근관 내에서 다른 세균의 도움없이 혼자 생존할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "치근주위조직에서 독립적으로 군락을 이루어 증식할 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "오랜 시간 영양분 없이 살 수 있다."
+        },
+        {
+          "label": 5,
+          "text": "상아세관 깊숙이 존재할 수 있다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(패쓰웨이 10판 p.625)\n3번은 치근 외 감염에 대한 설명",
+      "images": []
+    },
+    {
+      "id": "q062",
+      "number": 62,
+      "question": "세균의 리보솜 RNA를 이용하여 세균을 분석할 때 사용하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "5s 리보솜 RNA"
+        },
+        {
+          "label": 2,
+          "text": "mRNA"
+        },
+        {
+          "label": 3,
+          "text": "16s 리보솜 RNA"
+        },
+        {
+          "label": 4,
+          "text": "tRNA"
+        },
+        {
+          "label": 5,
+          "text": "23s 리보솜 RNA"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(패쓰웨이 10판 p.610 세균동정을 위한 방법)",
+      "images": []
+    },
+    {
+      "id": "q063",
+      "number": 63,
+      "question": "근관치료 시 러버댐 방습에 대해 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "얇은 두께보다 잘 찢어지지 않고 연조직을 잘 밀어낼 수 있는 중간 두께의 러버댐이 좋\n다."
+        },
+        {
+          "label": 2,
+          "text": "어두운 색상의 러버댐은 시각적으로 좋은 대조도를 보여 눈의 피로를 감소시킬 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "러버의 광택이 있는 면을 술자를 향하게 장착하면 눈부심과 눈의 피로를 감소시키고 대\n조를 향상시킬 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "플라스틱 프레임은 방사선 투과성이기 때문에 프레임을 완전히 제거하지 않아도 방사선\n촬영이 가능하다."
+        },
+        {
+          "label": 5,
+          "text": "잔존치질이 얼마 없는 치아에서는 톱니 형태의 jaw를 가진 tiger 클램프가 유용하다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(패스웨이 10판 p.122-124)\n광택이 없는 면",
+      "images": []
+    },
+    {
+      "id": "q064",
+      "number": 64,
+      "question": "치근 외 감염에 관련된 박테리아는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Enterococus faecalis"
+        },
+        {
+          "label": 2,
+          "text": "Treponema denticola"
+        },
+        {
+          "label": 3,
+          "text": "Candida albicans"
+        },
+        {
+          "label": 4,
+          "text": "Actinomycosis"
+        },
+        {
+          "label": 5,
+          "text": "Porphyromonasgingivalis"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(패스웨이 10판 그림 15-30 (=Pathway 11판 fig.14-30))",
+      "images": [
+        "images/2022/q064_img1.jpeg"
+      ],
+      "source_page": 66
+    },
+    {
+      "id": "q065",
+      "number": 65,
+      "question": "다음 중 근관 만곡 측정하는\nA.",
+      "choices": [],
+      "answer_raw": "1",
+      "explanation": "(뉴저널2019년 1분기 두번\nsystemic and critical review)\n논문 사진 그대로 나왔습니다. 2\n63번 문제랑 동일합니다. Sc\n는 방법으로 Schneider 방법은?\n번째 , Measurements for measurement of roo\n2번은 Weine, 나머지는 정확히 뭐였는지 기억이\nchneider, Weine 제외하고 나머지는 중요도가 떨\nt canal curvature: a\n이 안나요. 2020년1차\n떨어져 보입니다.",
+      "images": [
+        "images/2022/q065_img1.jpeg",
+        "images/2022/q065_img2.jpeg",
+        "images/2022/q065_img3.jpeg"
+      ],
+      "source_page": 67
+    },
+    {
+      "id": "q066",
+      "number": 66,
+      "question": "Fan의 C-shaped canal 분류",
+      "choices": [
+        {
+          "label": 1,
+          "text": "I"
+        },
+        {
+          "label": 2,
+          "text": "II"
+        },
+        {
+          "label": 3,
+          "text": "III"
+        },
+        {
+          "label": 4,
+          "text": "IV"
+        },
+        {
+          "label": 5,
+          "text": "V"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(Pathway 11판 201쪽)\nPathway 사진 그대로 나왔습니\n법에 따른 다음의 분류는?\n다",
+      "images": [
+        "images/2022/q066_img1.jpeg",
+        "images/2022/q066_img2.png"
+      ],
+      "source_page": 68
+    },
+    {
+      "id": "q067",
+      "number": 67,
+      "question": "치근단 해부학에 관한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "AC는 근첨부의 가장 좁은 부위이다."
+        },
+        {
+          "label": 2,
+          "text": "AC는 AF에서 0.5mm에서 1.5mm가량 떨어져있다."
+        },
+        {
+          "label": 3,
+          "text": "CDJ는 치수조직이 끝나고 치주조직이 시작되는 지점이다."
+        },
+        {
+          "label": 4,
+          "text": "AC는 CDJ와 일치한다."
+        },
+        {
+          "label": 5,
+          "text": "AC에서 AF로 갈수록 근관이 넓어진다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(POP 10판 p.159)\nAC는 CDJ와 일치하지 않는다.",
+      "images": []
+    },
+    {
+      "id": "q068",
+      "number": 68,
+      "question": "방사선 사진에 대한 내용으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근첨의 병소가 해면골을 파괴할 만큼 진행될 경우 방사선사진상에 나타난다."
+        },
+        {
+          "label": 2,
+          "text": "방사선 사진상 골파괴가 나타나지 않아도 치근단 병소가 존재할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "등각촬영은 치근단 병소 관찰에 용이하다."
+        },
+        {
+          "label": 4,
+          "text": "Nielsen은 방사선 사진 해석 연구에서 관찰자 간(Inter examiner disagreement)에서 90%\n의 일치도를 보였다고 하였다."
+        },
+        {
+          "label": 5,
+          "text": "Gelfand등은 관찰자 내(Intra examiner disagreement)검사 일치도가 90%라고 하였다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(근관치료학 p.228-289)\n1) 해면골을 지나 피질골의 일부를 파괴할 만큼 진행되어야 필름상에 나타남\n2) 정답\n3) 평행촬영기법에서는 골파괴가 보여도 등각촬영에서는 보이지 않을 수 있음\n4) Inter examiner disagreement : 65~75%\n5) Intra examiner disagreement : 21.8%",
+      "images": []
+    },
+    {
+      "id": "q069",
+      "number": 69,
+      "question": "2003년 Siqueira의 논문 “Microbial causes of endodontic flare-ups”. Flare-up을 일으키는\nmicrobial mechanism으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "감염된 잔사의 치근단 정출"
+        },
+        {
+          "label": 2,
+          "text": "불충분한 근관 확대로 인한 미생물 환경의 변화"
+        },
+        {
+          "label": 3,
+          "text": "내원간 이차 감염"
+        },
+        {
+          "label": 4,
+          "text": "일회 근관치료"
+        },
+        {
+          "label": 5,
+          "text": "산화-환원 potential의 증가"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(필독 논문 C-2-1-3)\nFlare-up을 일으키는 microbia mechanism\n1) apical extrusion of infected debris\n2) change in the endodontic microbiota and/or in environmental conditions\n3) secondary intra radicular infections\n4) Increase of the oxidation-reduction potential",
+      "images": []
+    },
+    {
+      "id": "q070",
+      "number": 70,
+      "question": "2019년 Abbott의 논문 “Diagnosis and Management of Transverse Root Fracture”. 다음 치근\n파절 중 골-결합조직에 의해 치유된 것은?\n②\n④",
+      "choices": [],
+      "answer_raw": "4",
+      "explanation": "(근관 최신논문 19-4-1 Diagnosis and Management of Transverse Root Fracture)",
+      "images": [
+        "images/2022/q070_img1.jpeg",
+        "images/2022/q070_img2.jpeg",
+        "images/2022/q070_img3.jpeg",
+        "images/2022/q070_img4.jpeg"
+      ],
+      "source_page": 72
+    },
+    {
+      "id": "q071",
+      "number": 71,
+      "question": "Andersson 등이 2012에 Dental Traumatology에 개제한 International ‘Association of Dental\nTraumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of\npermanent teeth’에 따르면 외상 후 근관치료는 며칠 후에 치료해야 하는가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "2-3일"
+        },
+        {
+          "label": 2,
+          "text": "7-10일"
+        },
+        {
+          "label": 3,
+          "text": "2-3주"
+        },
+        {
+          "label": 4,
+          "text": "4주"
+        },
+        {
+          "label": 5,
+          "text": "2달"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(근관 필독 C-2-2-2)",
+      "images": []
+    },
+    {
+      "id": "q072",
+      "number": 72,
+      "question": "아래 사진의 하악 소구치 같이 치수 감염으로 인한 치근흡수와는 다른 감별이 필요한 질환의\n특징으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Pink spot이 관찰되기도 한다."
+        },
+        {
+          "label": 2,
+          "text": "주변 골흡수로 골낭 같이 보이기도 한다."
+        },
+        {
+          "label": 3,
+          "text": "외상이나 교정력으로 인해 발생할 수 있다."
+        },
+        {
+          "label": 4,
+          "text": "치수 생활력 검사에서 (+)을 보인다."
+        },
+        {
+          "label": 5,
+          "text": "근관치료로 진행을 막을 수 있다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(POP 10판 5p.695~696)\n상피하방 치근 외흡수에 대한 문제였습니다.",
+      "images": [
+        "images/2022/q072_img1.jpeg"
+      ],
+      "source_page": 75
+    },
+    {
+      "id": "q073",
+      "number": 73,
+      "question": "현미경 최종 배율을 결정하는 요인이 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "쌍안경 초점거리"
+        },
+        {
+          "label": 2,
+          "text": "대물렌즈 초점"
+        },
+        {
+          "label": 3,
+          "text": "광원 종류"
+        },
+        {
+          "label": 4,
+          "text": "대안렌즈 배율"
+        },
+        {
+          "label": 5,
+          "text": "배율변환부 인자"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신 근관치료학 p.257-258)",
+      "images": []
+    },
+    {
+      "id": "q074",
+      "number": 74,
+      "question": "근관 성형의 일반적인 사항으로 맞는것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근관의 특징, 형태 확인하기위해 처음 파일은 큰 것을 사용한다."
+        },
+        {
+          "label": 2,
+          "text": "근단부 확대는 전동기구만 사용해야 한다. 근관장 길이는 짧아지나 파일이 쉽게 들어간\n다."
+        },
+        {
+          "label": 3,
+          "text": "파일이 상아질에 꽉 끼어야 삭제가 된다. 파일이 꽉 끼게한 후에 삭제한다."
+        },
+        {
+          "label": 4,
+          "text": "만곡 근관에서 직선화를 위해 과도한 삭제는 근단부 이형성을 초래한다."
+        },
+        {
+          "label": 5,
+          "text": "치근 분지부에서의 과도한 기구사용은 분지부 하방의 zip perforation을 유발할 수 있다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(최신 근관치료학 p.327, 좌측 문단에 만곡 근관의 지나친 확대는 이형성을 초래한다.)",
+      "images": []
+    },
+    {
+      "id": "q075",
+      "number": 75,
+      "question": "종창을 동반한 급성 치근단 농양의 치료방법으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "절개와 배농이 필수이다."
+        },
+        {
+          "label": 2,
+          "text": "근관 내 배농이 이루어지지 않을 경우 apical trephination을 시도할 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "과량의 NaOCl을 사용한다."
+        },
+        {
+          "label": 4,
+          "text": "10번 파일로만 근관 성형을 시행한다."
+        },
+        {
+          "label": 5,
+          "text": "아목사실린을 필수로 처방한다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 근관치료학 p.211)\n1. 대부분의 경우 근관 내 배농이 가능하고 이 경우 종창 부위 파동성에 관계없이 추가적인 절개\n및 배농은 필요 없다.\n2. 근관 내로 배농되지 않을 경우 #10파일 같이 가는 파일로 근관장보다 2~3mm 정도를 넘겨 치\n근단조직을 자극하여 배농을 유도하기도 하는데 이를 ‘apical treprination’이라고 한다.\n3. 응급 처치 당일은 근관 내로 배농과 식염수로 근관 내를 세척한다.\n4. 최소 #25 파일 크기 정도 근관 형성을 시행한다.\n5. 적절한 배농이 이루어진다면，추가적인 항생제 처방은 불필요하다.",
+      "images": []
+    },
+    {
+      "id": "q076",
+      "number": 76,
+      "question": "Roane이 고안한 방법으로 만곡이 심한 근관에서 작용-반작용 법칙을 이용하여 삼각형 단면의\nk-file을 사용하여 근관을 성형하는 방법은 무엇인가?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Crown-down technique"
+        },
+        {
+          "label": 2,
+          "text": "Step-back technique"
+        },
+        {
+          "label": 3,
+          "text": "Step-down technique"
+        },
+        {
+          "label": 4,
+          "text": "Balanced force technique"
+        },
+        {
+          "label": 5,
+          "text": "Passivestep-backtechnique"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(최신 근관치료학 p.310)",
+      "images": []
+    },
+    {
+      "id": "q077",
+      "number": 77,
+      "question": "그림 1과 2는 나이타이 파일의 두가지 파절 양상의 단면을 나타내는 사진이다 그림 2의 파절\n양상에서 관찰할 수 있는 특징적인 소견이 아닌 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "concentric abrasion mark"
+        },
+        {
+          "label": 2,
+          "text": "reverse winding"
+        },
+        {
+          "label": 3,
+          "text": "fibrous dimple"
+        },
+        {
+          "label": 4,
+          "text": "microvoid"
+        },
+        {
+          "label": 5,
+          "text": "overload fast fracture zone"
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(최신 근관치료학p.330)\n그림 1 cyclic fatigue fracture/ 그림 2 torsional fracture\n5번은 cyclic fatigue fracture 내용입니다.\n그림 1\n그림 2",
+      "images": [
+        "images/2022/q077_img1.jpeg",
+        "images/2022/q077_img2.jpeg"
+      ],
+      "source_page": 80
+    },
+    {
+      "id": "q078",
+      "number": 78,
+      "question": "1회 내원(single-visit) 근관치료에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "생활력이 있는 경우 1회 내원 치료에 적합하다."
+        },
+        {
+          "label": 2,
+          "text": "치료에 필요한 시간, 술식의 어려움 등을 고려하여 결정하여야 한다."
+        },
+        {
+          "label": 3,
+          "text": "다회 내원(multi-visit)치료보다 성공률이 낮다."
+        },
+        {
+          "label": 4,
+          "text": "술자의 임상적 능력 범위 내에서 신중하게 증례를 선택하여야 한다."
+        },
+        {
+          "label": 5,
+          "text": "재치료의 경우 일반적으로 추천되지 않는다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신 근관치료학p.156-157)\n성공률은 다회 내원과 차이가 없습니다.",
+      "images": []
+    },
+    {
+      "id": "q079",
+      "number": 79,
+      "question": "Niti-rotary instrument에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Helix angle은 연조직과 근관 벽에서 삭제되어 나온 상아질 조각 등을 모아 배출하는\n역할을 한다."
+        },
+        {
+          "label": 2,
+          "text": "Flute의 효율은 깊이, 폭, 형태 및 표면의 마무리에 따라 결정된다."
+        },
+        {
+          "label": 3,
+          "text": "Positive rake angle은 scraping action을 한다."
+        },
+        {
+          "label": 4,
+          "text": "Radial land는 screw-in 현상을 증가시킨다."
+        },
+        {
+          "label": 5,
+          "text": "Pitch가 작을수록 나선의 수는 더 적어지고 나선각도 커진다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 근관치료학 p.233-234)\n2번은 교과서 그대로 작성한 문장",
+      "images": []
+    },
+    {
+      "id": "q080",
+      "number": 80,
+      "question": "치근 천공의 처치에 대해 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "치은변연 상방부의 치관부 천공의 경우 직접수복을 시행할 수 있다."
+        },
+        {
+          "label": 2,
+          "text": "와동저 천공의 경우 근관입구에서 떨어져 있으면 복합레진 수복이 추천된다."
+        },
+        {
+          "label": 3,
+          "text": "천공의 수복에는 calcium silicate cement과 같은 친수성 재료가 추천된다."
+        },
+        {
+          "label": 4,
+          "text": "천공이 근관입구와 가까우면 paper point 등으로 막고 천공 수복을 시행한다."
+        },
+        {
+          "label": 5,
+          "text": "치근단 부위에 천공이 존재할 때 calcium silicate cement으로 충전할 수 있다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 근관치료학 p.457-459)",
+      "images": []
+    },
+    {
+      "id": "q081",
+      "number": 81,
+      "question": "2013, M Haapasalo연구 “Evolution of nickel–titanium instruments: from past to future” 중 다\n음 사진과 관련된 내용 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "사진 A~C는 K3 file이다."
+        },
+        {
+          "label": 2,
+          "text": "사진 D~F는 K3XFfile이다."
+        },
+        {
+          "label": 3,
+          "text": "C에 나타나는 micropore는 M wire 이기 때문에 나타나는 특징이다."
+        },
+        {
+          "label": 4,
+          "text": "Micropore가 crack으로 인한 파절을 방지해주는 역할을 한다"
+        },
+        {
+          "label": 5,
+          "text": "A,B,D,E의 helix 방향으로 보아 reciprocation전용 파일임을 알 수 있다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(필독 C 3-3-3)\n1,2 : Lateral-view scanning electron micrograph of a new K3XF (A–C) and K3 instrument (D–F). (C)\nHigh(사진 캡션) magnification view of the specimen showing voids on the surface of K3XF.\n3. K3XF는 R-phase wire\n4. Numerous micropores with various diameters can be seen on the surface of the instrument\nflute on K3XF instruments(Fig. 2). These small pores do not contribute to the failure, but serve as\na local stress/strain discontinuity from which the crack nucleates.\n5. 둘다 rotary instrument",
+      "images": [
+        "images/2022/q081_img1.png",
+        "images/2022/q081_img2.png"
+      ],
+      "source_page": 84
+    },
+    {
+      "id": "q082",
+      "number": 82,
+      "question": "2006. Dunavant의 “Comparative evaluation of endodontic irrigants against Enterococcus\nfaecalis biofilms.” 연구에서 다음 중 E. faecalis에 가장 효과적인 소독제는?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "1% NaOCl"
+        },
+        {
+          "label": 2,
+          "text": "Smearclear"
+        },
+        {
+          "label": 3,
+          "text": "2% CHX"
+        },
+        {
+          "label": 4,
+          "text": "REDTA"
+        },
+        {
+          "label": 5,
+          "text": "Biopure MTAD"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(필독 C 3-4-1 /기존 기출)",
+      "images": []
+    },
+    {
+      "id": "q083",
+      "number": 83,
+      "question": "2019년 OYS Lee가 발표한 Influence of apical preparation size and irrigation technique on root\ncanal debridement: a histological analysis of round and oval root canals의 일부이다. 맞는 설명은?\n되는 debris 양은 유사하다.\nextrusion 되는 debris 양이 적다.",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ultrasonic irrigation 시 apical size 를 #20까지 한 그룹과 #40까지 한 그룹의 extrusion"
+        },
+        {
+          "label": 2,
+          "text": "Apical size #20으로 syringe irrigation시 apical size #20으로 ultrasonic irrigation 그룹보다"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(최신저널 ENDO 19-3-5)\n나머지 보기들은 보기 2번과 유사하게 두 그룹의 결과를 비교하는 문장이였고, 논문 내용 몰라도\n표 해석으로 풀 수 있는 문제로 출제되었습니다.",
+      "images": [
+        "images/2022/q083_img1.jpeg"
+      ],
+      "source_page": 86
+    },
+    {
+      "id": "q084",
+      "number": 84,
+      "question": "Endoactivator의 세정방법은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Negative apical pressure."
+        },
+        {
+          "label": 2,
+          "text": "Syringe delivery"
+        },
+        {
+          "label": 3,
+          "text": "Ultrasonic activated irrigation"
+        },
+        {
+          "label": 4,
+          "text": "Sonic activated irrigation"
+        },
+        {
+          "label": 5,
+          "text": "Manually activated irrigation"
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(Pathway 10th 한글판 p.357)",
+      "images": []
+    },
+    {
+      "id": "q085",
+      "number": 85,
+      "question": "클로르헥시딘(CHX)에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "G(+), G(-)에 대해 모두 약효를 보이는 광범위한 항균효과를 보인다."
+        },
+        {
+          "label": 2,
+          "text": "지속기간은 12주까지 지속된다."
+        },
+        {
+          "label": 3,
+          "text": "Biofilm에 대해 NaOCl보다 그 효과가 약하다."
+        },
+        {
+          "label": 4,
+          "text": "수산화칼슘과 같이 첩약시 그 향균 효과가 상승된다."
+        },
+        {
+          "label": 5,
+          "text": "EDTA와 혼합시 색이 변하며, 침전물이 생겨 근관충전의 봉쇄가 저하된다."
+        }
+      ],
+      "answer_raw": "5",
+      "explanation": "(근관치료학 p.353)",
+      "images": []
+    },
+    {
+      "id": "q086",
+      "number": 86,
+      "question": "포스트에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "포스트의 직경이 클수록 유지력이 좋아진다."
+        },
+        {
+          "label": 2,
+          "text": "포스트의 길이가 길수록 응력이 잘 분산된다."
+        },
+        {
+          "label": 3,
+          "text": "포스트 직경이 두꺼울수록 응력에 예방된다."
+        },
+        {
+          "label": 4,
+          "text": "포스트 주변 잔존치질 2mm이상이어야 천공예방 등을 할 수 있다."
+        },
+        {
+          "label": 5,
+          "text": "포스트 말단부와 치조골이 같아야 응력분산에 좋다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(Pathway 10th p.844, 근관치료학 p.436)",
+      "images": []
+    },
+    {
+      "id": "q087",
+      "number": 87,
+      "question": "레진 실러의 특징으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "항세균효과가 있다."
+        },
+        {
+          "label": 2,
+          "text": "수분을 흡수하여 치근에 결합하는 특징을 지닌다."
+        },
+        {
+          "label": 3,
+          "text": "Ketac실러는 레진 실러에 해당한다."
+        },
+        {
+          "label": 4,
+          "text": "AH plus는 AH-26과 달리 포름알데히드를 유리하는 성질이 없다."
+        },
+        {
+          "label": 5,
+          "text": "생체친화적인 성질을 지닌다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(Pathway 10판 p.286)",
+      "images": []
+    },
+    {
+      "id": "q088",
+      "number": 88,
+      "question": "3차원적으로는 잘 충전이 되었지만, 치근의 바깥으로 연장된 부분이 있는 경우를 의미하는 것\n은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "과연장(overextension)"
+        },
+        {
+          "label": 2,
+          "text": "과충전(overfilled)"
+        },
+        {
+          "label": 3,
+          "text": "저연장(underextension)"
+        },
+        {
+          "label": 4,
+          "text": "저충전(underfilled)"
+        },
+        {
+          "label": 5,
+          "text": "이물반응(foreign body reaction)"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(근관치료학 p.415)",
+      "images": []
+    },
+    {
+      "id": "q089",
+      "number": 89,
+      "question": "2011년 Song 등의 논문 “Analysis of the Cause of Failure in Nonsurgical Endodontic Treatment\nby Microscopic Inspection during Endodontic Microsurgery” 에 대한 내용으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "치근단 수술시에 절제한 치근면을 현미경으로 관찰하여 평가하였다."
+        },
+        {
+          "label": 2,
+          "text": "기구 파절과 같은 의원성 손상과 apical crack이 주요 실패원인이었다."
+        },
+        {
+          "label": 3,
+          "text": "치아별로 주요 실패원인이 달랐다."
+        },
+        {
+          "label": 4,
+          "text": "전치에서는 leaky canal이 주요 실패 원인이었다."
+        },
+        {
+          "label": 5,
+          "text": "상악 소구치를 제외한 구치부에서는 missing canal이 주요 실패 원인이었다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(필독 C 4-1-4)",
+      "images": []
+    },
+    {
+      "id": "q090",
+      "number": 90,
+      "question": "2020년 Daline 등의 논문 “3-year outcome of patients with persistent pain after root canal\ntreatment: the national dental practice-based research network” 에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "근관치료 후 지속되는 통증에 대한 후향적 연구이다."
+        },
+        {
+          "label": 2,
+          "text": "근관치료 후 지속되는 통증의 원인은 치성기원이다."
+        },
+        {
+          "label": 3,
+          "text": "근관치료 후 지속되는 통증의 절반 이상은 아무런 처치없이 증상이 개선되었다."
+        },
+        {
+          "label": 4,
+          "text": "근관치료 후 지속되는 통증의 개선은 없다."
+        },
+        {
+          "label": 5,
+          "text": "근관치료 후 지속되는 만성통증의 강도는 중증도 이상이다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신저널 ENDO20-2-5)",
+      "images": []
+    },
+    {
+      "id": "q091",
+      "number": 91,
+      "question": "2020년 Olivieri 등의 “Outcome and Survival of Endodontically Treated Cracked Posterior\nPermanent Teeth A Systematic Review and Meta-analysis” 논문에 따르면 다음 중 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "전향적 연구이다."
+        },
+        {
+          "label": 2,
+          "text": "1년 생존률이 성공률보다 낮다"
+        },
+        {
+          "label": 3,
+          "text": "술 전 Vital pulp인 치아가 예후가 더 좋다."
+        },
+        {
+          "label": 4,
+          "text": "크랙과 연관된 치주낭이 예후를 예측하는 요소이다."
+        },
+        {
+          "label": 5,
+          "text": "장기적인 예후를 고려했을 때 근관치료는 적절하지 않은 치료이다."
+        }
+      ],
+      "answer_raw": "4",
+      "explanation": "(최신 E 20-2-3)\nResult: periodontal pocket 만 유의한 영향,발치 11% 증가.",
+      "images": []
+    },
+    {
+      "id": "q092",
+      "number": 92,
+      "question": "치근단 수술의 마취에 대한 설명으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "혈관지혈제가 포함되지 않은 국소마취제가 추천된다."
+        },
+        {
+          "label": 2,
+          "text": "비외과적 근관치료와 달리 지혈 효과도 기대한다."
+        },
+        {
+          "label": 3,
+          "text": "1:20만 epinephrine를 포함하는 long acting 마취를 사용한다."
+        },
+        {
+          "label": 4,
+          "text": "해당 치아의 순/협측 국소마취로 충분하다."
+        },
+        {
+          "label": 5,
+          "text": "마취가 풀리는 경우,추가적인 침윤마취로 효과를 볼 수 있다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(pathway 한글판 10. p794)\n치근단 수술에서 국소마취는 단순히 국소마취뿐만 아니라 국소 지혈의 필요성에서 비외과적 근관\n치료에서의 국소마취와는 차이를 둔다.",
+      "images": []
+    },
+    {
+      "id": "q093",
+      "number": 93,
+      "question": "미세 치근단 수술은 기존의 수술(conventional surgery)보다 임상적으로 우수한 부분에 해당하\n지 않는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "고배율 현미경 사용"
+        },
+        {
+          "label": 2,
+          "text": "골 와동 크기가 작아졌다"
+        },
+        {
+          "label": 3,
+          "text": "치근단 절제 각도(bevel angle)가 커졌다"
+        },
+        {
+          "label": 4,
+          "text": "bur 대신 초음파기구로 retropreparation시행"
+        },
+        {
+          "label": 5,
+          "text": "MTA, IRM, super EBA와 같은 생체 적합성 재료로 root end filling 시행"
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(근관치료학 p.525~527)\n3번 (X) : 과거에는 술자가 잘 볼 수 있도록 치근단 절제 시 약 45의 bevel을 주었다. 하지만\nbevel angle이 클수록 apical leakage가 증가하게 된다. 미세 치근단 수술에서는 현미경과 초음파\n기구의 사용으로 bevel이 필요 없어지고, 있더라도 0~10정도의 bevel만으로 충분하다.\n나머지 보기들은 교과서와 문장이 완벽하게 일치하지는 않지만 올바른 내용입니다.",
+      "images": []
+    },
+    {
+      "id": "q094",
+      "number": 94,
+      "question": "2019년 Almutairi는 J Endod에 개제된 “Regenerative endodontics a systematic analysis of the\nfailed case”에서 regenerative endodontic treatment의 실패한 증례 중에서 가장 비중이 높은 원인\n(etiology)에 해당하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "외상 (dental trauma)"
+        },
+        {
+          "label": 2,
+          "text": "치외치(dens evaginatus)"
+        },
+        {
+          "label": 3,
+          "text": "치내치(dens invaginatus)"
+        },
+        {
+          "label": 4,
+          "text": "우식 (dental caries)"
+        },
+        {
+          "label": 5,
+          "text": "의원성 손상"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "(최신 저널 근관 2019-2-1 논문상 p.570)\n37개의 실패한 RET 증례에 대해서 etiology를 기술했다.\n원인은 dental trauma (22개, 59%), dens evaginatus (11개, 30%), dental caries (3개, 8%) 였다.\n(논문 원문) 37 failed RET cases reported the etiology resulting in the initiation\nof RET. A total of 22 (59%) of these cases were caused by dental trauma,\n11 (30%) were caused by dens evaginatus, and 3 (8%) by dental caries.",
+      "images": []
+    },
+    {
+      "id": "q095",
+      "number": 95,
+      "question": "Song 2013에서 제시한 예후에 영향을 미치는 요인은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "A – marginal bone loss"
+        },
+        {
+          "label": 2,
+          "text": "B – height of buccal bone plate"
+        },
+        {
+          "label": 3,
+          "text": "C – width of bony crypt"
+        },
+        {
+          "label": 4,
+          "text": "D - height of bony crypt"
+        },
+        {
+          "label": 5,
+          "text": "E – depth of bony crypt"
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신 근관치료학 p.540-541)\n2013년 본 연구팀의 연구에서는 골와의 가로, 세로, 깊이 등은 술 후 예후에 영향을 미치지 않았\n으며 남아 있는 협측골의 길이가 예후에 영향을 미치는 인자로 밝혀졌다.",
+      "images": [
+        "images/2022/q095_img1.jpeg"
+      ],
+      "source_page": 98
+    },
+    {
+      "id": "q096",
+      "number": 96,
+      "question": "자가치아이식술 중 two stage replantation에 대한 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Andreasen 등은 치수조직의 재생은 미완성 및 완성치근에서 각각 96% 및 15%를 나타\n내 치수의 재생은 치근의 미완성도와 밀접한 관계가 있음을 보였다."
+        },
+        {
+          "label": 2,
+          "text": "Tsukiboshi는 발치와에서 생존율은 100%, 비발치와에서는 71%로 피이식골 치주인대의\n중요성을 보고하였다."
+        },
+        {
+          "label": 3,
+          "text": "Two-stage operation technique은 발치 후 약 2달 정도를 기다려 치유가 충분히 된 후\n골와동을 다시 형성하여 공여치를 삽입하는 술식이다."
+        },
+        {
+          "label": 4,
+          "text": "Nethander는 구강 외 시간의 지연이나 수술 후 혈액 공급 등 한번에 수술할 때 발생되\n는 문제를 해결하고자 two-stage operation technique을 소개하였다."
+        },
+        {
+          "label": 5,
+          "text": "Gault 등은 이식 전 치주인대의 적절한 자극이 성공에 도움이 된다고 주장하였다.."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "(최신 근관치료학 p.551-552)\nTwo-stage operation은 골와동을 먼저 형성하고 약 2주일 정도를 기다려 골와동 형성 부위가 육\n아조직에 의해 어느 정도 치유되도록 유도한다. 그 후 골와동 내 육아조직을 가볍게 제거하고 공\n여치를 마치 꽃꽂이하듯이 와동 내에 삽입한다.\n=>2달(X) -> 2주(O)\n(보기 순서는 정확하지 않지만 사람 이름과 그에 해당하는 교과서 내용이었습니다)",
+      "images": []
+    },
+    {
+      "id": "q097",
+      "number": 97,
+      "question": "근관치료 후 수복 시, 포스트 유무에 따른 치아 파절 저항과 파절 양상에 대해 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "주조 포스트로 수복 된 치아는 파절 시 수리가 가능한 파절 양상이 보인다."
+        },
+        {
+          "label": 2,
+          "text": "Fiber 포스트로 수복 된 치아는 파절 시 치근의 cervical 1/3 또는 코어에서 파절이 일어난다."
+        },
+        {
+          "label": 3,
+          "text": "치관부의 상아질이 충분하지 않으면 주조포스트를 사용할 수 없다."
+        },
+        {
+          "label": 4,
+          "text": "많은 치질이 손상되거나 치근에 overflaring이 있는 경우 Fiber post와 레진 코어가 추천된다."
+        },
+        {
+          "label": 5,
+          "text": "치아의 기능 시 굴곡이 안되는 포스트가 stress 분산에 좋고 파절이 적다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(근관치료학 p448)\n해설) Fiber post로 수복된 치아는 수리 가능한 파절 양상을 보였으며(①), 주로 치근의 cervical\n1/3 부위 혹은 core에서 파절이 일어난다(②).\n치관부 상아질이 충분이 남아있는 경우 fiber post를 사용할 수 있으며(③) 치질이 중등도에서 고\n도로 소실된 경우에는 주조 포스트를 사용해야 한다.(④)\n이론적으로는 기능 동안 치아와 같이 굴곡 되는 포스트가 stress 분산에 더 좋고 파절이 적지\n만,,,(⑤)",
+      "images": []
+    },
+    {
+      "id": "q098",
+      "number": 98,
+      "question": "포스트 제거에 이용하는 기",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Ruddle post removal"
+        },
+        {
+          "label": 2,
+          "text": "Thomas post removal"
+        },
+        {
+          "label": 3,
+          "text": "Masserann kit"
+        },
+        {
+          "label": 4,
+          "text": "Eggler post removal"
+        },
+        {
+          "label": 5,
+          "text": "JS post extractor"
+        }
+      ],
+      "answer_raw": "1",
+      "explanation": "( Pathway of the pulp 한\n구는 무엇?\n한글판 p973 )",
+      "images": [
+        "images/2022/q098_img1.jpeg"
+      ],
+      "source_page": 101
+    },
+    {
+      "id": "q099",
+      "number": 99,
+      "question": "2019년 Bjorndal 에 의한 Int Endod J에 개재된 논문 “Management of deep caries and the\nexposed pulp”에 대한 내용으로 옳은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "Aguilar & Linsuwanont 에 의한 논문에 의하면 생활치수치료의 성공률은 70% 이하이다."
+        },
+        {
+          "label": 2,
+          "text": "초기 실패의 증상은 비가역적 치수염인 경우가 많다."
+        },
+        {
+          "label": 3,
+          "text": "초기 실패의 원인은 수복 실패로 인한 이차감염인 경우가 많다."
+        },
+        {
+          "label": 4,
+          "text": "후기 실패 시 생활치수치료에 사용했던 재료의 영향으로 치근단병소는 생기지 않는다."
+        },
+        {
+          "label": 5,
+          "text": "후기 실패의 원인에는 잘못된 치수 진단인 경우가 많다."
+        }
+      ],
+      "answer_raw": "2",
+      "explanation": "(최신저널 2019-3-1)",
+      "images": []
+    },
+    {
+      "id": "q100",
+      "number": 100,
+      "question": "다음 중 노인 환자의 근관치료 시 고려사항으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "노인환자의 내원이나 진료실 내 이동에서 도움이 필요한 경우 1회 근관치료법을 고려할 수 있\n다."
+        },
+        {
+          "label": 2,
+          "text": "보철물이나 기구의 삼킴을 예방하기 위해 러버댐을 사용하는 것이 좋다."
+        },
+        {
+          "label": 3,
+          "text": "노인환자의 근관치료 시 전달마취는 잘 이루어지지 않으며 치주인대 마취 및 치수 내 마취하\n기가 용이하다."
+        },
+        {
+          "label": 4,
+          "text": "노인 환자의 경우 근관와동 형성과 근관 입구 위치를 찾기 위해 현미경을 사용하는 것이 좋다."
+        },
+        {
+          "label": 5,
+          "text": "노인환자의 치유 속도는 젊은 환자에 비해서 느리지만 예후는 젊은 환자와 같이 잘 치유된다."
+        }
+      ],
+      "answer_raw": "3",
+      "explanation": "( Pathway of the pulp 한글판 p940, 근관치료학 p.699~700 )\n노인 환자에서는 치수강 내의 석회화가 심하여 치수강 내 공간이 거의 없어 치수 내 주사를 하기\n어렵다.",
+      "images": []
+    }
+  ]
+}
