@@ -126,6 +126,8 @@ function renderGotoGrid(){
   }).join('') || '<div style="grid-column:1/-1;color:#6b7280;padding:20px;text-align:center">해당하는 문제가 없습니다.</div>';
 }
 function gotoId(id){
+  // 첫 화면/통계 화면에서 번호 목록을 처음 클릭해도 바로 문제로 이동하도록 전체 모드로 전환
+  if(mode==="home"||mode==="stats") mode="all";
   let A=arr(),i=A.findIndex(q=>q.id===id);
   if(i<0){mode='all';A=arr();i=A.findIndex(q=>q.id===id);}
   if(i<0)return;
@@ -201,7 +203,7 @@ function home(){
     <p style="color:#6b7280">${YEAR}년 문제 · 총 ${total}문제</p>
     <div class="stats"><div class="stat">푼 문제 ${st.attempted}</div><div class="stat">⭕ 정답 ${st.correct}</div><div class="stat">❌ 오답 ${st.wrong}</div><div class="stat">🔖 북마크 ${st.book}</div></div>
     <div class="nav" style="flex-direction:column;margin-top:18px">
-      <button onclick="setMode('all')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 전체 문제 풀기</button>
+      <button onclick="startAll('start')" style="background:#111827;color:#fff;font-weight:800">📚 ${YEAR}년 처음부터 풀기</button><button onclick="startAll('last')">▶️ ${YEAR}년 마지막 위치에서 풀기</button>
       <button onclick="setMode('wrong')">❌ ${YEAR}년 오답 문제</button>
       <button onclick="setMode('bookmark')">🔖 ${YEAR}년 북마크 문제</button>
       <button onclick="setMode('stats')">📊 학습 통계</button>
