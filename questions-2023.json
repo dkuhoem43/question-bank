@@ -456,7 +456,7 @@
       "number": 17,
       "question": "2004년 D.H.pashley의 ‘Collagen Degradation by Host-derived Enzymes during Aging’ 논문에서\n촬영한 TEM 사진은 각각 어느 용액에서 보관한 것인가?\nPure mineral oil/Artificial saliva/Artificial saliva + protease inhibitor 3가지를 조합한 보기\n해설) B-1-1-2\nA)는 미네랄 오일, B)는 인공타액+단백분해효소 억제제, C)는 인공타액",
       "choices": [],
-      "answer_raw": "",
+      "answer_raw": "A: Pure mineral oil / B: Artificial saliva + protease inhibitor / C: Artificial saliva",
       "explanation": "",
       "images": [
         "images/2023/q017_img1.jpeg",
@@ -502,11 +502,11 @@
       "number": 19,
       "question": "#2, #4, #245 Bur의 직경 크기로 옳은 것은?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "미복원",
+      "explanation": "현재 원문에서 정답 보기가 복원되지 않았습니다.",
       "images": [],
       "answer_only": true,
-      "answer_display": ""
+      "answer_display": "정답 미복원"
     },
     {
       "id": "q020",
@@ -1721,7 +1721,7 @@
       "number": 59,
       "question": "다음중 괄호 안에 들어갈 말은?\nNon Vital Bleaching 위한 base 형성시 attachment가 ( ) 에서 높기 때문에\nbobsleigh형태로 만들어준다?",
       "choices": [],
-      "answer_raw": "",
+      "answer_raw": "인접면",
       "explanation": "인접면",
       "images": [
         "images/2023/q059_img1.jpeg"

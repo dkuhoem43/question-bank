@@ -221,11 +221,13 @@
       "number": 8,
       "question": "ICDAS (International caries detection and assessment system) 설명으로 옳은 것은?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "보기는 기억이 안나고 그림과 간단한 영어 설명의 짝맞추기였습니다\n-6번 그림이 code6과 맞춰 나왔던 것 같고 나머지 그림은 code 와 설명이 일치하지 않았던 것 같아요",
+      "answer_raw": "미복원",
+      "explanation": "보기는 기억이 안나고 그림과 간단한 영어 설명의 짝맞추기였습니다.\n6번 그림이 code 6과 맞춰 나왔던 것 같고, 나머지 그림은 code와 설명이 일치하지 않았던 것 같아요.\n\n보기와 정답이 복원되지 않아 답은 미복원으로 처리합니다.",
       "images": [
         "images/2021/q008_img1.jpg"
-      ]
+      ],
+      "answer_only": true,
+      "answer_display": "정답 미복원"
     },
     {
       "id": "q009",
@@ -386,7 +388,7 @@
     {
       "id": "q014",
       "number": 14,
-      "question": "19-3분기 Effect of desensitizers containing calcium and phosphate on dentin permeability and tubule occlusion 에 대해 옳은 것은?\n.",
+      "question": "19-3분기 Effect of desensitizers containing calcium and phosphate on dentin permeability and tubule occlusion 에 대해 옳은 것은?",
       "choices": [
         {
           "label": 1,
@@ -406,15 +408,17 @@
         },
         {
           "label": 5,
-          "text": "Clinipro XT, Clinipro WV, Nupro, Nano p, Teeth mate, Duraphat을 실험군으로 사용했다."
+          "text": "Clinipro XT, Clinipro WV, Nupro, Nano p, Teeth mate, Duraphat을 실험에 사용했다."
         }
       ],
-      "answer_raw": "",
-      "explanation": "은5번\n####14번 재확인 부탁드립니다. 문제는 틀린거 고르는거 였던거 같은데요.\n5번보기 실험군으로 사용했다가 아니고 실험에 사용했다. 였던거 같은뎅..\n######3번 에이징 후에도 디센시타이저 기능 유지되었다 류였던거같은데 … 에이징 못버티지 않았나요?\n넵 답 3번 같아요 에이징하면 컨트롤말고는 투과도 증가",
+      "answer_raw": "5",
+      "explanation": "Duraphat 은 Ca, p 가 없는 대조군으로사용\n\n####14번 재확인 부탁드립니다. 문제는 틀린거 고르는거 였던거 같은데요.  \n\n5번보기 실험군으로 사용했다가 아니고 실험에 사용했다. 였던거 같은뎅..\n\n######3번 에이징 후에도 디센시타이저 기능 유지되었다 류였던거같은데 … 에이징 못버티지 않았나요?  \n\n넵  답 3번 같아요 에이징하면 컨트롤말고는 투과도 증가",
       "images": [
         "images/2021/q008_img5.jpg",
         "images/2021/q008_img6.jpg"
-      ]
+      ],
+      "answer_display": "5",
+      "answer_only": false
     },
     {
       "id": "q015",
@@ -431,36 +435,65 @@
         },
         {
           "label": 3,
-          "text": "Copalite 가 이장재로 주로 사용된다"
+          "text": ""
         },
         {
           "label": 4,
-          "text": "Ca(OH)2 가 잔존상아질 위에 적용될 수 있다"
+          "text": "Copalite 가 이장재로 주로 사용된다"
+        },
+        {
+          "label": 5,
+          "text": "Ca(OH) 2 가 잔존상아질 위에 적용될 수 있다"
         }
       ],
-      "answer_raw": "",
-      "explanation": "은5번",
-      "images": []
+      "answer_raw": "5",
+      "explanation": "정답은 5번입니다.",
+      "images": [],
+      "answer_only": false,
+      "answer_display": "5"
     },
     {
       "id": "q016",
       "number": 16,
       "question": "최신저널\nTEM사진에서 표시한 부분과 알맞게 짝지어진것\n보기) 레진/치아/reticular nanoleakage/nanoleakage/nano layering\n해설을 보면 손가락 모양이 reticular nanoleakage / 화살표가 hybrid layer 삼각형이 spotted nanoleakage",
-      "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "choices": [
+        {
+          "label": 1,
+          "text": "레진"
+        },
+        {
+          "label": 2,
+          "text": "치아"
+        },
+        {
+          "label": 3,
+          "text": "reticular nanoleakage"
+        },
+        {
+          "label": 4,
+          "text": "nanoleakage"
+        },
+        {
+          "label": 5,
+          "text": "nano layering"
+        }
+      ],
+      "answer_raw": "미복원",
+      "explanation": "해설을 보면 손가락 모양이 reticular nanoleakage / 화살표가 hybrid layer / 삼각형이 spotted nanoleakage로 표시됩니다.",
       "images": [
-        "images/2021/q016_img1.jpg",
-        "images/2021/q016_img2.jpg"
-      ]
+        "images/2021/q016_fig1.jpg",
+        "images/2021/q016_fig2.jpg"
+      ],
+      "answer_only": true,
+      "answer_display": "정답 미복원"
     },
     {
       "id": "q017",
       "number": 17,
       "question": "표시된 부분에서 일어나는 변화는?\nZir 상전이 그림 (crack tip에 응력집중된 그림. 그림은 못찾겠어요ㅠ)",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "tetragonal->monoclinic (보존 96p)",
+      "answer_raw": "tetragonal → monoclinic",
+      "explanation": "tetragonal → monoclinic (보존 96p)",
       "images": [],
       "answer_only": true,
       "answer_display": "tetragonal → monoclinic"
@@ -682,31 +715,37 @@
       "number": 25,
       "question": "다음과 같이 와동형성을 하는 치아는?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "하악 소구치 , 치과보존학 4판, p.194",
+      "answer_raw": "하악 소구치",
+      "explanation": "치과보존학 4판, p.194",
       "images": [
-        "images/2021/q005_img3.jpg"
-      ]
+        "images/2021/q025_fig1.jpg"
+      ],
+      "answer_only": true,
+      "answer_display": "하악 소구치"
     },
     {
       "id": "q026",
       "number": 26,
       "question": "amalgam polishing & finishing 순서",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "carbide bur -> coarse rubber point -> medium rubber point -> fine rubber point\n치과보존학 p.217\n####26번 답 순서 확인 부탁드려요. 시험에 출제된 사진 똑같은게 A&S fig. 10.24부터있습니다.",
-      "images": []
+      "answer_raw": "carbide bur → coarse rubber point → medium rubber point → fine rubber point",
+      "explanation": "치과보존학 p.217\n시험에 출제된 사진과 동일한 그림은 A&S Fig. 10.24부터 확인할 수 있습니다.",
+      "images": [],
+      "answer_only": true,
+      "answer_display": "carbide bur → coarse rubber point → medium rubber point → fine rubber point"
     },
     {
       "id": "q027",
       "number": 27,
       "question": "다음 급성우식, 만성우식 그래프에서 각각 가르키는 지점을 올바르게 짝지으시오.",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "bacterial invasion front - discoloration front - softening front\n(다른 보기들은 위 세가지 순서 바꿔 나열한 것)",
+      "answer_raw": "bacterial invasion front → discoloration front → softening front",
+      "explanation": "다른 보기는 위 세 가지 순서를 바꿔 나열한 것입니다.",
       "images": [
         "images/2021/q005_img4.png"
-      ]
+      ],
+      "answer_only": true,
+      "answer_display": "bacterial invasion front → discoloration front → softening front"
     },
     {
       "id": "q028",
@@ -936,8 +975,8 @@
       "number": 35,
       "question": "다음 격벽의 종류는?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "Sectional matrix\n해설 : 치과보존학 4판 10장 p.201",
+      "answer_raw": "Sectional matrix",
+      "explanation": "치과보존학 4판 10장 p.201",
       "images": [
         "images/2021/q005_img11.png"
       ],
@@ -1364,22 +1403,26 @@
       "number": 50,
       "question": "laminate preparation design 4가지 사진. 순서대로 맞는 것은?\na. partial veneer\nb. window\nc. butt-joint\nd. overlap",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "미복원",
+      "explanation": "laminate preparation design 4가지 사진의 순서를 맞추는 문제였습니다. 원문에 제시된 항목은 partial veneer, window, butt-joint, overlap입니다.",
       "images": [
         "images/2021/q001_img4.png"
-      ]
+      ],
+      "answer_only": true,
+      "answer_display": "정답 미복원"
     },
     {
       "id": "q051",
       "number": 51,
       "question": "교과서 그림 19-3. 다음 그림은 무엇을 위한 용도인가?\n순면의 삭제량 확인",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "미복원",
+      "explanation": "교과서 그림 19-3. 순면의 삭제량 확인을 위한 용도입니다.",
       "images": [
         "images/2021/q001_img5.png"
-      ]
+      ],
+      "answer_only": true,
+      "answer_display": "정답 미복원"
     },
     {
       "id": "q052",
@@ -2264,7 +2307,7 @@
       "number": 82,
       "question": "근관치료중 갑작스런 동통 부종 나타내는 것은?",
       "choices": [],
-      "answer_raw": "",
+      "answer_raw": "Flare-up",
       "explanation": "Flare-up",
       "images": [],
       "answer_only": true,
@@ -2275,11 +2318,13 @@
       "number": 83,
       "question": "(이 사진과는 약간 달랐으나 상악 우측 중절치 근관중간에 내흡수 사진)\n상악 우측 중절치에 다음과 같은 소견이 관찰되는 경우에 적절한 근관충전 방법은?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "Thermoplastic technique",
+      "answer_raw": "Thermoplastic technique",
+      "explanation": "사진은 원문과 약간 달랐으나, 상악 우측 중절치 근관 중간의 내흡수에 적절한 근관충전 방법은 Thermoplastic technique입니다.",
       "images": [
         "images/2021/q083_img1.png"
-      ]
+      ],
+      "answer_only": true,
+      "answer_display": "Thermoplastic technique"
     },
     {
       "id": "q084",
@@ -2545,8 +2590,8 @@
       "number": 93,
       "question": "치근단낭종 내강에서 관찰되는 다음의 구조물은?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "cholesterol cleft (POP 10th. p.589 그림14-11)",
+      "answer_raw": "cholesterol cleft",
+      "explanation": "cholesterol cleft (POP 10th. p.589 그림 14-11)",
       "images": [
         "images/2021/q005_img20.jpg"
       ],

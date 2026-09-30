@@ -552,10 +552,10 @@
     {
       "id": "q018",
       "number": 18,
-      "question": "괄호 (a),(b),(c) 부위별 명칭의 올바른 순서는?\n답. (치과보존학 p.167. 그림 9-13)\na. bow\nb. jaw\nc. prong",
+      "question": "괄호 (a),(b),(c) 부위별 명칭의 올바른 순서는?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "A: bow / B: jaw / C: prong",
+      "explanation": "a. bow\nb. jaw\nc. prong\n\n치과보존학 p.167, 그림 9-13",
       "images": [
         "images/questions/q018.png"
       ],
@@ -1172,8 +1172,8 @@
       "number": 38,
       "question": "복합레진 4급 수복에 있어 다음 A,B,C에 들어갈 shade는?\n객관식 보기 조합\n답 : opaque - body - enamel\n교과서 353P",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "opaque - body - enamel",
+      "explanation": "치과보존학 4판 p.35",
       "images": [
         "images/questions/q038.png"
       ],

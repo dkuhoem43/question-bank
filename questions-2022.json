@@ -68,7 +68,7 @@
     {
       "id": "q003",
       "number": 3,
-      "question": "법랑질 우식 조직학적 구조 A",
+      "question": "법랑질 우식 조직학적 구조 A, B에 들어갈 단어 고르시오.",
       "choices": [
         {
           "label": 1,
@@ -80,23 +80,24 @@
         },
         {
           "label": 3,
-          "text": "contaminated zone / d"
+          "text": "contaminated zone / dark zone"
         },
         {
           "label": 4,
-          "text": "contaminated zone / d"
+          "text": "contaminated zone / demineralized zone"
         },
         {
           "label": 5,
-          "text": "contaminated zone / n"
+          "text": "contaminated zone / necrotic zone"
         }
       ],
       "answer_raw": "2",
-      "explanation": "(Art& Science, 2014년(영문\nBody zone, Dark zone이 A,B로\nA, B에 들어갈 단어 고르시오.\ne\ne\ndark zone\ndemineralized zone\nnecrotic zone\n문판), 59p)\n빈칸되어 있었음.",
+      "explanation": "답 2 (Art&Science, 2014년(영문판), 59p)\nBody zone, Dark zone이 A, B로 빈칸되어 있었습니다.",
       "images": [
         "images/2022/q003_img1.jpeg"
       ],
-      "source_page": 3
+      "source_page": 3,
+      "answer_only": false
     },
     {
       "id": "q004",
@@ -380,36 +381,37 @@
     {
       "id": "q013",
       "number": 13,
-      "question": "2020. Mohammad 등의 Ex\nThickness에 대한 다음 보기의",
+      "question": "2020. Mohammad 등의 Extra Bonding Layer Compensates Universal Adhesive’s Thin Film Thickness에 대한 다음 보기의 내용 중 옳지 않은 것은?",
       "choices": [
         {
           "label": 1,
-          "text": "Extra bonding layer를\n게 증가하는 결과를 보"
+          "text": "Extra bonding layer를 사용할 경우 술식이 한 단계 증가하지만 접착력이 유의하게 증가하는 결과를 보였다."
         },
         {
           "label": 2,
-          "text": "1개월 후 C-SE2_ar보다"
+          "text": "1개월 후 C-SE2_ar보다 Opti-FL_ar이 더 우수한 결과를 나타내었다."
         },
         {
           "label": 3,
-          "text": "50,000 cycle 후 C-SE2_"
+          "text": "50,000 cycle 후 C-SE2_ar보다 Opti-FL_ar이 더 우수한 결과를 나타내었다."
         },
         {
           "label": 4,
-          "text": "Opti-FL_ar이 C-SE2_ar보\nadhesive의 두께가 두껍"
+          "text": "Opti-FL_ar이 C-SE2_ar보다 더 좋은 결과를 나타낸 이유를 실리카 필러의 높은 함량과 adhesive의 두께가 두껍기 때문으로 설명하였다."
         },
         {
           "label": 5,
-          "text": "실험에 사용된 UA는 1"
+          "text": "실험에 사용된 UA는 10μm 이하, Opti-FL_ar은 50μm 이상의 두께를 나타내었다."
         }
       ],
       "answer_raw": "2",
-      "explanation": "(20-4-1. Mohammad, Ex\nThickness)\n1번, 3번은 맞는 말이고, 2번은\n4번은 conclusion에 나와있습니\nxtra Bonding Layer Compensates Universal A\n내용 중 옳지 않은 것은?\n사용할 경우 술식의 단계가 한 단계 증가하지\n보였다.\n다 Opti-FL_ar이 더 우수한 결과를 나타내었다.\n_ar보다 Opti-FL_ar이 더 우수한 결과를 나타내었\n보다 더 좋은 결과를 나타낸 이유를 실리카\n껍기 때문으로 설명하였다.\n0μm이하, Opti-FL_ar은 50μm이상의 두께를 나타\nxtra Bonding Layer Compensates Universal A\n1m 후에는 유사한 결과라고 설명하고 있습니다\n다.\nAdhesive’s Thin Film\n지만 접착력이 유의하\n었다.\n필러의 높은 함량과\n타내었다.\nAdhesive’s Thin Film\n다.\n5번은 table 5. (여기서 C-SE2는\n이번 실험이 아니라 선행 연구에서 사용한 것\n입니다.)",
+      "explanation": "답 2 (20-4-1. Mohammad, Extra Bonding Layer Compensates Universal Adhesive’s Thin Film Thickness)\n1번, 3번은 맞는 말이고, 2번은 1개월 후에는 유사한 결과라고 설명하고 있습니다.\n4번은 conclusion에 나와있습니다.",
       "images": [
         "images/2022/q013_img1.jpeg",
         "images/2022/q013_img2.jpeg"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "answer_only": false
     },
     {
       "id": "q014",
@@ -865,7 +867,7 @@
     {
       "id": "q028",
       "number": 28,
-      "question": "각 그림에 맞는 test는?\n② Microshearbond-pushout-tensilebond\n④ Microtensilebond-pushout-shearbond",
+      "question": "각 그림에 맞는 test는?",
       "choices": [
         {
           "label": 1,
@@ -885,11 +887,12 @@
         }
       ],
       "answer_raw": "1",
-      "explanation": "(Fundamental Fig9-16 동일그림)\n6가지 정도의 bond test가 그림으로 나오고 위 3가지 실험에 대한 그림이 빈칸으로 되어 있었습\n니다. 각각 Micro shear bond test, tensile bond test, push out test입니다",
+      "explanation": "답 1 (Fundamental Fig 9-16 동일그림)\n그림에는 6가지 정도의 bond test가 제시되고, 그중 문제의 빈칸은 Micro shear bond test, tensile bond test, push out test에 해당합니다.",
       "images": [
         "images/2022/q028_img1.jpeg"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "answer_only": false
     },
     {
       "id": "q029",
@@ -962,8 +965,8 @@
       "number": 31,
       "question": "Photoinitiator의 absorption profile 연결 하는 문제\nA,B,C,D의 순서로 옳은 것은?",
       "choices": [],
-      "answer_raw": "",
-      "explanation": "CQ - Lucirin TPO – Ivocerin - PPD\n(그래프에는 그냥 TPO인데 보기에는 Lucirin TPO였습니다.)\nArt&Science (7판 영문판) p.174 Fig 6.7",
+      "answer_raw": "CQ - Lucirin TPO – Ivocerin - PPD",
+      "explanation": "CQ - Lucirin TPO – Ivocerin - PPD\n그래프에는 그냥 TPO인데 보기에는 Lucirin TPO였습니다.\nArt&Science (7판 영문판) p.174 Fig 6.7",
       "images": [
         "images/2022/q031_img1.jpeg"
       ],
