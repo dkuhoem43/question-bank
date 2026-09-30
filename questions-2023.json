@@ -94,7 +94,8 @@
       ],
       "answer_raw": "3",
       "explanation": "어디 논문에 나오는지는 못 찾았지만 검색해보면 염증반응에 대한 검사라고 나옵니다.\n1) 세포독성검사\n2) mineralization 여부 검사\n3) 염증 검사\n4) mineralization 여부 검사\n5) Mineralization 확인 (Osteoblast 활성 확인검사)\n\n최신 엔도저널 21-2-1에 3) ELISA에 대해서 M&M에서 IL-6 포함한 여러 종류의 interleukin과 TNF, interferon 등의 cytokine을 분석했다고 나옵니다. LTA 인식으로 염증 반응이 일어나는 것을 사이토카인 방출로 확인했다는 내용으로 보이며, 결론에서도 이를 확인할 수 있습니다. → 3번",
-      "source_page": 16
+      "source_page": 16,
+      "images": []
     },
     {
       "id": "q004",
@@ -156,12 +157,7 @@
       "answer_raw": "3",
       "explanation": "(Pathways of the Pulp 11판, Box 17-1, Types of Pain)\nPrimary pain, heterotopic pain 쓰인 부분만 지운 채로 그림 그대로 나옴.",
       "images": [
-        "images/2023/q005_img1.jpeg",
-        "images/2023/q005_img2.jpeg",
-        "images/2023/q005_img3.jpeg",
-        "images/2023/q005_img4.jpeg",
-        "images/2023/q005_img5.jpeg",
-        "images/2023/q005_img6.jpeg"
+        "images/2023/q005_img1.jpeg"
       ],
       "source_page": 3
     },
@@ -336,15 +332,35 @@
       "id": "q012",
       "number": 12,
       "question": "다음 그림 중 microtensile bond test를 나타내는 것은 무엇인가?",
-      "choices": [],
+      "choices": [
+        {
+          "label": 1,
+          "text": "Macroshear"
+        },
+        {
+          "label": 2,
+          "text": "Microshear"
+        },
+        {
+          "label": 3,
+          "text": "Macrotensile"
+        },
+        {
+          "label": 4,
+          "text": "Microtensile"
+        },
+        {
+          "label": 5,
+          "text": "Push out"
+        }
+      ],
       "answer_raw": "4",
-      "explanation": "그림 왼쪽부터\n1) macroshear\n2) microshear\n3) macrotensile\n4) microtensile\n5) push out\n\n정답: 4번 (microtensile)",
+      "explanation": "그림에서 4번이 microtensile bond test를 나타냅니다.\n\n1) Macroshear\n2) Microshear\n3) Macrotensile\n4) Microtensile\n5) Push out\n\n정답: 4번 (microtensile)",
       "images": [
         "images/2023/q012_img1.jpeg"
       ],
       "source_page": 7,
-      "answer_only": true,
-      "answer_display": "4번 = microtensile"
+      "answer_only": false
     },
     {
       "id": "q013",
@@ -844,34 +860,37 @@
     {
       "id": "q031",
       "number": 31,
-      "question": "수분흡수가 높고 친수성인 primer의 주성분?\n2)\n4)",
+      "question": "수분흡수가 높고 친수성인 primer의 주성분?",
       "choices": [
         {
           "label": 1,
-          "text": "Bis-GMA"
+          "text": "",
+          "image": "images/2023/q031_img1.png"
         },
         {
           "label": 2,
-          "text": "HEMA"
+          "text": "",
+          "image": "images/2023/q001_img2.png"
         },
         {
           "label": 3,
-          "text": "10-MDP"
+          "text": "",
+          "image": "images/2023/q002_img1.png"
         },
         {
           "label": 4,
-          "text": "TEGDMA"
+          "text": "",
+          "image": "images/2023/q003_img1.png"
         },
         {
           "label": 5,
-          "text": "UDMA"
+          "text": "",
+          "image": "images/2023/q004_img1.png"
         }
       ],
       "answer_raw": "2",
       "explanation": "(Fundamentals of operative dentistry 4th table 9-1)\n1. Bis-GMA\n2. HEMA\n3. 10-MDP\n4. TEGDMA\n5. UDMA",
-      "images": [
-        "images/2023/q031_img1.png"
-      ],
+      "images": [],
       "source_page": 16
     },
     {
@@ -965,7 +984,10 @@
       "images": [
         "images/2023/q034_img1.jpeg"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "explanationImages": [
+        "images/2023/q034_img2.jpg"
+      ]
     },
     {
       "id": "q035",
@@ -1960,8 +1982,34 @@
     {
       "id": "q068",
       "number": 68,
-      "question": "근관치료 중 transportation이 발생하여 그 방향을 확인하기 위해 근관 내 파일을 넣고 방사선사진을\n수평각을 주어 근심, 정면, 원심 세 장 촬영하였다. 다음 중 transportation 된 위치가 맞게 표시된 것은?\n(근심) (정면) (원심)\n2.\n4.",
-      "choices": [],
+      "question": "근관치료 중 transportation이 발생하여 그 방향을 확인하기 위해 근관 내 파일을 넣고 방사선사진을\n수평각을 주어 근심, 정면, 원심 세 장 촬영하였다. 다음 중 transportation 된 위치가 맞게 표시된 것은?\n(근심) (정면) (원심)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "",
+          "image": "images/2023/q001_img3.png"
+        },
+        {
+          "label": 2,
+          "text": "",
+          "image": "images/2023/q001_img4.png"
+        },
+        {
+          "label": 3,
+          "text": "",
+          "image": "images/2023/q002_img2.png"
+        },
+        {
+          "label": 4,
+          "text": "",
+          "image": "images/2023/q003_img2.png"
+        },
+        {
+          "label": 5,
+          "text": "",
+          "image": "images/2023/q004_img2.png"
+        }
+      ],
       "answer_raw": "3",
       "explanation": "필독 C-1-4-1 Alternation in horizontal angulation, The buccal object, 4) identification of apical root\ncurvature, Fig 14",
       "images": [

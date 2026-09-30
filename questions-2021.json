@@ -31,12 +31,7 @@
       "answer_raw": "4",
       "explanation": "",
       "images": [
-        "images/2021/q001_img1.png",
-        "images/2021/q001_img2.png",
-        "images/2021/q001_img3.png",
-        "images/2021/q001_img4.png",
-        "images/2021/q001_img5.png",
-        "images/2021/q001_img6.png"
+        "images/2021/q001_img1.png"
       ]
     },
     {
@@ -67,9 +62,7 @@
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": [
-        "images/2021/q002_img1.png"
-      ]
+      "images": []
     },
     {
       "id": "q003",
@@ -99,9 +92,7 @@
       ],
       "answer_raw": "1",
       "explanation": "해설 :\n패스웨이 10판 p.63\n카바마제핀, 바클로펜, 그리고 더 최근에는 가바펜틴과 옥스카바제핀을 포함한 여러 가지 약물 요법이 3차 신경통의 치료에 사용되고 있다. (중간생략) 3차 신경통을 치료하는 데 가장 먼저 고려되는 약물은 카바마제핀임을 임상적인 시도를 통해서 알고 있다.\n패스웨이 11판 p. 693(요긴 pregabalin도 최근 사용되는 약물로 추가되어 있네요. 그래도 답은 carbamazepine입니다.)\nSeveral medications, including carbamazepine, baclofen, gabapentin, and more recently pregabalin and oxcarbazepine, have been used to treat trigeminal neuralgia. Drugs aimed at relieving nociception, such as nonsteroidal antiinflammatory agents, have no significant benefit in these patients, nor do opioid-based analgesics. Clinical trials support carbamazepine as a first-line drug for treating trigeminal neuralgia.",
-      "images": [
-        "images/2021/q003_img1.png"
-      ]
+      "images": []
     },
     {
       "id": "q004",
@@ -132,7 +123,7 @@
       "answer_raw": "3",
       "explanation": "해설 : 문제에는 안 나와있었지만 논문 제목이 답입니다...\nA-2-3-3 Kim S, Ligamental injection: a physiological explanation of its efficacy",
       "images": [
-        "images/2021/q004_img1.png"
+        "images/2021/q005_img1.png"
       ]
     },
     {
@@ -163,30 +154,7 @@
       ],
       "answer_raw": "1",
       "explanation": "해설 : 패스웨이 10판 p69,70 / 11판 p699,700\n1 -\n2 - onset보다는 duration에 대한 내용입니다.\n3 - quality보다는 location에 대한 내용입니다.\n4 - 완화요인보다는 유발요인에 가까운 것 같습니다.\n5 - duration보다는 onset에 대한 내용인 것 같습니다.",
-      "images": [
-        "images/2021/q005_img1.png",
-        "images/2021/q005_img2.png",
-        "images/2021/q005_img3.jpg",
-        "images/2021/q005_img4.png",
-        "images/2021/q005_img5.jpg",
-        "images/2021/q005_img6.png",
-        "images/2021/q005_img7.png",
-        "images/2021/q005_img8.png",
-        "images/2021/q005_img9.png",
-        "images/2021/q005_img10.png",
-        "images/2021/q005_img11.png",
-        "images/2021/q005_img12.jpg",
-        "images/2021/q005_img13.jpg",
-        "images/2021/q005_img14.jpg",
-        "images/2021/q005_img15.png",
-        "images/2021/q005_img16.png",
-        "images/2021/q005_img17.png",
-        "images/2021/q005_img18.png",
-        "images/2021/q005_img19.jpg",
-        "images/2021/q005_img20.jpg",
-        "images/2021/q005_img21.jpg",
-        "images/2021/q005_img22.png"
-      ]
+      "images": []
     },
     {
       "id": "q006",
@@ -256,12 +224,7 @@
       "answer_raw": "",
       "explanation": "보기는 기억이 안나고 그림과 간단한 영어 설명의 짝맞추기였습니다\n-6번 그림이 code6과 맞춰 나왔던 것 같고 나머지 그림은 code 와 설명이 일치하지 않았던 것 같아요",
       "images": [
-        "images/2021/q008_img1.jpg",
-        "images/2021/q008_img2.jpg",
-        "images/2021/q008_img3.jpg",
-        "images/2021/q008_img4.jpg",
-        "images/2021/q008_img5.jpg",
-        "images/2021/q008_img6.jpg"
+        "images/2021/q008_img1.jpg"
       ]
     },
     {
@@ -292,7 +255,9 @@
       ],
       "answer_raw": "3",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q008_img2.jpg"
+      ]
     },
     {
       "id": "q010",
@@ -352,7 +317,9 @@
       ],
       "answer_raw": "2",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q008_img3.jpg"
+      ]
     },
     {
       "id": "q012",
@@ -382,7 +349,9 @@
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q008_img4.jpg"
+      ]
     },
     {
       "id": "q013",
@@ -442,7 +411,10 @@
       ],
       "answer_raw": "",
       "explanation": "은5번\n####14번 재확인 부탁드립니다. 문제는 틀린거 고르는거 였던거 같은데요.\n5번보기 실험군으로 사용했다가 아니고 실험에 사용했다. 였던거 같은뎅..\n######3번 에이징 후에도 디센시타이저 기능 유지되었다 류였던거같은데 … 에이징 못버티지 않았나요?\n넵 답 3번 같아요 에이징하면 컨트롤말고는 투과도 증가",
-      "images": []
+      "images": [
+        "images/2021/q008_img5.jpg",
+        "images/2021/q008_img6.jpg"
+      ]
     },
     {
       "id": "q015",
@@ -479,8 +451,7 @@
       "explanation": "",
       "images": [
         "images/2021/q016_img1.jpg",
-        "images/2021/q016_img2.jpg",
-        "images/2021/q016_img3.jpg"
+        "images/2021/q016_img2.jpg"
       ]
     },
     {
@@ -522,7 +493,9 @@
       ],
       "answer_raw": "1",
       "explanation": ". Resilience (ref. 치과보존학 4판 그림 5-5)",
-      "images": []
+      "images": [
+        "images/2021/q016_img3.jpg"
+      ]
     },
     {
       "id": "q019",
@@ -711,7 +684,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "하악 소구치 , 치과보존학 4판, p.194",
-      "images": []
+      "images": [
+        "images/2021/q005_img3.jpg"
+      ]
     },
     {
       "id": "q026",
@@ -729,7 +704,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "bacterial invasion front - discoloration front - softening front\n(다른 보기들은 위 세가지 순서 바꿔 나열한 것)",
-      "images": []
+      "images": [
+        "images/2021/q005_img4.png"
+      ]
     },
     {
       "id": "q028",
@@ -759,7 +736,9 @@
       ],
       "answer_raw": "4",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img5.jpg"
+      ]
     },
     {
       "id": "q029",
@@ -879,13 +858,42 @@
       ],
       "answer_raw": "1",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img6.png",
+        "images/2021/q005_img7.png"
+      ]
     },
     {
       "id": "q033",
       "number": 33,
-      "question": "다음은 상아질 접착시스템에 포함된 구성성분들을 나타낸 도식이다. 다음 중 산성 단량체로서의 역할을 하는 것은?\n2.\n4.",
-      "choices": [],
+      "question": "다음은 상아질 접착시스템에 포함된 구성성분들을 나타낸 도식이다. 다음 중 산성 단량체로서의 역할을 하는 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "",
+          "image": "images/2021/q001_img2.png"
+        },
+        {
+          "label": 2,
+          "text": "",
+          "image": "images/2021/q002_img1.png"
+        },
+        {
+          "label": 3,
+          "text": "",
+          "image": "images/2021/q003_img1.png"
+        },
+        {
+          "label": 4,
+          "text": "",
+          "image": "images/2021/q004_img1.png"
+        },
+        {
+          "label": 5,
+          "text": "",
+          "image": "images/2021/q005_img8.png"
+        }
+      ],
       "answer_raw": "2",
       "explanation": "",
       "images": []
@@ -918,7 +926,10 @@
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img9.png",
+        "images/2021/q005_img10.png"
+      ]
     },
     {
       "id": "q035",
@@ -927,7 +938,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "Sectional matrix\n해설 : 치과보존학 4판 10장 p.201",
-      "images": [],
+      "images": [
+        "images/2021/q005_img11.png"
+      ],
       "answer_only": true,
       "answer_display": "Sectional matrix"
     },
@@ -989,7 +1002,9 @@
       ],
       "answer_raw": "2",
       "explanation": "B - notch\n해설: notch가 아니고 prong 또는 point 또는 beak라고 불립니다.\nnotch는 전치부용 클랩프에서 러버댐 포셉 거는 부위입니다.\n(그림은 Fundamental 4판 p.188 Fig.8-13 a 그림 그대로 출제되었습니다.)",
-      "images": []
+      "images": [
+        "images/2021/q005_img12.jpg"
+      ]
     },
     {
       "id": "q038",
@@ -1019,7 +1034,9 @@
       ],
       "answer_raw": "4",
       "explanation": "A&S fig 9.3 / 9.4",
-      "images": []
+      "images": [
+        "images/2021/q005_img13.jpg"
+      ]
     },
     {
       "id": "q039",
@@ -1049,7 +1066,9 @@
       ],
       "answer_raw": "1",
       "explanation": "Art and science 7판 fig 7.18",
-      "images": []
+      "images": [
+        "images/2021/q005_img14.jpg"
+      ]
     },
     {
       "id": "q040",
@@ -1079,7 +1098,9 @@
       ],
       "answer_raw": "2",
       "explanation": "아트앤사이언스 p274 fig10-28",
-      "images": []
+      "images": [
+        "images/2021/q005_img15.png"
+      ]
     },
     {
       "id": "q041",
@@ -1109,7 +1130,9 @@
       ],
       "answer_raw": "4",
       "explanation": "보기순서 다를 수 있습니다",
-      "images": []
+      "images": [
+        "images/2021/q005_img16.png"
+      ]
     },
     {
       "id": "q042",
@@ -1139,7 +1162,9 @@
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img17.png"
+      ]
     },
     {
       "id": "q043",
@@ -1178,7 +1203,9 @@
       "choices": [],
       "answer_raw": "5",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img18.png"
+      ]
     },
     {
       "id": "q045",
@@ -1328,7 +1355,9 @@
       ],
       "answer_raw": "2",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q001_img3.png"
+      ]
     },
     {
       "id": "q050",
@@ -1337,7 +1366,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q001_img4.png"
+      ]
     },
     {
       "id": "q051",
@@ -1346,7 +1377,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q001_img5.png"
+      ]
     },
     {
       "id": "q052",
@@ -1355,7 +1388,9 @@
       "choices": [],
       "answer_raw": "4",
       "explanation": "중합율을 높이기 위해 광중합 시간을 길게 조사한다.\n광중합기를 가까이 위치시켜 중합율을 높일 수 있다.\n중합율 증가를 위해 SARC 보다 conventional resin cement를 사용한다.\nSARC에서 sodium aryl sufate 또는 aryl-borate salt를 제거한다.\nacidic monomer와 반응할 수 있는 amine을 제거한다.",
-      "images": []
+      "images": [
+        "images/2021/q001_img6.png"
+      ]
     },
     {
       "id": "q053",
@@ -1425,14 +1460,7 @@
       "answer_raw": "1",
       "explanation": "(보기순서 다를수있습니다)",
       "images": [
-        "images/2021/q055_img1.jpg",
-        "images/2021/q055_img2.png",
-        "images/2021/q055_img3.png",
-        "images/2021/q055_img4.png",
-        "images/2021/q055_img5.png",
-        "images/2021/q055_img6.png",
-        "images/2021/q055_img7.jpg",
-        "images/2021/q055_img8.png"
+        "images/2021/q055_img1.jpg"
       ]
     },
     {
@@ -1463,7 +1491,9 @@
       ],
       "answer_raw": "2",
       "explanation": "해설 : 문제 양식으로 봤을 때 출처가 클래식인줄 알았는데 Pathways of the pulp입니다\n패스웨이 10판 p.156 / 11판 p.139 vertucci 표\n측절치 0%, 제1소구치 62%, 제2소구치 11%, 제1대구치 근심협측 18%, 제2대구치 근심협측 12%",
-      "images": []
+      "images": [
+        "images/2021/q055_img2.png"
+      ]
     },
     {
       "id": "q057",
@@ -1493,7 +1523,9 @@
       ],
       "answer_raw": "5",
       "explanation": "해설 : 이것도 Pathways of the pulp네요\n패스웨이 10판 p.160 / 11판 p. 143",
-      "images": []
+      "images": [
+        "images/2021/q055_img3.png"
+      ]
     },
     {
       "id": "q058",
@@ -1523,7 +1555,9 @@
       ],
       "answer_raw": "2",
       "explanation": "(근관치료학 p. 196 Fan’s classification - Category II(C2))",
-      "images": []
+      "images": [
+        "images/2021/q055_img4.png"
+      ]
     },
     {
       "id": "q059",
@@ -1583,7 +1617,9 @@
       ],
       "answer_raw": "5",
       "explanation": "해설 : 패스웨이 10판 p.635 / 11판 p.714\n감염의 근원은 화농성 삼출물이 설측 피질골판을 뚫고 나오는 대구치부\nSubmandibular space abscess에 대한 내용입니다.\nLudwig angina 같이 이러한 생명을 위협하는 봉와직염은 pharyngeal과 cervical space로 퍼질 수 있으며, 기도폐쇄를 초래할 수 있다.\n치근첨들이 악설골근 부착 하부에 위치한다.\n맞는 설명",
-      "images": []
+      "images": [
+        "images/2021/q055_img5.png"
+      ]
     },
     {
       "id": "q061",
@@ -1823,7 +1859,9 @@
       ],
       "answer_raw": "3",
       "explanation": "(사진 출처 : 최신 19-4-1 - diagnosis and management of transverse root fractures)",
-      "images": []
+      "images": [
+        "images/2021/q055_img6.png"
+      ]
     },
     {
       "id": "q069",
@@ -1973,7 +2011,9 @@
       ],
       "answer_raw": "2",
       "explanation": "Torsional fracture -최신근치 330page",
-      "images": []
+      "images": [
+        "images/2021/q055_img7.jpg"
+      ]
     },
     {
       "id": "q074",
@@ -2063,7 +2103,9 @@
       ],
       "answer_raw": "3",
       "explanation": "해설 : 패스웨이 10판 p.257-8 / 11판에서는 삭제된 내용입니다.\n(요거 이의제기 해주세요 ㅠㅠ 11판으로 공부했는데…)",
-      "images": []
+      "images": [
+        "images/2021/q055_img8.png"
+      ]
     },
     {
       "id": "q077",
@@ -2183,7 +2225,9 @@
       ],
       "answer_raw": "5",
       "explanation": "고형석\n오전 12:00 1월 8일\n제 기억엔 2번 보기가 '함께 사용하면' 보다는 '번갈아' 또는 '교대로' 사용하면 이었던 것 같습니다. 그래서",
-      "images": []
+      "images": [
+        "images/2021/q005_img19.jpg"
+      ]
     },
     {
       "id": "q081",
@@ -2234,10 +2278,7 @@
       "answer_raw": "",
       "explanation": "Thermoplastic technique",
       "images": [
-        "images/2021/q083_img1.png",
-        "images/2021/q083_img2.png",
-        "images/2021/q083_img3.jpg",
-        "images/2021/q083_img4.jpg"
+        "images/2021/q083_img1.png"
       ]
     },
     {
@@ -2346,7 +2387,9 @@
       ],
       "answer_raw": "5",
       "explanation": "문제, 답 문장 정확하지 않습니다. 보기는 ③,⑤번같은 내용 반복이었습니다.\n최신 2018-4분기 근관 논문이었고, ③번은 이 논문이 primary periapical surgery 치아 대상으로 하고 있어 틀리고 ⑤번은 abstract의 “The proportion of retreated teeth with dentinal defects compared with primary treatment was statistically significant (P < .001) with a higher proportion of retreated teeth having dentinal defects.” 과 위의 그래프 보고 유추할 수 있었습니다.",
-      "images": []
+      "images": [
+        "images/2021/q083_img2.png"
+      ]
     },
     {
       "id": "q088",
@@ -2492,7 +2535,10 @@
       ],
       "answer_raw": "2",
       "explanation": ".leaky canal (필독C-4-1-4)",
-      "images": []
+      "images": [
+        "images/2021/q083_img3.jpg",
+        "images/2021/q083_img4.jpg"
+      ]
     },
     {
       "id": "q093",
@@ -2501,7 +2547,9 @@
       "choices": [],
       "answer_raw": "",
       "explanation": "cholesterol cleft (POP 10th. p.589 그림14-11)",
-      "images": [],
+      "images": [
+        "images/2021/q005_img20.jpg"
+      ],
       "answer_only": true,
       "answer_display": "cholesterol cleft"
     },
@@ -2533,7 +2581,9 @@
       ],
       "answer_raw": "2",
       "explanation": "치근단수술 (pop 11th 381p.)",
-      "images": []
+      "images": [
+        "images/2021/q005_img21.jpg"
+      ]
     },
     {
       "id": "q095",
@@ -2623,7 +2673,9 @@
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img22.png"
+      ]
     },
     {
       "id": "q098",
