@@ -63,7 +63,9 @@
       ],
       "answer_raw": "5",
       "explanation": "(치과보존학 4판 p31)\n타액에 의한 완충작용 중 가장\n을 중화시키는 작용을 한다.\n막에서 생성된 산을 중화시키는데 중요한 역할을\ne system\n중요한 것은 탄산/중탄산염 기전으로 치면 세\n을 하는 타액의 완충\n세균막에서 생성된 산",
-      "images": []
+      "images": [
+        "images/2022/q002_img1.png"
+      ]
     },
     {
       "id": "q003",
@@ -1071,11 +1073,15 @@
     {
       "id": "q035",
       "number": 35,
-      "question": "2019년 Ahmed Sleibi의 A comparative evaluation of ion release characteristics of three\ndifferent dental varnishes containing fluoride either with CPP-ACP or bioactive glass 논문에서 불\n소방출 A,B,C 순서대로 적으시오.\n2~5 세가지의 조합",
+      "question": "2019년 Ahmed Sleibi의 A comparative evaluation of ion release characteristics of three\ndifferent dental varnishes containing fluoride either with CPP-ACP or bioactive glass 논문에서 불\n소방출 A,B,C 순서대로 적으시오.",
       "choices": [
         {
           "label": 1,
           "text": "CPP-ACPF - BAGF - F"
+        },
+        {
+          "label": 2,
+          "text": "세가지의 조합 (2~5)"
         }
       ],
       "answer_raw": "1",
@@ -1444,17 +1450,37 @@
     {
       "id": "q047",
       "number": 47,
-      "question": "(A)를 포함한 접착형 레진시멘트는 상아질과 금속 수복물에 접착강도가 크며 길고 유연한 고\n분자 사슬을 갖고 있어 연성이 좋으며 충격을 흡수하는 성향이 있다. 다음 중 (A)에 해당하는 것\n은?\n②\n④",
-      "choices": [],
+      "question": "(A)를 포함한 접착형 레진시멘트는 상아질과 금속 수복물에 접착강도가 크며 길고 유연한 고\n분자 사슬을 갖고 있어 연성이 좋으며 충격을 흡수하는 성향이 있다. 다음 중 (A)에 해당하는 것\n은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "",
+          "image": "images/2022/q047_img1.jpeg"
+        },
+        {
+          "label": 2,
+          "text": "",
+          "image": "images/2022/q047_img2.jpeg"
+        },
+        {
+          "label": 3,
+          "text": "",
+          "image": "images/2022/q047_img3.jpeg"
+        },
+        {
+          "label": 4,
+          "text": "",
+          "image": "images/2022/q047_img4.jpeg"
+        },
+        {
+          "label": 5,
+          "text": "",
+          "image": "images/2022/q047_img5.jpeg"
+        }
+      ],
       "answer_raw": "3",
       "explanation": "(치과보존학 p.489)\n4-META를 포함한 접착형 레진 시멘트는 상아질과 금속 수복물에 접착강도가 크며 길고 유연한\n고분자 사슬을 갖고 있어 연성이 좋으며 충격을 흡수하는 성향이 있다.",
-      "images": [
-        "images/2022/q047_img1.jpeg",
-        "images/2022/q047_img2.jpeg",
-        "images/2022/q047_img3.jpeg",
-        "images/2022/q047_img4.jpeg",
-        "images/2022/q047_img5.jpeg"
-      ],
+      "images": [],
       "source_page": 49
     },
     {
