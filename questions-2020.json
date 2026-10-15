@@ -422,7 +422,8 @@
       ],
       "answer_raw": "1",
       "explanation": "? (2번은 도말층은 느슨하게 연결되어 있음 치과 보존학 p.265~266)",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q015",
@@ -436,7 +437,8 @@
       ],
       "answer_raw": "1",
       "explanation": "나머지는 다 틀린 얘기 였어요",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q016",
@@ -459,7 +461,8 @@
       "answer_raw": "",
       "explanation": "?? 모르겠어요 ㅠㅠㅠ\n(필독 B-1-1-4, 교합면 상아질은 인접면 상아질보다 접착 강도 낮음, 미맹출 제3대구치는 맹출된 경화상아질 보다 접착강도가 높다,\nGriffith의 defect theory에 따르면 취성이 높은 재료의 인장강도는 cross-sectional area가 증가함에 따라 감소한다.)",
       "images": [],
-      "source_page": 7
+      "source_page": 7,
+      "answer_only": true
     },
     {
       "id": "q017",
@@ -702,7 +705,8 @@
       ],
       "answer_raw": "1",
       "explanation": ". hypochlorous acid 보기 순서는 다를 수 있음.",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q025",
@@ -1836,7 +1840,8 @@
       ],
       "answer_raw": "4",
       "explanation": ". Glutaraldehyde(ref. 근관치료학 p 239)",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q062",
@@ -1968,7 +1973,8 @@
       ],
       "answer_raw": "1",
       "explanation": "",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q068",
@@ -2060,7 +2066,8 @@
       "images": [
         "images/2020/q070_img1.jpeg"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "answer_only": true
     },
     {
       "id": "q071",
@@ -2176,7 +2183,8 @@
       ],
       "answer_raw": "1",
       "explanation": ". ledge\n근관치료학 p327 Ledge 설명.",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q075",
@@ -2527,12 +2535,13 @@
           "text": "Thermoplastic injection technique"
         }
       ],
-      "answer_raw": "",
+      "answer_raw": "Thermoplastic injection technique",
       "explanation": "Thermoplastic injection technique (Pathway 10판 p.399)",
       "images": [
         "images/2020/q086_img1.jpeg"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "answer_only": true
     },
     {
       "id": "q087",
@@ -2557,7 +2566,8 @@
       "images": [
         "images/2020/q087_img1.jpeg"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "answer_only": true
     },
     {
       "id": "q088",
@@ -2583,7 +2593,8 @@
       ],
       "answer_raw": "5",
       "explanation": "88번해설) POP 10판 한글판. 288p. silicon based sealer는 Roekoseal과 GuttaFlow 가 있다.",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q089",

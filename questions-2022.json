@@ -1081,11 +1081,23 @@
         },
         {
           "label": 2,
-          "text": "세가지의 조합 (2~5)"
+          "text": "? - ? - ?"
+        },
+        {
+          "label": 3,
+          "text": "? - ? - ?"
+        },
+        {
+          "label": 4,
+          "text": "? - ? - ?"
+        },
+        {
+          "label": 5,
+          "text": "? - ? - ?"
         }
       ],
       "answer_raw": "1",
-      "explanation": ". CPP-ACPF - BAGF - F\n최신수복 2019 4-3",
+      "explanation": "2~5번 조합은 원문에서 세 가지 조합으로 제시되었으나, 각 조합의 정확한 내용은 현재 자료에서 복원되지 않아 임의로 채우지 않았습니다.",
       "images": [
         "images/2022/q035_img1.jpeg"
       ],
@@ -1539,7 +1551,7 @@
           "text": "간접 수복 시행 시 임시재료로 인한 치관부 미세누출 가능성 있다."
         }
       ],
-      "answer_raw": "",
+      "answer_raw": "2",
       "explanation": "(2)\n해설) 근관치료학 p440 그림 12-8\n포스트의 길이가 “짧을수록” 회전축이 치경부 가까이 형성되고, 부적절한 응력 분산으로 인해 치\n근 파절이 일어남.",
       "images": []
     },
@@ -2557,7 +2569,8 @@
       "images": [
         "images/2022/q083_img1.jpeg"
       ],
-      "source_page": 86
+      "source_page": 86,
+      "answer_only": true
     },
     {
       "id": "q084",

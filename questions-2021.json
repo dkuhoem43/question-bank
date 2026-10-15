@@ -676,7 +676,7 @@
           "text": "와동의 외형은 각진부분 없이 연속적인 곡선으로 이루어져야 한다."
         }
       ],
-      "answer_raw": "",
+      "answer_raw": "3",
       "explanation": "; 3번 (치과보존학 4판 185p. 1,2,4,5 맞는 답. 보기 순서는 다를 수 있습니다.)",
       "images": []
     },
@@ -2434,7 +2434,8 @@
       "explanation": "문제, 답 문장 정확하지 않습니다. 보기는 ③,⑤번같은 내용 반복이었습니다.\n최신 2018-4분기 근관 논문이었고, ③번은 이 논문이 primary periapical surgery 치아 대상으로 하고 있어 틀리고 ⑤번은 abstract의 “The proportion of retreated teeth with dentinal defects compared with primary treatment was statistically significant (P < .001) with a higher proportion of retreated teeth having dentinal defects.” 과 위의 그래프 보고 유추할 수 있었습니다.",
       "images": [
         "images/2021/q083_img2.png"
-      ]
+      ],
+      "answer_only": true
     },
     {
       "id": "q088",
@@ -2520,7 +2521,8 @@
       ],
       "answer_raw": "1",
       "explanation": "presence -> absence",
-      "images": []
+      "images": [],
+      "answer_only": true
     },
     {
       "id": "q091",
