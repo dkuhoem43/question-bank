@@ -478,7 +478,7 @@
     {
       "id": "q016",
       "number": 16,
-      "question": "다음은 transformation toug\n가진 재료는 무엇인가?",
+      "question": "다음은 transformation toughening에 의해 crack의 전파를 방지하는 기전이다. 이러한 성질을 가진 재료는 무엇인가?",
       "choices": [
         {
           "label": 1,
@@ -502,7 +502,7 @@
         }
       ],
       "answer_raw": "5",
-      "explanation": "(치과보존학 제4 개정판 p\nghening에 의해 crack의 전파를 방지하는 기전\n.96)\n이다. 이러한 성질을",
+      "explanation": "치과보존학 제4개정판 p.96",
       "images": [
         "images/2022/q016_img1.jpeg"
       ],
@@ -899,36 +899,36 @@
     {
       "id": "q029",
       "number": 29,
-      "question": "치질의 Ca와 지르코니아의\n접착 기능성 단량체 중 해당하는 것을 고르시오.",
+      "question": "치질의 Ca와 지르코니아의 OH와 화학적으로 결합하는 접착 기능성 단량체는?",
       "choices": [
         {
           "label": 1,
           "text": "",
-          "image": "images/2022/q029_img1.png"
+          "image": "images/2022/v47/q029_choice1.png"
         },
         {
           "label": 2,
           "text": "",
-          "image": "images/2022/q029_img2.jpeg"
+          "image": "images/2022/v47/q029_choice2.png"
         },
         {
           "label": 3,
           "text": "",
-          "image": "images/2022/q029_img3.png"
+          "image": "images/2022/v47/q029_choice3.png"
         },
         {
           "label": 4,
           "text": "",
-          "image": "images/2022/q029_img4.png"
+          "image": "images/2022/v47/q029_choice4.png"
         },
         {
           "label": 5,
           "text": "",
-          "image": "images/2022/q029_img5.png"
+          "image": "images/2022/v47/q029_choice5.png"
         }
       ],
       "answer_raw": "2",
-      "explanation": "해설)\n①4-META, ②10-MDP, ③ PENTA\n- 이는 10-MDP가 치질의 Ca와\n- 접착 기능성 단량체 인 10-m\n레진 시멘트는 MDP의 phosph\n기때문에 지르코니아 수복물에\nOH와 화학적으로 결합하는 접착 기능성 단량체\nA, ④Bis-GMA, ⑤ HEMA (치과보존학 4th, p.271,4\n와 결합함으로써 ~ (치과보존학 4th, p.271)\nmethacryloyloxydecyldihydrogenphosphate (MDP\nhate ester 단량체와 지르코니아의 hydroxyl기가\n추천된다 (치과보존학 4th, p.489).\n체는?\n488)\nP)를 포함한 접 착형\n가 화학적 결합을 하",
+      "explanation": "① 4-META, ② 10-MDP, ③ PENTA, ④ Bis-GMA, ⑤ HEMA (치과보존학 4th, p.271, 488)\n10-MDP는 치질의 Ca와 결합한다(치과보존학 4th, p.271).\n접착 기능성 단량체인 10-methacryloyloxydecyldihydrogenphosphate(MDP)를 포함한 접착형 레진 시멘트는 MDP의 phosphate ester 단량체와 지르코니아의 hydroxyl기가 화학적 결합을 하기 때문에 지르코니아 수복물에 추천된다(치과보존학 4th, p.489).",
       "images": [],
       "source_page": 30
     },
@@ -1588,7 +1588,7 @@
     {
       "id": "q051",
       "number": 51,
-      "question": "2018년 von stein-lausnitz의\ncentral incisors with class III de\n하여 가장 높은 fracture load 값",
+      "question": "2018년 von Stein-Lausnitz의 “Direct or indirect restoration of endodontically treated maxillary central incisors with class III defects? Composite vs veneer or crown restoration”에서 C 그룹과 비교하여 가장 높은 fracture load 값을 가지는 것은?",
       "choices": [
         {
           "label": 1,
@@ -1612,7 +1612,7 @@
         }
       ],
       "answer_raw": "2",
-      "explanation": "(최신저널 2018-4-3)\nResult Group V showed highes\nlowest mean fracture load(Fmax\n의 direct or indirect restoration of endodonitca\nfect? composite vs veneer or crown restoration\n값을 가지는 것은?\nst mean fracture load (Fmax=908N), while gro\nx=483N)\nally treated maxillary\nn에서 C 그룹과 비교\noup C presented the",
+      "explanation": "최신저널 2018-4-3\nResult: Group V showed highest mean fracture load (Fmax=908N), while group C presented the lowest mean fracture load (Fmax=483N).",
       "images": [
         "images/2022/q051_img1.jpeg"
       ],
@@ -1714,7 +1714,7 @@
     {
       "id": "q055",
       "number": 55,
-      "question": "2019년 operative dentistry\nSurface Roughness and Wear\nglazed ceramic의 wear test (120",
+      "question": "2019년 Operative Dentistry에 발표된 Daryakenari의 “Effect of Simulated Mastication on the Surface Roughness and Wear of Machinable Ceramics and Opposing Dental Enamel”에 따르면 glazed ceramic의 wear test (120,000 cycle) 후 가장 높은 opposite enamel wear가 발생한 재료는?",
       "choices": [
         {
           "label": 1,
@@ -1738,7 +1738,7 @@
         }
       ],
       "answer_raw": "1",
-      "explanation": "(최신저널 2019-1-2)\ny에 발표된 Daryakenari의 'Effect of Simulated\nof Machinable Ceramics and Opposing Denta\n0,000 cycle)후 가장 높은 opposite enamel wear\nMastication on the\nal Enamel'에 따르면\nr가 발생한 재료는?",
+      "explanation": "최신저널 2019-1-2 (원본 PDF에 별도 해설 문장 없음)",
       "images": [
         "images/2022/q055_img1.jpeg"
       ],
@@ -2029,21 +2029,22 @@
     {
       "id": "q065",
       "number": 65,
-      "question": "다음 중 근관 만곡 측정하는\nA.",
+      "question": "다음 중 근관 만곡을 측정하는 방법으로 Schneider 방법은?",
       "choices": [],
       "answer_raw": "1",
-      "explanation": "(뉴저널2019년 1분기 두번\nsystemic and critical review)\n논문 사진 그대로 나왔습니다. 2\n63번 문제랑 동일합니다. Sc\n는 방법으로 Schneider 방법은?\n번째 , Measurements for measurement of roo\n2번은 Weine, 나머지는 정확히 뭐였는지 기억이\nchneider, Weine 제외하고 나머지는 중요도가 떨\nt canal curvature: a\n이 안나요. 2020년1차\n떨어져 보입니다.",
+      "explanation": "뉴저널 2019년 1분기 두 번째, “Measurements for measurement of root canal curvature: a systematic and critical review”\n논문 사진 그대로 나왔습니다. 2번은 Weine, 나머지는 정확히 뭐였는지 기억이 안 납니다. 2020년 1차 63번 문제와 동일합니다. Schneider, Weine 제외하고 나머지는 중요도가 떨어져 보입니다.",
       "images": [
-        "images/2022/q065_img1.jpeg",
-        "images/2022/q065_img2.jpeg",
-        "images/2022/q065_img3.jpeg"
+        "images/2022/v47/q065_question_figures.png"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "explanationImages": [
+        "images/2022/v47/q065_reference.png"
+      ]
     },
     {
       "id": "q066",
       "number": 66,
-      "question": "Fan의 C-shaped canal 분류",
+      "question": "Fan의 C-shaped canal 분류법에 따른 다음의 분류는?",
       "choices": [
         {
           "label": 1,
@@ -2067,12 +2068,14 @@
         }
       ],
       "answer_raw": "2",
-      "explanation": "(Pathway 11판 201쪽)\nPathway 사진 그대로 나왔습니\n법에 따른 다음의 분류는?\n다",
+      "explanation": "Pathway 11판 p.201\nPathway 사진 그대로 나왔습니다.",
       "images": [
-        "images/2022/q066_img1.jpeg",
-        "images/2022/q066_img2.png"
+        "images/2022/v47/q066_question.png"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "explanationImages": [
+        "images/2022/v47/q066_reference.png"
+      ]
     },
     {
       "id": "q067",
@@ -2167,16 +2170,37 @@
     {
       "id": "q070",
       "number": 70,
-      "question": "2019년 Abbott의 논문 “Diagnosis and Management of Transverse Root Fracture”. 다음 치근\n파절 중 골-결합조직에 의해 치유된 것은?\n②\n④",
-      "choices": [],
-      "answer_raw": "4",
-      "explanation": "(근관 최신논문 19-4-1 Diagnosis and Management of Transverse Root Fracture)",
-      "images": [
-        "images/2022/q070_img1.jpeg",
-        "images/2022/q070_img2.jpeg",
-        "images/2022/q070_img3.jpeg",
-        "images/2022/q070_img4.jpeg"
+      "question": "2019년 Abbott의 논문 “Diagnosis and Management of Transverse Root Fracture”. 다음 치근 파절 중 골-결합조직에 의해 치유된 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "",
+          "image": "images/2022/v47/q070_choice1.png"
+        },
+        {
+          "label": 2,
+          "text": "",
+          "image": "images/2022/v47/q070_choice2.png"
+        },
+        {
+          "label": 3,
+          "text": "",
+          "image": "images/2022/v47/q070_choice3.png"
+        },
+        {
+          "label": 4,
+          "text": "",
+          "image": "images/2022/v47/q070_choice4.png"
+        },
+        {
+          "label": 5,
+          "text": "",
+          "image": "images/2022/v47/q070_choice5.png"
+        }
       ],
+      "answer_raw": "4",
+      "explanation": "근관 최신논문 19-4-1 “Diagnosis and Management of Transverse Root Fracture”",
+      "images": [],
       "source_page": 72
     },
     {
@@ -2365,7 +2389,7 @@
     {
       "id": "q077",
       "number": 77,
-      "question": "그림 1과 2는 나이타이 파일의 두가지 파절 양상의 단면을 나타내는 사진이다 그림 2의 파절\n양상에서 관찰할 수 있는 특징적인 소견이 아닌 것은?",
+      "question": "그림 1과 2는 나이타이 파일의 두 가지 파절 양상의 단면을 나타내는 사진이다. 그림 2의 파절 양상에서 관찰할 수 있는 특징적인 소견이 아닌 것은?\n(아래 그림은 위에서부터 그림 1, 그림 2 순서)",
       "choices": [
         {
           "label": 1,
@@ -2389,10 +2413,10 @@
         }
       ],
       "answer_raw": "5",
-      "explanation": "(최신 근관치료학p.330)\n그림 1 cyclic fatigue fracture/ 그림 2 torsional fracture\n5번은 cyclic fatigue fracture 내용입니다.\n그림 1\n그림 2",
+      "explanation": "최신 근관치료학 p.330\n그림 1: cyclic fatigue fracture / 그림 2: torsional fracture\n5번은 cyclic fatigue fracture 내용입니다.",
       "images": [
-        "images/2022/q077_img1.jpeg",
-        "images/2022/q077_img2.jpeg"
+        "images/2022/v47/q077_figure1.png",
+        "images/2022/v47/q077_figure2.png"
       ],
       "source_page": 80
     },
@@ -2553,24 +2577,24 @@
     {
       "id": "q083",
       "number": 83,
-      "question": "2019년 OYS Lee가 발표한 Influence of apical preparation size and irrigation technique on root\ncanal debridement: a histological analysis of round and oval root canals의 일부이다. 맞는 설명은?\n되는 debris 양은 유사하다.\nextrusion 되는 debris 양이 적다.",
+      "question": "2019년 OYS Lee가 발표한 “Influence of apical preparation size and irrigation technique on root canal debridement: a histological analysis of round and oval root canals”의 일부이다. 맞는 설명은?",
       "choices": [
         {
           "label": 1,
-          "text": "Ultrasonic irrigation 시 apical size 를 #20까지 한 그룹과 #40까지 한 그룹의 extrusion"
+          "text": "Ultrasonic irrigation 시 apical size를 #20까지 한 그룹과 #40까지 한 그룹의 extrusion 되는 debris 양은 유사하다."
         },
         {
           "label": 2,
-          "text": "Apical size #20으로 syringe irrigation시 apical size #20으로 ultrasonic irrigation 그룹보다"
+          "text": "Apical size #20으로 syringe irrigation 시 apical size #20으로 ultrasonic irrigation 그룹보다 extrusion 되는 debris 양이 적다."
         }
       ],
       "answer_raw": "1",
-      "explanation": "(최신저널 ENDO 19-3-5)\n나머지 보기들은 보기 2번과 유사하게 두 그룹의 결과를 비교하는 문장이였고, 논문 내용 몰라도\n표 해석으로 풀 수 있는 문제로 출제되었습니다.",
+      "explanation": "최신저널 ENDO 19-3-5\n나머지 보기들은 보기 2번과 유사하게 두 그룹의 결과를 비교하는 문장이었고, 논문 내용 몰라도 표 해석으로 풀 수 있는 문제로 출제되었습니다.",
       "images": [
         "images/2022/q083_img1.jpeg"
       ],
       "source_page": 86,
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q084",
@@ -2998,7 +3022,7 @@
     {
       "id": "q098",
       "number": 98,
-      "question": "포스트 제거에 이용하는 기",
+      "question": "포스트 제거에 이용하는 기구는 무엇?",
       "choices": [
         {
           "label": 1,
@@ -3022,7 +3046,7 @@
         }
       ],
       "answer_raw": "1",
-      "explanation": "( Pathway of the pulp 한\n구는 무엇?\n한글판 p973 )",
+      "explanation": "Pathway of the Pulp 한글판 p.973",
       "images": [
         "images/2022/q098_img1.jpeg"
       ],
