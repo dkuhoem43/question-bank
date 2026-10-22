@@ -28,11 +28,12 @@
           "text": "각화치은이 충분할 때 치경부 병소 수복을 위해 gingivoplasty를 시행할 수 있다."
         }
       ],
-      "answer_raw": "5 (보존 5판 p.453)",
-      "explanation": "",
+      "answer_raw": "5",
+      "explanation": "보존 5판 p.453",
       "images": [],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "5"
     },
     {
       "id": "q002",
@@ -60,15 +61,19 @@
           "text": "답 없음"
         }
       ],
-      "answer_raw": "2번 (pop 10판 한글판 p.38, pop 12판 p.29)",
-      "explanation": "",
+      "answer_raw": "2",
+      "explanation": "POP 10판 한글판 p.38, POP 12판 p.29",
       "images": [
         "images/2026/q002_001.png"
       ],
       "explanation_images": [
         "images/2026/q002_002.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "2",
+      "explanationImages": [
+        "images/2026/q002_002.png"
+      ]
     },
     {
       "id": "q003",
@@ -96,11 +101,12 @@
           "text": "C 섬유는 수초로 둘러싸여 반응 역치가 낮다"
         }
       ],
-      "answer_raw": "3 (근관치료학 p.22)",
-      "explanation": "",
+      "answer_raw": "3",
+      "explanation": "근관치료학 p.22",
       "images": [],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "3"
     },
     {
       "id": "q004",
@@ -128,11 +134,12 @@
           "text": "type V"
         }
       ],
-      "answer_raw": "1 (근관치료학 p.19)",
-      "explanation": "",
+      "answer_raw": "1",
+      "explanation": "근관치료학 p.19",
       "images": [],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "1"
     },
     {
       "id": "q005",
@@ -160,11 +167,12 @@
           "text": "백악질 손상 시 재생 세포 공급하는 기능"
         }
       ],
-      "answer_raw": "5 (근관치료학 p.15)",
-      "explanation": "",
+      "answer_raw": "5",
+      "explanation": "근관치료학 p.15",
       "images": [],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "5"
     },
     {
       "id": "q006",
@@ -192,13 +200,14 @@
           "text": "Compartment theory"
         }
       ],
-      "answer_raw": "4 (근관치료학 23p)",
-      "explanation": "",
+      "answer_raw": "4",
+      "explanation": "근관치료학 p.23",
       "images": [
         "images/2026/q006_003.png"
       ],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "4"
     },
     {
       "id": "q007",
@@ -467,30 +476,33 @@
       "choices": [
         {
           "label": 1,
-          "text": ""
+          "text": "1"
         },
         {
           "label": 2,
-          "text": ""
+          "text": "2"
         },
         {
           "label": 3,
-          "text": ""
+          "text": "3"
         },
         {
           "label": 4,
-          "text": ""
+          "text": "4"
         },
         {
           "label": 5,
-          "text": ""
+          "text": "5"
         }
       ],
       "answer_raw": "5",
       "explanation": "",
-      "images": [],
+      "images": [
+        "images/2026/q015_original.png"
+      ],
       "explanation_images": [],
-      "answer_only": true
+      "answer_only": false,
+      "answer_display": "5"
     },
     {
       "id": "q016",
@@ -719,7 +731,10 @@
       "explanation_images": [
         "images/2026/q022_007.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q022_007.png"
+      ]
     },
     {
       "id": "q023",
@@ -755,7 +770,10 @@
       "explanation_images": [
         "images/2026/q023_009.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q023_009.png"
+      ]
     },
     {
       "id": "q024",
@@ -1650,36 +1668,36 @@
       "choices": [
         {
           "label": 1,
-          "text": "4-META 2) 3)"
+          "text": "4-META",
+          "image": "images/2026/q051_023.png"
         },
         {
           "label": 2,
-          "text": ""
+          "text": "",
+          "image": "images/2026/q051_024.png"
         },
         {
           "label": 3,
-          "text": ""
+          "text": "",
+          "image": "images/2026/q051_025.png"
         },
         {
           "label": 4,
-          "text": "10-MDP"
+          "text": "10-MDP",
+          "image": "images/2026/q051_026.png"
         },
         {
           "label": 5,
-          "text": "PENTA-P"
+          "text": "PENTA-P",
+          "image": "images/2026/q051_027.png"
         }
       ],
-      "answer_raw": "1) 4-META는 카르복실기, 나머지는 인산기를 가짐",
-      "explanation": "",
-      "images": [
-        "images/2026/q051_023.png",
-        "images/2026/q051_024.png",
-        "images/2026/q051_025.png",
-        "images/2026/q051_026.png",
-        "images/2026/q051_027.png"
-      ],
+      "answer_raw": "1",
+      "explanation": "4-META는 카르복실기, 나머지는 인산기를 가짐",
+      "images": [],
       "explanation_images": [],
-      "answer_only": false
+      "answer_only": false,
+      "answer_display": "1"
     },
     {
       "id": "q052",
@@ -2069,7 +2087,10 @@
       "explanation_images": [
         "images/2026/q063_030.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q063_030.png"
+      ]
     },
     {
       "id": "q064",
@@ -2109,7 +2130,10 @@
       "explanation_images": [
         "images/2026/q064_036.png"
       ],
-      "answer_only": true
+      "answer_only": true,
+      "explanationImages": [
+        "images/2026/q064_036.png"
+      ]
     },
     {
       "id": "q065",
@@ -2241,7 +2265,10 @@
       "explanation_images": [
         "images/2026/q068_038.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q068_038.png"
+      ]
     },
     {
       "id": "q069",
@@ -2504,7 +2531,10 @@
       "explanation_images": [
         "images/2026/q076_042.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q076_042.png"
+      ]
     },
     {
       "id": "q077",
@@ -2862,7 +2892,10 @@
       "explanation_images": [
         "images/2026/q087_045.png"
       ],
-      "answer_only": false
+      "answer_only": false,
+      "explanationImages": [
+        "images/2026/q087_045.png"
+      ]
     },
     {
       "id": "q088",
@@ -3039,15 +3072,15 @@
         },
         {
           "label": 3,
-          "text": "절개선 위에 knot를 준다 4.Ethibond는 대표적인 흡수성 봉합사이다 5.Plaingut은 collagen으로 만들어진 monofilament fiber이며, 합성된 봉합사보다는 조직액의 침투에 저 항성이 있어 상처부위의 치유가 더 우수하다."
+          "text": "절개선 위에 knot를 준다"
         },
         {
           "label": 4,
-          "text": ""
+          "text": "Ethibond는 대표적인 흡수성 봉합사이다"
         },
         {
           "label": 5,
-          "text": ""
+          "text": "Plaingut은 collagen으로 만들어진 monofilament fiber이며, 합성된 봉합사보다는 조직액의 침투에 저 항성이 있어 상처부위의 치유가 더 우수하다."
         }
       ],
       "answer_raw": "5",
@@ -3059,34 +3092,34 @@
     {
       "id": "q094",
       "number": 94,
-      "question": "수직절개 시 원칙으로 옳은 것을 고르시오\n① 절개선은 골막상 혈관에 수직으로 한다\n② 소대와 근육부착은 거상되는 조직에 위치시킨다\n③ 절개선은 bony eminence 상방에 둔다\n④ 치유두를 하고 절단한다\n⑤ 절개선은 healthy bone 직상방에 위치시킨다",
+      "question": "수직절개 시 원칙으로 옳은 것을 고르시오",
       "choices": [
         {
           "label": 1,
-          "text": ""
+          "text": "절개선은 골막상 혈관에 수직으로 한다"
         },
         {
           "label": 2,
-          "text": ""
+          "text": "소대와 근육부착은 거상되는 조직에 위치시킨다"
         },
         {
           "label": 3,
-          "text": ""
+          "text": "절개선은 bony eminence 상방에 둔다"
         },
         {
           "label": 4,
-          "text": ""
+          "text": "치유두를 하고 절단한다"
         },
         {
           "label": 5,
-          "text": ""
+          "text": "절개선은 healthy bone 직상방에 위치시킨다"
         }
       ],
       "answer_raw": "5",
       "explanation": "",
       "images": [],
       "explanation_images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q095",
