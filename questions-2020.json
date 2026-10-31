@@ -31,7 +31,7 @@
       "answer_raw": "2",
       "explanation": "치과보존학 4판 p.34\n따라서 암대의 크기는 최근에 일어난 재광화의 양을 말해주는 지표라 볼 수 있다.",
       "images": [],
-      "source_page": 20
+      "source_page": 1
     },
     {
       "id": "q002",
@@ -61,10 +61,11 @@
       ],
       "answer_raw": "1",
       "explanation": "치과보존학 4판 p.26",
-      "images": [
+      "images": [],
+      "source_page": 1,
+      "explanationImages": [
         "images/2020/q002_img1.jpeg"
-      ],
-      "source_page": 1
+      ]
     },
     {
       "id": "q003",
@@ -155,7 +156,7 @@
       "answer_raw": "2",
       "explanation": "/ 필독 A 1-1-2",
       "images": [],
-      "source_page": 39
+      "source_page": 2
     },
     {
       "id": "q006",
@@ -418,12 +419,24 @@
         {
           "label": 2,
           "text": "상아질에 존재하는 도말층은 긴밀하게 연결되어 있으며 상아세관을 막아 상아세관액의 투과성을 86% 감소시킨다."
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "1",
       "explanation": "? (2번은 도말층은 느슨하게 연결되어 있음 치과 보존학 p.265~266)",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q015",
@@ -433,12 +446,28 @@
         {
           "label": 1,
           "text": "아말감은 열 팽창과 수축이 반복될 경우 수복물과 치아 계면 사이의 틈이 증가한다."
+        },
+        {
+          "label": 2,
+          "text": "미복원"
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "1",
       "explanation": "나머지는 다 틀린 얘기 였어요",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q016",
@@ -456,13 +485,21 @@
         {
           "label": 3,
           "text": "Griffith defect theory에 의하면 취성이 강한 재료의 인장 강도는 단면적이 증가할수록 증가한다."
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "",
       "explanation": "?? 모르겠어요 ㅠㅠㅠ\n(필독 B-1-1-4, 교합면 상아질은 인접면 상아질보다 접착 강도 낮음, 미맹출 제3대구치는 맹출된 경화상아질 보다 접착강도가 높다,\nGriffith의 defect theory에 따르면 취성이 높은 재료의 인장강도는 cross-sectional area가 증가함에 따라 감소한다.)",
       "images": [],
-      "source_page": 7,
-      "answer_only": true
+      "source_page": 6,
+      "answer_only": false
     },
     {
       "id": "q017",
@@ -492,7 +529,9 @@
       ],
       "answer_raw": "5",
       "explanation": "(Small letter, capital letter 대조를 통해 유추할 수 있음)",
-      "images": [],
+      "images": [
+        "images/2020/q017_img1.jpeg"
+      ],
       "source_page": 7
     },
     {
@@ -559,7 +598,7 @@
     {
       "id": "q020",
       "number": 20,
-      "question": ". 2018년 sauro의 논문에 따른 Bioacitve glass 처리의 효과로 옳은 것은?",
+      "question": "2018년 sauro의 논문에 따른 Bioacitve glass 처리의 효과로 옳은 것은?",
       "choices": [
         {
           "label": 1,
@@ -585,7 +624,10 @@
       "answer_raw": "5",
       "explanation": "최신OP 18-2-1 결과표와 본문을 보면 5번이 가장 확실한 문장인 것 같습니다..",
       "images": [],
-      "source_page": 8
+      "source_page": 8,
+      "explanationImages": [
+        "images/2020/q020_img1.jpeg"
+      ]
     },
     {
       "id": "q021",
@@ -701,22 +743,47 @@
         {
           "label": 4,
           "text": "cathepsin"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "1",
       "explanation": ". hypochlorous acid 보기 순서는 다를 수 있음.",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q025",
       "number": 25,
       "question": "다음 괄호 안에 들어갈 알맞은 말을 차례대로 나열한 보기는?\n우수한 접착을 얻기 위해서는, 접착제와 피착면 사이에 긴밀한 접촉이 존재해야 하며 접착제 표면장력이\n피착면의 표면에너지보다 ( )아야 한다. 법랑질의 주성분은 수산화인회석이며, ( )은 표면장력을 가지는\n데 반해 상아질은 수산화인회석과 교원질로 구성되어 있으며 표면장력이 더 ( )다. 따라서 법랑질에서의\n접착제확산이 더 ( )고, 접착효율이 상아질에서보다 ( )게 나타난다.",
-      "choices": [],
+      "choices": [
+        {
+          "label": 1,
+          "text": "미복원"
+        },
+        {
+          "label": 2,
+          "text": "미복원"
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
+        }
+      ],
       "answer_raw": "1",
       "explanation": ". (낮)-(높)-(낮)-(높)-(높) (답)",
       "images": [],
-      "answer_only": true,
+      "answer_only": false,
       "answer_display": "1. (낮)-(높)-(낮)-(높)-(높)"
     },
     {
@@ -962,16 +1029,18 @@
         },
         {
           "label": 5,
-          "text": "설측 접근으로 인해 제거하지 못 한 우식이 남음.\n해설) 『치과보존학』 4판 그림 15-4"
+          "text": "설측 접근으로 인해 제거하지 못 한 우식이 남음."
         }
       ],
       "answer_raw": "5",
-      "explanation": "",
+      "explanation": "해설) 『치과보존학』 4판 그림 15-4",
       "images": [
-        "images/2020/q033_img1.jpeg",
-        "images/2020/q033_img2.jpeg"
+        "images/2020/q033_img1.jpeg"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "explanationImages": [
+        "images/2020/q033_img2.jpeg"
+      ]
     },
     {
       "id": "q034",
@@ -1437,7 +1506,7 @@
       "answer_raw": "3",
       "explanation": ") Abfraction 보존학 4판 p.390",
       "images": [
-        "images/2020/q048_img1.jpeg"
+        "images/2020/q048_source-composite.png"
       ],
       "source_page": 20
     },
@@ -1470,13 +1539,12 @@
       "answer_raw": "3",
       "explanation": ", carbamide dioxide -> carbon dioxide Fundamental 4판, p418 Fig 16-5 그대로 나옴, 참고",
       "images": [
-        "images/2020/q049_img1.jpeg",
-        "images/2020/q049_img2.jpeg",
-        "images/2020/q049_img3.jpeg",
-        "images/2020/q049_img4.jpeg",
-        "images/2020/q049_img5.jpeg"
+        "images/2020/q049_source-composite.png"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "explanationImages": [
+        "images/2020/q050_img1.jpeg"
+      ]
     },
     {
       "id": "q050",
@@ -1691,7 +1759,10 @@
       "answer_raw": "2",
       "explanation": ", 2008년 IEJ 논문 abstract 내용",
       "images": [],
-      "source_page": 24
+      "source_page": 23,
+      "explanationImages": [
+        "images/2020/q056_img1.jpeg"
+      ]
     },
     {
       "id": "q057",
@@ -1721,10 +1792,11 @@
       ],
       "answer_raw": "2",
       "explanation": ", 2018년 2분기 Mainkar & Kim 의 systematic review 내용",
-      "images": [
+      "images": [],
+      "source_page": 24,
+      "explanationImages": [
         "images/2020/q057_img1.jpeg"
-      ],
-      "source_page": 24
+      ]
     },
     {
       "id": "q058",
@@ -1836,12 +1908,16 @@
         {
           "label": 4,
           "text": "Glutaraldehyde"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "4",
       "explanation": ". Glutaraldehyde(ref. 근관치료학 p 239)",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q062",
@@ -1862,28 +1938,71 @@
       "id": "q063",
       "number": 63,
       "question": "Hartmann, 2019 IEJ (뉴저널) 근관 만곡 측정하는 방법중 Schneider의 방법을 고르시오.\n(만곡측정방법을 제시한 여러 저자별 측정법 그림이 다섯개 보기였음)",
-      "choices": [],
+      "choices": [
+        {
+          "label": 1,
+          "text": "미복원"
+        },
+        {
+          "label": 2,
+          "text": "미복원"
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
+        }
+      ],
       "answer_raw": "1",
       "explanation": "(아래 그림)\n나머지 보기는 이 논문에서 다른 그림들이 보기로 나왔습니다.\nx`",
-      "images": [
-        "images/2020/q063_img1.jpeg"
-      ],
+      "images": [],
       "source_page": 26,
-      "answer_only": true,
-      "answer_display": "① (Schneider method)"
+      "answer_only": false,
+      "answer_display": "① (Schneider method)",
+      "explanationImages": [
+        "images/2020/q063_img1.jpeg"
+      ]
     },
     {
       "id": "q064",
       "number": 64,
       "question": "아래 그림 (Pathway 10판 231쪽 그림7-160) 주고 치수저 분류하는 문제",
-      "choices": [],
+      "choices": [
+        {
+          "label": 1,
+          "text": "미복원"
+        },
+        {
+          "label": 2,
+          "text": "미복원"
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
+        }
+      ],
       "answer_raw": "4",
       "explanation": "Type IV",
       "images": [
         "images/2020/q064_img1.jpeg"
       ],
       "source_page": 26,
-      "answer_only": true,
+      "answer_only": false,
       "answer_display": "④ Type IV"
     },
     {
@@ -1969,12 +2088,16 @@
         {
           "label": 4,
           "text": "조직산도이론…"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "1",
       "explanation": "",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q068",
@@ -2012,12 +2135,8 @@
     {
       "id": "q069",
       "number": 69,
-      "question": "2012, International Association of Dental Traumatology guidelines for the management of traumatic\ndental injuries:",
+      "question": "2012, International Association of Dental Traumatology guidelines for the management of traumatic\ndental injuries: 1. Fractures and luxations of permanent teeth 논문에서 제시한 성숙한 치아 치근 중앙에서\n파절되었을때 스플린트 기간으로 적절한것은?",
       "choices": [
-        {
-          "label": 1,
-          "text": "Fractures and luxations of permanent teeth 논문에서 제시한 성숙한 치아 치근 중앙에서\n파절되었을때 스플린트 기간으로 적절한것은?"
-        },
         {
           "label": 1,
           "text": "1주"
@@ -2032,11 +2151,15 @@
         },
         {
           "label": 4,
-          "text": "8주 8. 16주"
+          "text": "8주"
+        },
+        {
+          "label": 5,
+          "text": "16주"
         }
       ],
       "answer_raw": "3",
-      "explanation": ". 4주\nC-2-2-1",
+      "explanation": ". 4주\nC-2-2-1\n[원본 표기] 마지막 보기는 원본에서 “8. 16주”로 인쇄되어 있습니다. 다섯 번째 위치의 보기로 표시했습니다.",
       "images": []
     },
     {
@@ -2059,6 +2182,10 @@
         {
           "label": 4,
           "text": "calcium phosphate"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "3",
@@ -2067,7 +2194,7 @@
         "images/2020/q070_img1.jpeg"
       ],
       "source_page": 29,
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q071",
@@ -2179,12 +2306,16 @@
         {
           "label": 4,
           "text": "perforation"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "1",
       "explanation": ". ledge\n근관치료학 p327 Ledge 설명.",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q075",
@@ -2531,17 +2662,33 @@
       "question": "다음의 경우에 가장 효과적인 충전법은?",
       "choices": [
         {
+          "label": 1,
+          "text": "미복원"
+        },
+        {
           "label": 2,
           "text": "Thermoplastic injection technique"
+        },
+        {
+          "label": 3,
+          "text": "미복원"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
-      "answer_raw": "Thermoplastic injection technique",
+      "answer_raw": "2",
       "explanation": "Thermoplastic injection technique (Pathway 10판 p.399)",
       "images": [
         "images/2020/q086_img1.jpeg"
       ],
       "source_page": 34,
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q087",
@@ -2559,6 +2706,14 @@
         {
           "label": 3,
           "text": "Polyvinyl siloxane"
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
+          "text": "미복원"
         }
       ],
       "answer_raw": "2",
@@ -2567,12 +2722,12 @@
         "images/2020/q087_img1.jpeg"
       ],
       "source_page": 35,
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q088",
       "number": 88,
-      "question": "다음 실러중 실리콘계열인 것은? 5",
+      "question": "다음 실러중 실리콘계열인 것은?",
       "choices": [
         {
           "label": 1,
@@ -2587,19 +2742,23 @@
           "text": "Sealapex"
         },
         {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
           "label": 5,
           "text": "GuttaFlow"
         }
       ],
       "answer_raw": "5",
-      "explanation": "88번해설) POP 10판 한글판. 288p. silicon based sealer는 Roekoseal과 GuttaFlow 가 있다.",
+      "explanation": "88번해설) POP 10판 한글판. 288p. silicon based sealer는 Roekoseal과 GuttaFlow 가 있다.\n[원본 표기] 문제 뒤에 적힌 정답 숫자 5는 정답 영역으로 분리했습니다.",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q089",
       "number": 89,
-      "question": "2018년 Emel Uzunoglu의 논문인 effect of calcium hydroxide dressing on the dentinal tubule\npenetration 의 실험에서 형광물질과 calcium hydroxide를 섞어서 첩약시 상아세관으로 들어가는 정도를\n평가하기위해 사용한 현미경은? 5",
+      "question": "2018년 Emel Uzunoglu의 논문인 effect of calcium hydroxide dressing on the dentinal tubule\npenetration 의 실험에서 형광물질과 calcium hydroxide를 섞어서 첩약시 상아세관으로 들어가는 정도를\n평가하기위해 사용한 현미경은?",
       "choices": [
         {
           "label": 1,
@@ -2623,7 +2782,7 @@
         }
       ],
       "answer_raw": "5",
-      "explanation": "89번해설) 최신수복[18-2-2] confocal laser scanning microscope (CLSM, 공초점 레이저 주사현미경)을 이용하여 투과정도를 측정하였\n다.",
+      "explanation": "89번해설) 최신수복[18-2-2] confocal laser scanning microscope (CLSM, 공초점 레이저 주사현미경)을 이용하여 투과정도를 측정하였\n다.\n[원본 표기] 문제 뒤에 적힌 정답 숫자 5는 정답 영역으로 분리했습니다.",
       "images": [
         "images/2020/q089_img1.jpeg"
       ],
@@ -2632,7 +2791,7 @@
     {
       "id": "q090",
       "number": 90,
-      "question": "다음 방법은? 3",
+      "question": "다음 방법은?",
       "choices": [
         {
           "label": 1,
@@ -2656,7 +2815,7 @@
         }
       ],
       "answer_raw": "3",
-      "explanation": "해설) 출처 POP 25-61",
+      "explanation": "해설) 출처 POP 25-61\n[원본 표기] 문제 뒤에 적힌 정답 숫자 3는 정답 영역으로 분리했습니다.",
       "images": [
         "images/2020/q090_img1.jpeg"
       ],
@@ -2665,7 +2824,7 @@
     {
       "id": "q091",
       "number": 91,
-      "question": "다음 검사법은? 4",
+      "question": "다음 검사법은?",
       "choices": [
         {
           "label": 1,
@@ -2689,7 +2848,7 @@
         }
       ],
       "answer_raw": "4",
-      "explanation": "해설)출처 최신근관치료학 그림14-7",
+      "explanation": "해설)출처 최신근관치료학 그림14-7\n[원본 표기] 문제 뒤에 적힌 정답 숫자 4는 정답 영역으로 분리했습니다.",
       "images": [
         "images/2020/q091_img1.jpeg"
       ],
@@ -2772,7 +2931,7 @@
         },
         {
           "label": 2,
-          "text": "MTA Angelus"
+          "text": "MTA angelus"
         },
         {
           "label": 3,
@@ -2880,42 +3039,41 @@
       "answer_raw": "5",
       "explanation": "필독저널 C-6-1-2",
       "images": [],
-      "source_page": 39
+      "source_page": 38,
+      "explanationImages": [
+        "images/2020/q097_img1.jpeg"
+      ]
     },
     {
       "id": "q098",
       "number": 98,
-      "question": "microabrasion 사진\n윗쪽",
+      "question": "microabrasion 사진\n윗쪽  1) 술전사진 2)러버댐 격리하고 퍼미스 얹은 사진\n두번째줄  3) opalustre 제품사진  4) opalustre치면에 얹은 사진 / pH7 불소병 사진\n세번째줄 5) 술후사진\n-    사진이 교과서에 있는 microabrasion 사진 외에도 다른데서 더 나온 것 같습니다.\n다음 술식에 알맞은 것은?",
       "choices": [
         {
           "label": 1,
-          "text": "술전사진 2)러버댐 격리하고 퍼미스 얹은 사진\n두번째줄"
+          "text": "18% HCl과 퍼미스 이용한다."
+        },
+        {
+          "label": 2,
+          "text": "술전 방사선사진을 꼭 찍지 않아도 된다."
         },
         {
           "label": 3,
-          "text": "opalustre 제품사진"
+          "text": "시릴경우 APF가 효과적이다"
         },
         {
           "label": 4,
-          "text": "opalustre치면에 얹은 사진 / pH7 불소병 사진\n세번째줄"
+          "text": "열, 빛, 레이저 사용시 효과가 증가한다."
         },
         {
           "label": 5,
-          "text": "술후사진\n-\n사진이 교과서에 있는 microabrasion 사진 외에도 다른데서 더 나온 것 같습니다.\n다음 술식에 알맞은 것은?"
-        },
-        {
-          "label": 1,
-          "text": "18% HCl과 퍼미스 이용한다.\n2) 술전 방사선사진을 꼭 찍지 않아도 된다.\n3) 시릴경우 APF가 효과적이다\n4) 열, 빛, 레이저 사용시 효과가 증가한다.\n5) 법랑질과 상아질을 일부 제거하는 술식이다."
+          "text": "법랑질과 상아질을 일부 제거하는 술식이다."
         }
       ],
       "answer_raw": "1",
       "explanation": ".\n-\n3번은 잘 모르겠습니다. 이 술식에서 불소겔은 재광화위해 도포하는 것으로 알고 있습니다. 시린데도 불소가 작용할 것\n같은데 불소겔사진이 pH 7으로 나와서 제외했습니다.\n-\n술전 방사선사진 찍어야 함. 기계적 제거하는 것이므로 열, 빛, 레이저 효과없음. 상아질은 제거하면 안됨. 법랑질 0.2mm\n제거.",
       "images": [
-        "images/2020/q098_img1.jpeg",
-        "images/2020/q098_img2.jpeg",
-        "images/2020/q098_img3.jpeg",
-        "images/2020/q098_img4.jpeg",
-        "images/2020/q098_img5.jpeg"
+        "images/2020/q098_source-composite.png"
       ],
       "source_page": 39
     },

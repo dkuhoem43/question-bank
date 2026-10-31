@@ -124,6 +124,9 @@
       "explanation": "해설 : 문제에는 안 나와있었지만 논문 제목이 답입니다...\nA-2-3-3 Kim S, Ligamental injection: a physiological explanation of its efficacy",
       "images": [
         "images/2021/q005_img1.png"
+      ],
+      "explanationImages": [
+        "images/2021/q004_img2.png"
       ]
     },
     {
@@ -408,7 +411,7 @@
         },
         {
           "label": 5,
-          "text": "Clinipro XT, Clinipro WV, Nupro, Nano p, Teeth mate, Duraphat을 실험에 사용했다."
+          "text": "Clinipro XT, Clinipro WV, Nupro, Nano p, Teeth mate, Duraphat을 실험군으로 사용했다."
         }
       ],
       "answer_raw": "5",
@@ -423,7 +426,7 @@
     {
       "id": "q015",
       "number": 15,
-      "question": "간접치수복조술에 대해 옳은것은?\n러버댐이 필요없다\n지혈이 중요하다\nCopalite 가 이장재로 주로 사용된다\nCa(OH) 2 가잔존상아질 위에 적용될수 일다",
+      "question": "간접치수복조술에 대해 옳은것은?",
       "choices": [
         {
           "label": 1,
@@ -443,7 +446,7 @@
         },
         {
           "label": 5,
-          "text": "Ca(OH) 2 가 잔존상아질 위에 적용될 수 있다"
+          "text": "Ca(OH) 2 가잔존상아질 위에 적용될수 일다"
         }
       ],
       "answer_raw": "5",
@@ -455,7 +458,7 @@
     {
       "id": "q016",
       "number": 16,
-      "question": "최신저널\nTEM사진에서 표시한 부분과 알맞게 짝지어진것\n보기) 레진/치아/reticular nanoleakage/nanoleakage/nano layering\n해설을 보면 손가락 모양이 reticular nanoleakage / 화살표가 hybrid layer 삼각형이 spotted nanoleakage",
+      "question": "최신저널\nTEM사진에서 표시한 부분과 알맞게 짝지어진것\n보기) 레진/치아/reticular nanoleakage/nanoleakage/nano layering",
       "choices": [
         {
           "label": 1,
@@ -479,7 +482,7 @@
         }
       ],
       "answer_raw": "미복원",
-      "explanation": "해설을 보면 손가락 모양이 reticular nanoleakage / 화살표가 hybrid layer / 삼각형이 spotted nanoleakage로 표시됩니다.",
+      "explanation": "해설을 보면 손가락 모양이 reticular nanoleakage / 화살표가 hybrid layer 삼각형이 spotted nanoleakage",
       "images": [
         "images/2021/q016_fig1.jpg",
         "images/2021/q016_fig2.jpg"
@@ -729,7 +732,7 @@
       "question": "amalgam polishing & finishing 순서",
       "choices": [],
       "answer_raw": "carbide bur → coarse rubber point → medium rubber point → fine rubber point",
-      "explanation": "치과보존학 p.217\n시험에 출제된 사진과 동일한 그림은 A&S Fig. 10.24부터 확인할 수 있습니다.",
+      "explanation": "치과보존학 p.217\n####26번 답 순서 확인 부탁드려요. 시험에 출제된 사진 똑같은게 A&S fig. 10.24부터있습니다.",
       "images": [],
       "answer_only": true,
       "answer_display": "carbide bur → coarse rubber point → medium rubber point → fine rubber point"
@@ -898,8 +901,7 @@
       "answer_raw": "1",
       "explanation": "",
       "images": [
-        "images/2021/q005_img6.png",
-        "images/2021/q005_img7.png"
+        "images/2021/q005_img6.png"
       ]
     },
     {
@@ -935,7 +937,9 @@
       ],
       "answer_raw": "2",
       "explanation": "",
-      "images": []
+      "images": [
+        "images/2021/q005_img7.png"
+      ]
     },
     {
       "id": "q034",
@@ -1238,8 +1242,29 @@
     {
       "id": "q044",
       "number": 44,
-      "question": "다음 수용성 기구에 대한 설명으로 틀린것은?\n(13-95-8-14)\n8\n95\n14\n이 기구의 이름은 아말감 캐리어다",
-      "choices": [],
+      "question": "다음 수용성 기구에 대한 설명으로 틀린것은?\n(13-95-8-14)",
+      "choices": [
+        {
+          "label": 1,
+          "text": "8"
+        },
+        {
+          "label": 2,
+          "text": "95"
+        },
+        {
+          "label": 3,
+          "text": "1.3"
+        },
+        {
+          "label": 4,
+          "text": "14"
+        },
+        {
+          "label": 5,
+          "text": "이 기구의 이름은 아말감 캐리어다"
+        }
+      ],
       "answer_raw": "5",
       "explanation": "",
       "images": [
@@ -1309,7 +1334,7 @@
     {
       "id": "q047",
       "number": 47,
-      "question": "CAD/CAM에 대해서 다음 중 옳은 것은?\n2) CAD/CAM이란 computer-aided design/computer-aided milling의 약자이다.\n4) 변연은 예각이 있게 마무리한다.",
+      "question": "CAD/CAM에 대해서 다음 중 옳은 것은?",
       "choices": [
         {
           "label": 1,
@@ -1321,7 +1346,7 @@
         },
         {
           "label": 3,
-          "text": "기공실 내 CAD/CAM 중 ceramic system들은 주로 건식 블록을 사용한다."
+          "text": "기공실 내 cadcam중  ceramic system들은 주로 건식 블록을 사용한다."
         },
         {
           "label": 4,
@@ -1414,23 +1439,44 @@
     {
       "id": "q051",
       "number": 51,
-      "question": "교과서 그림 19-3. 다음 그림은 무엇을 위한 용도인가?\n순면의 삭제량 확인",
+      "question": "교과서 그림 19-3. 다음 그림은 무엇을 위한 용도인가?",
       "choices": [],
-      "answer_raw": "미복원",
-      "explanation": "교과서 그림 19-3. 순면의 삭제량 확인을 위한 용도입니다.",
+      "answer_raw": "순면의 삭제량 확인",
+      "explanation": "",
       "images": [
         "images/2021/q001_img5.png"
       ],
       "answer_only": true,
-      "answer_display": "정답 미복원"
+      "answer_display": "순면의 삭제량 확인"
     },
     {
       "id": "q052",
       "number": 52,
-      "question": "",
-      "choices": [],
+      "question": "(필독 B 7-1-1-5) 2009년 Vrocharia 등의 논문 내용에 근거하여 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "중합율을 높이기 위해 광중합 시간을 길게 조사한다."
+        },
+        {
+          "label": 2,
+          "text": "광중합기를 가까이 위치시켜 중합율을 높일 수 있다."
+        },
+        {
+          "label": 3,
+          "text": "중합율 증가를 위해 SARC 보다 conventional resin  cement를 사용한다."
+        },
+        {
+          "label": 4,
+          "text": "SARC에서 sodium aryl sufate 또는 aryl-borate salt를 제거한다."
+        },
+        {
+          "label": 5,
+          "text": "acidic monomer와 반응할 수 있는 amine을 제거한다."
+        }
+      ],
       "answer_raw": "4",
-      "explanation": "중합율을 높이기 위해 광중합 시간을 길게 조사한다.\n광중합기를 가까이 위치시켜 중합율을 높일 수 있다.\n중합율 증가를 위해 SARC 보다 conventional resin cement를 사용한다.\nSARC에서 sodium aryl sufate 또는 aryl-borate salt를 제거한다.\nacidic monomer와 반응할 수 있는 amine을 제거한다.",
+      "explanation": "",
       "images": [
         "images/2021/q001_img6.png"
       ]
@@ -1438,10 +1484,31 @@
     {
       "id": "q053",
       "number": 53,
-      "question": "",
-      "choices": [],
+      "question": "다음 중 시멘트의 설명으로 옳지 않은 것은?",
+      "choices": [
+        {
+          "label": 1,
+          "text": "4-META를 포함하는 레진시멘트는 금속과 결합한다."
+        },
+        {
+          "label": 2,
+          "text": "polyadenyl acid를 포함하는 GI 시멘트는 광중합이 가능하다."
+        },
+        {
+          "label": 3,
+          "text": "polyHEMA 를 포함하는 RMGI 시멘트는 수화팽창을 일으킨다."
+        },
+        {
+          "label": 4,
+          "text": "MDP를 포함하는 레진시멘트는 지르코니아와 결합한다."
+        },
+        {
+          "label": 5,
+          "text": "Benzoyl peroxide를 포함하는 레진시멘트는 자가중합이 가능하다."
+        }
+      ],
       "answer_raw": "2",
-      "explanation": "4-META를 포함하는 레진시멘트는 금속과 결합한다.\npolyadenyl acid를 포함하는 GI 시멘트는 광중합이 가능하다.\npolyHEMA 를 포함하는 RMGI 시멘트는 수화팽창을 일으킨다.\nMDP를 포함하는 레진시멘트는 지르코니아와 결합한다.\nBenzoyl peroxide를 포함하는 레진시멘트는 자가중합이 가능하다.",
+      "explanation": "",
       "images": []
     },
     {
@@ -1533,8 +1600,9 @@
         }
       ],
       "answer_raw": "2",
-      "explanation": "해설 : 문제 양식으로 봤을 때 출처가 클래식인줄 알았는데 Pathways of the pulp입니다\n패스웨이 10판 p.156 / 11판 p.139 vertucci 표\n측절치 0%, 제1소구치 62%, 제2소구치 11%, 제1대구치 근심협측 18%, 제2대구치 근심협측 12%",
-      "images": [
+      "explanation": "해설 : 문제 양식으로 봤을 때 출처가 클래식인줄 알았는데 Pathways of the pulp입니다\n패스웨이 10판 p.156 / 11판 p.139 vertucci 표\n측절치 0%, 제1소구치 62%, 제2소구치 11%, 제1대구치 근심협측 18%,\n          제2대구치 근심협측 12%",
+      "images": [],
+      "explanationImages": [
         "images/2021/q055_img2.png"
       ]
     },
@@ -1566,7 +1634,8 @@
       ],
       "answer_raw": "5",
       "explanation": "해설 : 이것도 Pathways of the pulp네요\n패스웨이 10판 p.160 / 11판 p. 143",
-      "images": [
+      "images": [],
+      "explanationImages": [
         "images/2021/q055_img3.png"
       ]
     },
@@ -1969,61 +2038,61 @@
     {
       "id": "q071",
       "number": 71,
-      "question": "다음은 외상받은 후 치아의 치수생활력 검사에 대한 설명이다. 옳은 것은?\nEPT 는 혈류를 측정하는 장치이다.\n외상 후에는 전기치수검사는 부정확하므로 시행할 필요가 없다.\n전기치수검사를 2번 시행하여 모두 음성이 나오면 회복하지 못할 것으로 간주한다.\n외상 직후 전기치수검사시 양성이면 이후에 생활력은 괜찮을 것으로 사료된다.",
+      "question": "다음은 외상받은  후 치아의 치수생활력 검사에 대한 설명이다. 옳은 것은?",
       "choices": [
         {
           "label": 1,
-          "text": "외상 직후에는 음성이었으나 추후 재검사 시 양성이면 치수생활력은 회복된 것으로 간주한다."
+          "text": "EPT 는 혈류를 측정하는 장치이다."
         },
         {
           "label": 2,
-          "text": "[Pathway of pulp p.668] 5"
+          "text": "외상 후에는 전기치수검사는 부정확하므로 시행할 필요가 없다."
         },
         {
           "label": 3,
-          "text": "사실상 생활력 검사는 신경기능을 검사하는 것으로 치수 내 혈류 공급의 유무를 판단하지는 못한다."
+          "text": "전기치수검사를 2번 시행하여 모두 음성이 나오면 회복하지 못할 것으로 간주한다."
         },
         {
           "label": 4,
-          "text": "계속해서 음성반응을 보이는 경우에는 치수가 비가역적인 손상을 받았음을 의미하나 반드시 그렇지는 않다."
+          "text": "외상 직후 전기치수검사시 양성이면 이후에 생활력은 괜찮을 것으로 사료된다."
         },
         {
           "label": 5,
-          "text": "처음 검사에서 양성반응을 보였던 치아가 건강하다고 추측할 수 없으며 시간이 경과된 후에도 계속해서 양성반응을 보인다고 추측할 수는 없다."
+          "text": "외상 직후에는 음성이었으나 추후 재검사 시 양성이면 치수생활력은 회복된 것으로 간주한다."
         }
       ],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "5",
+      "explanation": "[Pathway of pulp p.668]\n사실상 생활력 검사는 신경기능을 검사하는 것으로 치수 내 혈류 공급의 유무를 판단하지는 못한다.\n계속해서 음성반응을 보이는 경우에는 치수가 비가역적인 손상을 받았음을 의미하나 반드시 그렇지는 않다.\n처음 검사에서 양성반응을 보였던 치아가 건강하다고 추측할 수 없으며 시간이 경과된 후에도 계속해서 양성반응을 보인다고 추측할 수는 없다.",
       "images": []
     },
     {
       "id": "q072",
       "number": 72,
-      "question": "다음 중 옳은 것을 고르시오.\n해부학적 치근첨과 근단공의 위치는 동일하다.\n나이가 들수록 근첨과 근단공의 거리는 짧아진다.\n치근흡수는 치근의 형태에 영향을 미치나 치근협착부에는 영향을 끼치지 않는다.\n치근협착부와과 주근단공의 위치는 평균적으로 1mm이다.\n치근협착부는 약 46%에서만 정상적이며 나머지는 경사진 협착부, 여러개의 협착부가 존재한다.",
+      "question": "다음 중 옳은 것을 고르시오.",
       "choices": [
         {
           "label": 1,
-          "text": "[Pathway of pulp p.159, 최신근관치료학 p.322] 5"
+          "text": "해부학적 치근첨과 근단공의 위치는 동일하다."
         },
         {
           "label": 2,
-          "text": "동일하지 않음."
+          "text": "나이가 들수록 근첨과 근단공의 거리는 짧아진다."
         },
         {
           "label": 3,
-          "text": "나이가 들수록 백악질 침착 때문에 더 커진다."
+          "text": "치근흡수는 치근의 형태에 영향을 미치나 치근협착부에는 영향을 끼치지 않는다."
         },
         {
           "label": 4,
-          "text": "치근 흡수는 흔히 치수 괴사, 근단부 골 흡수와 동반발생하여 협착부의 소실을 초래할 수 있다."
+          "text": "치근협착부와과 주근단공의 위치는 평균적으로 1mm이다."
         },
         {
           "label": 5,
-          "text": "CDJ와 주근단공간의 거리가 약 1mm"
+          "text": "치근협착부는 약 46%에서만 정상적이며 나머지는 경사진 협착부, 여러개의 협착부가 존재한다."
         }
       ],
-      "answer_raw": "",
-      "explanation": "",
+      "answer_raw": "5",
+      "explanation": "[Pathway of pulp p.159, 최신근관치료학 p.322]\n동일하지 않음.\n나이가 들수록 백악질 침착 때문에 더 커진다.\n치근 흡수는 흔히 치수 괴사, 근단부 골 흡수와 동반발생하여 협착부의 소실을 초래할 수 있다.\nCDJ와 주근단공간의 거리가 약 1mm",
       "images": []
     },
     {
@@ -2115,7 +2184,7 @@
         }
       ],
       "answer_raw": "",
-      "explanation": "답이 없는 것 같습니다.(교수님은 4번 의도하신 것 같으나 역시 틀린 내용입니다.)\n해설 : 근관치료학 p.249-252, 패스웨이 10판 p.138-141 / 11판 기준으로는 내용이 많이 축소되었고 그마저도 온라인판(p.182)에 있어서 본 문제 풀 수 없습니다.\n고압증기멸균 장점 3번에 면이나 의류의 손상이 없다고 나와있네요.\n거타퍼챠의 멸균은 5.25% NaOCl 용액에 1분 담가두는 것으로 되어있습니다.\nEthylene oxide는 12시간 정도, 고압증기멸균은 15~40분 진행합니다.\n패스웨이 10판 p141 표 6-1 기준 Glutaraldehyde 방법이 spore를 제외한 모든 미생물을 박멸하는 high level disinfectant의 예로 들어가 있으나 표 밑에 보시면 High-level disinfectants are used as room-temperature sterilizing solutions with extended contact times.라고 써있고, 이 내용의 reference인 CDC guideline 들어가보면 10시간 담글시 sterilization, 12-30분 담글시 high-level disinfectant로 사용된다고 나와있습니다.그리고 11판 패스웨이에는 해당 내용 없습니다.\n열전달법은 bur와 같이 작은 기구나 file, paper point 등 근관치료 기구를 짧은 시간 내에 간단히 멸균시키는데 사용되나, 일상의 멸균법으로 사용하기에는 부적당하다.",
+      "explanation": "답이 없는 것 같습니다.(교수님은 4번 의도하신 것 같으나 역시 틀린 내용입니다.)\n해설 : 근관치료학 p.249-252, 패스웨이 10판 p.138-141 / 11판 기준으로는 내용이 많이 축소되었고 그마저도 온라인판(p.182)에 있어서 본 문제 풀 수 없습니다.\n고압증기멸균 장점 3번에 면이나 의류의 손상이 없다고 나와있네요.\n거타퍼챠의 멸균은 5.25% NaOCl 용액에 1분 담가두는 것으로 되어있습니다.\nEthylene oxide는 12시간 정도, 고압증기멸균은 15~40분 진행합니다.\n패스웨이 10판 p141 표 6-1 기준 Glutaraldehyde 방법이 spore를 제외한 모든 미생물을 박멸하는 high level disinfectant의 예로 들어가 있으나 표 밑에 보시면 High-level disinfectants are used as room-temperature sterilizing solutions with extended contact times.라고 써있고, 이 내용의 reference인 CDC guideline 들어가보면 10시간 담글시 sterilization, 12-30분 담글시 high-level disinfectant로 사용된다고 나와있습니다.\n그리고 11판 패스웨이에는 해당 내용 없습니다.\n열전달법은 bur와 같이 작은 기구나 file, paper point 등 근관치료 기구를 짧은 시간 내에 간단히 멸균시키는데 사용되나, 일상의 멸균법으로 사용하기에는 부적당하다.",
       "images": []
     },
     {
@@ -2183,7 +2252,7 @@
     {
       "id": "q078",
       "number": 78,
-      "question": "다음 중 올바른 것은?\n2.Reaming은 근관내에 끼일때까지 진입한 후 파일을 당겨서 제거하는 것을 의미한다\n4. K file은 시계방향으로 회전하는 것이 시계 반대 방향으로 회전하는 것보다 파일 파절 가능성이 더 높다",
+      "question": "다음 중 올바른 것은?",
       "choices": [
         {
           "label": 1,
@@ -2213,7 +2282,7 @@
     {
       "id": "q079",
       "number": 79,
-      "question": "가장 빠른 속도로 사용 하는 Niti file은?\n2.Race\n4.Waveone",
+      "question": "가장 빠른 속도로 사용 하는 Niti file은?",
       "choices": [
         {
           "label": 1,
@@ -2243,7 +2312,7 @@
     {
       "id": "q080",
       "number": 80,
-      "question": "다음 기구와 함께 쓰는 기구는?\n2.reciproc\n4.safety irrigation",
+      "question": "다음 기구와 함께 쓰는 기구는?",
       "choices": [
         {
           "label": 1,
@@ -2275,19 +2344,19 @@
     {
       "id": "q081",
       "number": 81,
-      "question": "Naocl에 대한 설명중 옳지 않은것은?\n2. Naocl은 EDTA와 함께 사용하면 화학적작용으로 시너지효과유발하여 항세균효과 가진다\n4.세균과 biofilm에 대해 항세균효과 가지며 특히 actinomyces,candida에도 효과가 있다",
+      "question": "Naocl에 대한 설명중 옳지 않은것은?",
       "choices": [
         {
           "label": 1,
-          "text": "NaOCl은 상아질과 도말층을 제거하지 못한다"
+          "text": "Naocl은 상아질과 도말층을 제거하지 못한다"
         },
         {
           "label": 2,
-          "text": "NaOCl은 EDTA와 함께 사용하면 화학적작용으로 시너지효과 유발하여 항세균효과 가진다"
+          "text": "Naocl은 EDTA와 함께 사용하면 화학적작용으로 시너지효과유발하여 항세균효과 가진다"
         },
         {
           "label": 3,
-          "text": "초음파로 세척할 경우 주근관에서 NaOCl의 온도가 상승하여 소독작용을 가진다"
+          "text": "초음파로 세척할경우 주근관에서 naocl의 온도가 상승하여 소독작용을 가진다"
         },
         {
           "label": 4,
@@ -2295,7 +2364,7 @@
         },
         {
           "label": 5,
-          "text": "낮은 농도에서는 괴사조직을 용해하며 고농도에서는 괴사조직과 생활조직을 용해시킨다"
+          "text": "낮은농도에서는 괴사조직을 용해하며 고농도 에서는 괴사조직과 생활조직을 용해시킨다"
         }
       ],
       "answer_raw": "1",
@@ -2363,23 +2432,23 @@
       "choices": [
         {
           "label": 1,
-          "text": "1-beta phase GP로 코팅되어있다"
+          "text": "beta phase GP로 코팅되어있다"
         },
         {
           "label": 2,
-          "text": "2- 도말층제거하는 것은 sealing능력을 향상시킨다"
+          "text": "도말층제거하는 것은 sealing능력을 향상시킨다"
         },
         {
           "label": 3,
-          "text": "3- 빠른삽입속도가 충전을 향상시킨다"
+          "text": "빠른삽입속도가 충전을 향상시킨다"
         },
         {
           "label": 4,
-          "text": "4- 거타퍼차가 캐리어에서 벗겨져 근관의 치근단부위에 충전재료로 캐리어만 남아있을수 있다"
+          "text": "거타퍼차가 캐리어에서 벗겨져 근관의 치근단부위에 충전재료로 캐리어만 남아있을수 있다"
         },
         {
           "label": 5,
-          "text": "5- ..평이했던지문.."
+          "text": "..평이했던지문.."
         }
       ],
       "answer_raw": "1",
@@ -2393,23 +2462,23 @@
       "choices": [
         {
           "label": 1,
-          "text": "1-Halothane은 클로로포름보다 효과가 낮다"
+          "text": "Halothane은 클로로포름보다 효과가 낮다"
         },
         {
           "label": 2,
-          "text": "2- 클로르포름은 발암유발해 금지됬다"
+          "text": "클로르포름은 발암유발해 금지됬다"
         },
         {
           "label": 3,
-          "text": "3- Xylene은 가열시 클로르포름과 비슷하다"
+          "text": "Xylene은 가열시 클로르포름과 비슷하다"
         },
         {
           "label": 4,
-          "text": "4- 재근관치료시 gp제거잘되지않아도 전기근관장측정기 측정이 잘된다"
+          "text": "재근관치료시 gp제거잘되지않아도 전기근관장측정기 측정이 잘된다"
         },
         {
           "label": 5,
-          "text": "5- 300-1500rpm으로 gp제거시 나이타이파절유발을잘시킨다."
+          "text": "300-1500rpm으로 gp제거시 나이타이파절유발을잘시킨다."
         }
       ],
       "answer_raw": "3",
@@ -2419,14 +2488,26 @@
     {
       "id": "q087",
       "number": 87,
-      "question": "Tawil의 2018년 논문 Periapical Microsurgery: Do Root Canal–retreated Teeth Have More Dentinal Defects?에 대한 설명으로 맞는 것은?\n⑤ 재치료에서 1차 치료보다 dentinal defect가 더 많았다.",
+      "question": "Tawil의 2018년 논문 Periapical Microsurgery: Do Root Canal–retreated Teeth Have More Dentinal Defects?에 대한 설명으로 맞는 것은?",
       "choices": [
         {
           "label": 1,
-          "text": "치근단 재수술의 경우 dentinal defect가 더 많았다."
+          "text": "미복원"
         },
         {
           "label": 2,
+          "text": "미복원"
+        },
+        {
+          "label": 3,
+          "text": "치근단 재수술의 경우 dentinal defect가 더 많았다."
+        },
+        {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
+          "label": 5,
           "text": "재치료에서 1차 치료보다 dentinal defect가 더 많았다."
         }
       ],
@@ -2435,7 +2516,7 @@
       "images": [
         "images/2021/q083_img2.png"
       ],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q088",
@@ -2515,6 +2596,10 @@
           "text": "presence of a satisfactory coronal restoration"
         },
         {
+          "label": 4,
+          "text": "미복원"
+        },
+        {
           "label": 5,
           "text": "extension of canal cleaning as close as possible to its apical terminus"
         }
@@ -2522,7 +2607,7 @@
       "answer_raw": "1",
       "explanation": "presence -> absence",
       "images": [],
-      "answer_only": true
+      "answer_only": false
     },
     {
       "id": "q091",
@@ -2552,12 +2637,14 @@
       ],
       "answer_raw": "5",
       "explanation": "-\n이 사진 좌 우 측의 사진이 주어졌던 것 같아요",
-      "images": []
+      "images": [
+        "images/2021/q083_img3.jpg"
+      ]
     },
     {
       "id": "q092",
       "number": 92,
-      "question": "2011년 song 등의 논문에서 다음 사진의 화살표가 가르키는 근관치료의 실패원인은?\n2.leaky canal\n4.Iatrogenic problem",
+      "question": "2011년 song 등의 논문에서 다음 사진의 화살표가 가르키는 근관치료의 실패원인은?",
       "choices": [
         {
           "label": 1,
@@ -2583,7 +2670,6 @@
       "answer_raw": "2",
       "explanation": ".leaky canal (필독C-4-1-4)",
       "images": [
-        "images/2021/q083_img3.jpg",
         "images/2021/q083_img4.jpg"
       ]
     },
