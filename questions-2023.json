@@ -2151,7 +2151,11 @@
       "images": [],
       "explanationImages": [
         "images/2023/q073_img1.jpeg"
-      ]
+      ],
+      "answer_status": "uncertain",
+      "source_answer": "⑤ (원본 답: ?; 5번이 옳지 않은 보기인 것 같습니다.)",
+      "answer_only": false,
+      "choice_display": "circled"
     },
     {
       "id": "q073",
@@ -2431,7 +2435,7 @@
     {
       "id": "q082",
       "number": 82,
-      "question": "Flare up에서 술후 통증을 예측할 수 있는 가장 큰 예측인자는?\n②\n④ 술전 진통제 복용여부",
+      "question": "Flare up에서 술후 통증을 예측할 수 있는 가장 큰 예측인자는?",
       "choices": [
         {
           "label": 1,
@@ -2602,13 +2606,14 @@
       "choices": [
         {
           "label": 5,
-          "text": "IKI와 클로르헥시딘을 혼용해서 사용할 경우 수산화칼슘에 저항성이 있는 세균을 좀 더\n효과적으로 박멸할 수 있다"
+          "text": "IKI와 클로르헥시딘을 혼용해서 사용할 경우 수산화칼슘에 저항성이 있는 세균을 좀 더 효과적으로 박멸할 수 있다"
         }
       ],
       "answer_raw": "5",
       "explanation": "(POP p.335)\n다른 보기는 기억이 잘 안나서요 죄송합니다다다…",
       "images": [],
-      "answer_only": true
+      "answer_only": false,
+      "choice_display": "circled"
     },
     {
       "id": "q089",
